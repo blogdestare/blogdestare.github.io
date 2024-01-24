@@ -56,8 +56,12 @@ Any day from Wordpress is stored in a folder (ex: `ziua-1`).
 
 5. In the left sidebar, click on the 3rd icon to open the "Source Control" pane.
    Type a message (such as "ziua 1 adaugata") and click Commit.
-   Confirm (by clicking "Yes") to stage all your changes.
+   Confirm (by clicking "Yes") to stage all your changes and commit them.
+   Click "Sync Changes" to push them to GitHub.
 
+6. The changes will be published in a manner of minutes.
+   To see the progress, go to:
+   https://github.com/blogdestare/blogdestare.github.io/actions 
 
 ### Assets
 
