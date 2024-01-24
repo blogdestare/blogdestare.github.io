@@ -61,7 +61,11 @@ Any day from Wordpress is stored in a folder (ex: `ziua-1`).
 
 6. The changes will be published in a manner of minutes.
    To see the progress, go to:
-   https://github.com/blogdestare/blogdestare.github.io/actions 
+   https://github.com/blogdestare/blogdestare.github.io/actions
+   When all done, all are green.
+
+7. Go to https://blogdestare.github.io/ to see the published result
+   that's available online.
 
 ### Assets
 
