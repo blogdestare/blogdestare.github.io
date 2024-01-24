@@ -1,4 +1,4 @@
-## Blog de stare
+## Blog de Stare
 
 ---
 
