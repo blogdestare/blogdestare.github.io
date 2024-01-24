@@ -40,7 +40,6 @@ footer_pages = ""
 # The main navigation menu.
 # An array of main navigation menu items. Each item has a title and a url.
 menu_pages = [
-    { title = "Home",                  url = "/" },
     { title = "Blog",                  url = "/blog/" },
     { title = "Despre mine",           url = "/pages/about/"   },
     { title = "Ai un gând pt mine?",   url = "/pages/contact/"   },
