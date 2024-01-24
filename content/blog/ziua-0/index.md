@@ -39,6 +39,6 @@ Mi-aduc aminte că seara, în baie, plângeam înfundat ca domnul meu să nu mă
 
 Toate sentimentele pe care le trăiam dar nu le exteriorizam, toate trăirile pe care nu le scoteam afară, toate gândurile care mă umpleau fie de rău fie de bine, și-au găsit supapa într-un video pe care l-am privit la sugestia unei persoane dragi. Așa s-a născut ideea articulării experienței zilnice, prin 15 minute de scris.
 
-[https://www.youtube.com/watch?v=48vtduOhn9E](https://www.youtube.com/watch?v=48vtduOhn9E)
+<a href="https://www.youtube.com/watch?v=48vtduOhn9E" target="_blank">https://www.youtube.com/watch?v=48vtduOhn9E</a>
 
 Și așa am ajuns la ziua de 12 ianuarie 2022 (care este și ziua în care, acum 22 de ani, deveneam mamă)...

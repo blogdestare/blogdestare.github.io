@@ -6,20 +6,16 @@
 
 <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
     <article class="prose">
-        <div class="h-96 rounded-md">
-            <img class="h-96 w-1/2 object-cover" src="{{ banner }}"
+        <div class="h-96 rounded-md flex justify-center">
+            <img class="h-96 w-128 object-cover" src="{{ banner }}"
                 alt="{{ page.title | default(value=res.empty_page_title) | striptags }}">
         </div>
-        <h1>{{ page.title | default(value=res.empty_page_title) | striptags }}</h1>
+        <h1 class="flex justify-center">{{ page.title | default(value=res.empty_page_title) | striptags }}</h1>
         <div>
             <p>
                 <span class="mr-2 text-sm">
                     <time datetime="{{ page.date | date(format='%Y-%m-%d') }}">{{ page.date | date(locale=date_locale,
-                        format=date_format) }}</time> &middot;
-                    {{ page.word_count | num_format(locale=locale) }} {{ page.word_count | pluralize(singular=res.words.one,
-                    plural=res.words.other) }} &middot;
-                    {{ page.reading_time | num_format(locale=locale) }} {{ page.reading_time | pluralize(singular=res.minutes.one,
-                    plural=res.minutes.other) }} {{ res.reading_time }}
+                        format=date_format) }}</time>
                 </span>
                 {% include "partials/tags.html" %}
             </p>
