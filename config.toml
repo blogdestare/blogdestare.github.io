@@ -10,6 +10,11 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library.
 build_search_index = true
 
+# The taxonomies to use for the site
+taxonomies = [
+    { name = "tags", paginate_by = 6, feed = true},
+]
+
 [markdown]
 
 # Whether to do syntax highlighting.
@@ -35,6 +40,7 @@ footer_pages = ""
 # The main navigation menu
 menu_pages = [
     { title = "Home",                  url = "/" },
+    { title = "Blog",                  url = "/blog/" },
     { title = "Despre mine",           url = "/pages/about/"   },
     { title = "Ai un gând pt mine?",   url = "/pages/contact/"   },
 ]
