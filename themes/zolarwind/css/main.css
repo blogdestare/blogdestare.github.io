@@ -117,7 +117,7 @@
 		@apply text-lg font-bold;
 	}
 	a {
-		@apply text-green-900 no-underline;
+		@apply text-blue-500 no-underline;
 	}
 	a:hover {
 		@apply text-green-600;

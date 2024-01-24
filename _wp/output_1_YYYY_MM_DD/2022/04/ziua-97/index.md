@@ -1,20 +1,20 @@
 ---
-title: "Ziua 97"
-date: "2022-04-18"
-categories: 
-  - "viata-asa-cum-e"
-coverImage: "ziua-97-final.jpg"
+title: 'Ziua 97'
+date: '2022-04-18'
+categories:
+    - 'viata-asa-cum-e'
+coverImage: 'ziua-97-final.jpg'
 ---
 
-Iuhuu! Prima mea noapte și dimineață normale după multișor timp. Fără frichineli, cutremure, schelălăituri, sforăituri și tot tacâmul. Chiar uitasem cum e și, când am deschis încetișor ochii, am avut un moment de mică panică: oi mai fi în viață? Hahaha! Superb să te trezești într-un ritm care pornește lent și crește o dată cu trezirea, fără înghionteli și fără grăbiri. Doamne, ce mi-a plăcut! Can I have another one, and another one, and another one? 
+Iuhuu! Prima mea noapte și dimineață normale după multișor timp. Fără frichineli, cutremure, schelălăituri, sforăituri și tot tacâmul. Chiar uitasem cum e și, când am deschis încetișor ochii, am avut un moment de mică panică: oi mai fi în viață? Hahaha! Superb să te trezești într-un ritm care pornește lent și crește o dată cu trezirea, fără înghionteli și fără grăbiri. Doamne, ce mi-a plăcut! Can I have another one, and another one, and another one?
 
 Când ți-e pasul liniștit, când se aliniază toate cum și în cât timp le e nevoie, altfel se așează lucrurile în tine și în mintea ta. Parcă ai mai mult spațiu de manevră, nu te mai simți strâns, ți se întind aripile și câștigă în anvergură, ce să mai, e tare bine!
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 În pacea asta mișto, am ieșit și cu Spikylina afară, în friguț, am făcut pregătelile dimineții în pas mic, mi-am adunat gândurile care deja încep să se împrăștie și le-am ordonat pe făgașul zilei care s-a născut și-am pornit cu inima mare și deschisă către mama și Sassy. Nici faptul că mama e între două lumi, nu e nici total prezentă dar nici total absentă, are scăpări de atitudine în ambele, nu mi-a îngustat starea de spirit faină și nici nu mi-a pus nori pe suflet. Îmi văd de treabă, le dau să pape, le vorbesc blând cu zâmbet în glas și parcă le las o țâră mai sus decât le-am găsit.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 M-am întâlnit din nou cu prietenul meu drag, timpul meu magic, ca în vremurile trecute.
 
@@ -22,11 +22,11 @@ Mi-am permis relaxare totală și am pornit într-o visare cu o emisiune care-mi
 
 Am cochetat și încă mai cochetez cu ideea unui trai mai izolat, mai întors spre și la natură. Nu m-am dat în vânt niciodată după oameni, nu sunt genul care să facă băi de mulțime dar dacă aș avea o mână de oameni dragi dispuși să facem o mică comunitate cât mai departe de civilizație, nu cred că aș zice nu. Încă sunt în cumpănă între un castel sau o mică sălbăticie. Sau poate amândouă, cine știe ce-mi rezervă viața?!
 
-În genere, eu am luat decizii rapid. Nu sunt genul care să facă algoritmi decizionali pentru că, tot în genere, dacă iau o decizie proastă, eu trag ponoasele. Dar și foloasele, dacă se dovedește mișto. Am luat câteva decizii tare bune la viața mea și-mi place să cred că, taman când cică mă înțelepțesc, nu o să zbârcesc spre final. Nu s-a copt ideea în mine așa că nu grăbesc nicio pârguire. 
+În genere, eu am luat decizii rapid. Nu sunt genul care să facă algoritmi decizionali pentru că, tot în genere, dacă iau o decizie proastă, eu trag ponoasele. Dar și foloasele, dacă se dovedește mișto. Am luat câteva decizii tare bune la viața mea și-mi place să cred că, taman când cică mă înțelepțesc, nu o să zbârcesc spre final. Nu s-a copt ideea în mine așa că nu grăbesc nicio pârguire.
 
-Visarea de azi a hrănit mult părticica aia din mine care vrea libertate de viață. Să nu fii constrâns de nimeni și de nimic, evident cu un preț al confortului de plătit, este o fantezie dulce și dragă inimii mele. Oamenii ăștia "sălbatici" au atâta respect față de natură, față de viață și o așa simplitate în gândire, încât nu poți să nu-ți dorești să faci și tu parte din asta. Au lăsat toate straiele alea inutile puse peste gândire și peste suflet și peste purtare și au o lumină vie în ochi și o vorbă molcomă în gură. Nu-i grăbește nimeni către nimic și nu mai aleargă după himere. 
+Visarea de azi a hrănit mult părticica aia din mine care vrea libertate de viață. Să nu fii constrâns de nimeni și de nimic, evident cu un preț al confortului de plătit, este o fantezie dulce și dragă inimii mele. Oamenii ăștia "sălbatici" au atâta respect față de natură, față de viață și o așa simplitate în gândire, încât nu poți să nu-ți dorești să faci și tu parte din asta. Au lăsat toate straiele alea inutile puse peste gândire și peste suflet și peste purtare și au o lumină vie în ochi și o vorbă molcomă în gură. Nu-i grăbește nimeni către nimic și nu mai aleargă după himere.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 M-a trezit din visarea mea whatsappul, cu mesaje de la copila mea. Dragul ei are febră și a avut frisoane toată noaptea.
 
@@ -34,13 +34,13 @@ Prima mea reacție a fost de panică: ieri au fost la noi, au purtat mască ce-i
 
 Nesperat de rapid, am calmat în mine o potențială mică furtună cu nori pe suflet și am pregătit micul dejun pentru coana mare.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 Mâncarea a fost și rămâne principala zonă gri între mine și mama. De câte ori o întreb ce vrea să mănânce, invariabil, primul răspuns e nu știu. Dacă îi ofer variante, le respinge rând pe rând până rămânem la omleta ei care mă disperă. Că "nu le are ea cu cerealele și cu laptele", că nu vrea roșii cu brânză, că nu aia, că nu ailaltă, îmi trebe multă răbdare la capitolul ăsta. Pe bune, câte variante de mic dejun poți să dai unui om mofturos?!
 
 În fine, am bifat și dimineața asta, a vrut și cafea că l-a văzut pe Mr. H că-și face una, am pregătit-o că plec până la Metro și apoi o fugă și la copii, să le duc medicamente și ce mai au nevoie și, atât timp cât de pe drum de undeva, îi iau și ei prăjiturele, pot să mă duc și în lună. Interesul poartă fesul, as usual.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 Am început alergătura.
 
@@ -50,9 +50,9 @@ Alte aproape 2 ore mai târziu, mă pornesc spre casă pentru că s-a făcut de 
 
 Îmi vâjâie puțin capul, nici apă nu am băut de când am plecat de acasă dar vreau să pun masa, să o chem pe mama la prânz și apoi să văd restul.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
-Ziceam eu că zona de mâncare e o zonă gri?! Ei, azi s-a înnegrit de-a binelea, că ciorba e prea acră iar din felul doi ia doar câteva guri și gata. Mare risipă! Deși domnul meu mă alimentează, încerc să nu o judec și să mă abțin de la comentarii. 
+Ziceam eu că zona de mâncare e o zonă gri?! Ei, azi s-a înnegrit de-a binelea, că ciorba e prea acră iar din felul doi ia doar câteva guri și gata. Mare risipă! Deși domnul meu mă alimentează, încerc să nu o judec și să mă abțin de la comentarii.
 
 Dacă cineva nu apreciază ce am eu de oferit, nu înseamnă că ce ofer eu nu e bun. Înseamnă că omul vrea portocale și eu ofer mere. As simple as that. Nu-i cu supărare. Sau așa ar trebui. Pentru că în realitatea mea, am perceput asta mereu ca o respingere și am suferit și m-am micit. Târzior m-am prins și eu cum stă treaba așa că acum dacă vreau să ofer sau să cumpăr mere, mă duc la piață doar la tarabele cu mere. Iar dacă cineva vrea de la mine portocale, e fix problema lui, nu a mea.
 
@@ -62,17 +62,17 @@ Așa că poate nu-mi iese din prima azi, dar am avut o tresărire, parcă m-a sc
 
 În toată agitația asta interioară și în datul din mâini în exteriorul meu, că treaba trebe făcută chiar dacă am eu întrebări existențiale, nici nu știu când s-a făcut timpul de table.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
-Iar n-am chef de table. Dacă fac o statistică, învinge covârșitor majoritatea dăților când nu am chef. Dar azi mă enervează de la bun început. Hai că e tare asta! Tocmai azi, când am încercat aproape toată ziua să mă dezlipesc de carcasa asta de carne și să privesc din perspectiva spiritului. Să-mi dau seama că toate astea "lumești" sunt mici și trecătoare și să nu mă las afectată de ele. Uite că, spre seară, pesemne că voința și vigilența mea slăbesc și alunec cu totul în uman. Și, ca orice ființă umană căreia îi este limitată alegerea, mă apucă nervii. Pentru că mi se pare tare nașpa ca ziua mea să se termine brusc pe la 17:00 după-amiaza. 
+Iar n-am chef de table. Dacă fac o statistică, învinge covârșitor majoritatea dăților când nu am chef. Dar azi mă enervează de la bun început. Hai că e tare asta! Tocmai azi, când am încercat aproape toată ziua să mă dezlipesc de carcasa asta de carne și să privesc din perspectiva spiritului. Să-mi dau seama că toate astea "lumești" sunt mici și trecătoare și să nu mă las afectată de ele. Uite că, spre seară, pesemne că voința și vigilența mea slăbesc și alunec cu totul în uman. Și, ca orice ființă umană căreia îi este limitată alegerea, mă apucă nervii. Pentru că mi se pare tare nașpa ca ziua mea să se termine brusc pe la 17:00 după-amiaza.
 
-Și, atunci când te enervează ceva, tot ce gravitează prin jur devine motiv de exacerbare a stării de nervozitate. 
+Și, atunci când te enervează ceva, tot ce gravitează prin jur devine motiv de exacerbare a stării de nervozitate.
 
 Am obosit să trag de ea să facă duș. Am obosit să o rog să-i fac masaj. Sau să ia pastilele. Iar azi, mai mult ca oricând, îmi vine să le las baltă, să stea așa, să nu fac nimic din toate astea. Dar știu că ea nu e ea și că eu trebe să mă îngrijesc și de corpul ei. Și uite cum, pe nesimțitelea și cu încrâncenare finalizată întotdeauna cu încântare, trec peste trei ore din viața mea, ore pe care nu le trăiesc în viața mea.
 
 Am o stare neutră, parțial de la oboseala fizică pe care o resimt în pleoapele de plumb și în amorțeala din interior, pe care o percep de fiecare dată când îmi înfrâng timpul. Când îl dau dar nu l-aș da.
 
-\*\*\*
+<p style="text-align: center;">***</p>
 
 Cu toate astea, nu am cum să nu bifez la căsuța recunoștinței:
 

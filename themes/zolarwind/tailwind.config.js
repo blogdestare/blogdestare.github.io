@@ -16,6 +16,17 @@ module.exports = {
                     green0: '#86efac',
                     green1: '#4ade80',
                 },
+                height: {
+                    '6': '1.5rem',
+                    '8': '2rem',
+                    '16': '4rem',
+                    '64': '16rem',
+                    '72': '18rem',
+                    '80': '20rem',
+                    '96': '24rem',
+                    '128': '32rem',
+                    'full': '100%',
+                }
             },
         },
     },
