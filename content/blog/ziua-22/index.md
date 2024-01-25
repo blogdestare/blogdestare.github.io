@@ -1,8 +1,7 @@
-
 +++
 date = 2022-02-02
 title = "Ziua 22"
-description = "Motivul pentru care am fost azi recunoscătoare este că m-am trezit. Nu m-am bucurat de ziua de azi dar am făcut tranziția către ziua de mâine, unde, sper eu, să mai bag o fisă în vendomatul Universului și să-mi cadă "jucăria" dorită: o mâine mai blândă cu mine."
+description = "Motivul pentru care am fost azi recunoscătoare este că m-am trezit. Nu m-am bucurat de ziua de azi dar am făcut tranziția către ziua de mâine, unde, sper eu, să mai bag o fisă în vendomatul Universului și să-mi cadă \"jucăria\" dorită: o mâine mai blândă cu mine."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
@@ -11,13 +10,14 @@ math = false
 diagram = false
 image = "images/ziua-22-final.jpg"
 +++
----
 
-La 5.30 când m-am trezit era deja lumina la mama în cameră. Era în pat, se juca pe tabletă, semn că nu e nimic aiurea ci doar nu a avut somn.
+
+
+La 5.30 când m-am trezit era deja lumina la mama în cameră. Era în pat, se juca pe tabletă, semn că nu e nimic aiurea, ci doar nu a avut somn.
 
 M-am strecurat încet din cameră și am coborât la bucătărie.
 
-Știu că ar fi frumos să îmi încep ziua cu o întindere, cu un zâmbet și pe dinăuntru și pe dinafară, cu avânt de zi proaspătă dar nu-mi iese. Mă observ că devin din ce în ce mai acră dimineața și mă cert cu situația din ce în ce mai des. În loc să îi fac spațiu în mine să se așeze o dată și să integrez, eu mă ciondănesc cu ea de la prima oră. Pentru că sunt obosită și rutina asta zilnică mă omoară încet.
+Știu că ar fi frumos să îmi încep ziua cu o întindere, cu un zâmbet și pe dinăuntru și pe dinafară, cu avânt de zi proaspătă, dar nu-mi iese. Mă observ că devin din ce în ce mai acră dimineața și mă cert cu situația din ce în ce mai des. În loc să îi fac spațiu în mine să se așeze odată și să integrez, eu mă ciondănesc cu ea de la prima oră. Pentru că sunt obosită și rutina asta zilnică mă omoară încet.
 
 <p style="text-align: center;">***</p>
 
