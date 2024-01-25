@@ -23,7 +23,10 @@ Uitându-mă pe camera de supraveghere, ca o verificare, am văzut-o cum se schi
 
 Diminețile, cât îmi beau smoothie și cafeaua, stau cu Maya, cățelușa noastră. Sunt momentele noastre de drăgăleală, de jughineală, când îi spun cât o iubesc, că mi-e bine sau că mi-e rău. De multe ori am simțit că acest animăluț este ca un absorbant de stări. Și îmi aduc aminte că Sassy, pisica mamei, a fost fix așa pentru mama. După ce mama a reușit să scape de cele 2 cancere și s-a reîntors acasă, a descoperit că și pisicuța ei avea cancer. Eu suspectez că Sassy a avut cancerul dinaintea mamei doar că nu l-am descoperit noi… a fost operată și acum își trăiește bătrânețile alături de mama, răsfățată la maxim de noi două. Eu o văd ca pe o soră mai mare și recunosc că, în adâncul sufletului meu, îi sunt extrem de recunoscătoare că a fost punctul de sprijin al mamei în toată singurătatea ei.
 
-![](images/sassy-1-768x1024.jpeg)
+
+<div class="flex justify-center">
+  <img src="images/sassy-1-768x1024.jpeg" />
+</div>
 
 <p style="text-align: center;">***</p>
 
