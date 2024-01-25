@@ -1,7 +1,7 @@
 +++
 date = 2022-01-12
 title = "Ziua 1"
-description = "short description din storage"
+description = "Realizez că iubirea face minuni cu muchiile unui om. Ești rotund într-o împăcare. Chiar dacă liniștea asta e precară, chiar dacă mai e tulburată de gânduri de tristețe, de limitare, de revoltă, în acest moment e bună. Și încep să SIMT că ACEST moment e tot ce contează."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
