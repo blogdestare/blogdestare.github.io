@@ -9,7 +9,7 @@
     [extra]
     math = false
     diagram = false
-    image = "images/Ziua-1-final.jpg"
+    image = "images/Ziua-2-final.jpg"
     +++
 ---
 
