@@ -1,9 +1,3 @@
----
-title: 'Ziua 15'
-date: '2022-01-26'
-categories:
-    - 'viata-asa-cum-e'
-coverImage: 'ziua-15-final.jpg'
 
 +++
 date = 2022-01-26
