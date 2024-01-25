@@ -2,7 +2,7 @@
 +++
     date = 2022-01-15
     title = "Ziua 4"
-    description = "Caut în sertarul cu motivație ceva care să mă țină pe linia de plutire: azi n-am plâns deloc. Și n-aș vrea să o fac. **Fericirea e o deprindere** și încerc să găsesc conotații mari pentru lucrurile mici din fiecare zi a mea din noua viață, ca să mă ridic. "
+    description = "Caut în sertarul cu motivație ceva care să mă țină pe linia de plutire: azi n-am plâns deloc. Și n-aș vrea să o fac. Fericirea e o deprindere și încerc să găsesc conotații mari pentru lucrurile mici din fiecare zi a mea din noua viață, ca să mă ridic. "
     authors = ["Biannca Locatelli"]
     [taxonomies]
     tags = []
