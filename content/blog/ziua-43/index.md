@@ -2,7 +2,7 @@
 +++
 date = 2022-02-23
 title = "Ziua 43"
-description = "Dacă azi primul gând care mi-ar fi brăzdat limpezimea dimineții ar fi fost \“e o nouă zi magică!”\ și nu teama aia care s-a strecurat printre pleoapele întredeschise ce cercetau durerile pe care le-am lăsat ieri în corp, poate că altul ar fi startul azi. Azi nu mi-a ieșit, mai bag și mâine o fisă."
+description = "Dacă azi primul gând care mi-ar fi brăzdat limpezimea dimineții ar fi fost 'e o nouă zi magică!' și nu teama aia care s-a strecurat printre pleoapele întredeschise ce cercetau durerile pe care le-am lăsat ieri în corp, poate că altul ar fi startul azi. Azi nu mi-a ieșit, mai bag și mâine o fisă."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
