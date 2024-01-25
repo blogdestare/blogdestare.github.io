@@ -2,7 +2,7 @@
 +++
 date = 2022-02-09
 title = "Ziua 29"
-description = "PDeși nu las să se vadă, simt în stomac cum îmi crește revolta. Suntem maeștrii în a da sfaturi. Noi știm cum trebe făcute toate, chiar dacă n-am fost poate nicio secundă în papucii ăluia căruia îi dăm sfaturi. Cine a zis să nu dai sfaturi sau păreri necerute a fost pățit ca și mine, clar."
+description = "Deși nu las să se vadă, simt în stomac cum îmi crește revolta. Suntem maeștrii în a da sfaturi. Noi știm cum trebe făcute toate, chiar dacă n-am fost poate nicio secundă în papucii ăluia căruia îi dăm sfaturi. Cine a zis să nu dai sfaturi sau păreri necerute a fost pățit ca și mine, clar."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
