@@ -1,7 +1,7 @@
 +++
 date = 2022-01-23
 title = "Ziua 12"
-description = "short description din storage"
+description = "Culmea este că ȘTIU că ăsta e adevărul, că asta e calea însă tot mă tăvălesc pe jos, cu neputința-n carne. Dar voi ieși. Mai puternică. De două ori mai puternică. Una că ies și două că am trecut singură prin ea. Vrând-mai mult nevrând."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
