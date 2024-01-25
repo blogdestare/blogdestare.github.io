@@ -2,7 +2,7 @@
 +++
 date = 2022-02-20
 title = "Ziua 40"
-description = "Cât de paradoxală sunt! Păi mă plâng că nu-mi multumește și când o face, eu nu sunt în stare să primesc: Dar nu ai pentru ce!, Pentru nimic! Îmi neg orice primire. Iar Universul ăsta ce să mai înțeleagă?! Păi dacă nu vrei, nu-ți mai dăm! Până ajung la parter, îmi promit solemn că o să fiu atentă și la pornirea de a zice și la vocabular. Dacă nu reușesc s-o stăvilesc pe prima, măcar s-o corectez pe-a doua."
+description = "Cât de paradoxală sunt! Păi mă plâng că nu-mi multumește și când o face, eu nu sunt în stare să primesc: Dar nu ai pentru ce! Pentru nimic! Îmi neg orice primire. Iar Universul ăsta ce să mai înțeleagă?! Păi dacă nu vrei, nu-ți mai dăm! Până ajung la parter, îmi promit solemn că o să fiu atentă și la pornirea de a zice și la vocabular. Dacă nu reușesc s-o stăvilesc pe prima, măcar s-o corectez pe-a doua."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
