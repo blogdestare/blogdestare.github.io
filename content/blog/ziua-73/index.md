@@ -110,4 +110,4 @@ Pentru clipa de frumos, piesa asta e de vis!!
   <img src="images/s-l1600-1-1024x768.jpeg" />
 </div>
 
-Processed By eBay with ImageMagick, z1.1.0. ||B2
+
