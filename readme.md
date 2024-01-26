@@ -70,3 +70,14 @@ Any day from Wordpress is stored in a folder (ex: `ziua-1`).
 ### Assets
 
 -   `_wp` is the WordPress export and the conversion(s) to Markdown.
+
+
+poze
+
+<div class="flex justify-center">
+  <img src="images/ziua-63-1.jpeg" />
+</div>
+
+video
+
+<a href="https://www.youtube.com/watch?v=48vtduOhn9E" target="_blank">https://www.youtube.com/watch?v=48vtduOhn9E</a>
