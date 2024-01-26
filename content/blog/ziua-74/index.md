@@ -89,5 +89,5 @@ La recapitularea zilei, mi-a ieșit în față recunoștința pentru:
 Iar pe podiumul clipei de frumos s-a așezat:
 
 <div class="flex justify-center">
-  <img src="images/ziua-74-garden" />
+  <img src="images/ziua-74-garden.jpeg" />
 </div>
