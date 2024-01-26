@@ -46,12 +46,10 @@ Tot în timpul meu magic, mi-am invitat neamul în gânduri.
 Foarte vie în memoria mea, ca fiind omul cu singura iubire și grijă pentru mine când eram pui, măița mea, cea mai bună femeie din lume. Din păcate, a plecat și cel mai repede din viața mea. Apoi tatăl meu, mare absență din viața mea, omul care a fost un mister și a rămas așa. Și el plecat din viața mea dar e impropriu spus asta, pentru că nici nu prea a fost în ea. Mi-a trecut gândul și pe la bunicul meu, inginerul italian care a venit în România să proiecteze poduri și a sfârșit prin a întemeia un neam aici. Am poposit cu un dor și la sora mea, de care chiar dacă nu mă leagă sângele decât parțial, mă simt legată cu fire greu de înțeles de cei din jur și, câteodată, chiar și de mine. De verii mei, rătăciți prin toată lumea. Pentru tot neamul meu, aici sau plecat, am aprins azi o lumânare, cu sufletul plin de liniște și de cuprindere.
 
 <div class="flex justify-center">
-  <img src="images/ziua-81-1-final.jpeg" />
-</div>
-
-<div class="flex justify-center">
+  <img src="images/ziua-81-1-final.jpeg" /> &nbsp; &nbsp; &nbsp;
   <img src="images/ziua-81-2final.jpeg" />
 </div>
+
 
 <p style="text-align: center;">***</p>
 
