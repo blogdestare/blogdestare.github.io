@@ -9,7 +9,7 @@ tags = []
 [extra]
 math = false
 diagram = false
-image = "images/ziua-77-final.jpg"
+image = "images/Ziua-77-final.jpg"
 +++
 ---
 
