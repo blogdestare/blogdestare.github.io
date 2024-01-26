@@ -2,7 +2,7 @@
 +++
 date = 2022-03-11
 title = "Ziua 59"
-description = "Nu știu cum să înmoi încăpățânarea asta a mea care nu acceptă viața așa cum vine ea. Asta ca să înțeleg cam cum se simte când trebe să te lași de țigări, dar de fapt nu vrei să renunți nici la gest, nici la socializarea care vine la pachet, cam cum se simte când înțelegi că nu e etic să mănânci animale, dar îți plouă în gură de pofta unui grătărel. E fix același lucru. Știi că trebe, dar nu vrei încă să renunți. Toți putem toate, doar că nu le vrem pe toate"
+description = "Nu știu cum să înmoi încăpățânarea asta a mea care nu acceptă viața așa cum vine ea. Asta ca să înțeleg cam cum se simte când trebe să te lași de țigări, dar de fapt nu vrei să renunți nici la gest, nici la socializarea care vine la pachet, cam cum se simte când înțelegi că nu e etic să mănânci animale, dar îți plouă în gură de pofta unui grătărel. E fix același lucru. Știi că trebe, dar nu vrei încă să renunți. Toți putem toate, doar că nu le vrem pe toate."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
