@@ -89,10 +89,9 @@ Am citit de mult o întrebare care mi-a rămas în minte și care m-a pus pe gâ
 
 Iar clipa mea de frumos, cum altfel, decât rococo:
 
-<div class="flex justify-center">
-  <img src="images/rococo1.jpeg" />
+<div class="flex justify-center ">
+  <img src="images/rococo1.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img src="images/rococo4.jpeg" />
 </div>
 
-<div class="flex justify-center">
-  <img src="images/rococo4.jpeg" />
-</div>
+

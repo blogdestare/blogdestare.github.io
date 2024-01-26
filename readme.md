@@ -78,6 +78,11 @@ poze
   <img src="images/ziua-63-1.jpeg" />
 </div>
 
+<div class="flex justify-center ">
+  <img src="images/rococo1.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img src="images/rococo4.jpeg" />
+</div>
+
 video
 
 <a href="https://www.youtube.com/watch?v=48vtduOhn9E" target="_blank">https://www.youtube.com/watch?v=48vtduOhn9E</a>
