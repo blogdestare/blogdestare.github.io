@@ -2,7 +2,7 @@
 +++
 date = 2022-07-15
 title = "Ziua 185"
-description = "Ea nu a crezut în sinea ei niciodată că este cochetă, că este deșteaptă. Tot timpul a fost o cârpeală și s-a simțit asta pentru că nu și-a însușit niciodată cochetăria sau inteligența, pentru ea. Era masca pe care o flutura oamenilor, ca să le câștige admirația dar, în adâncimea ei, s-a simțit o impostoare. Pentru că dacă n-ar fi fost așa, dacă ea ar fi trăit astea ca fiind realități irefutabile ale felului ei de a fi, acum cochetăria ei, inteligența ei n-ar fi fost bătute crunt de demență."
+description = "Faptul că m-am rotunjit în înțelegerea demenței mamei, ca boală per se în primul rând și ca boală a ei, în al doilea rând, îmi spune că subconștientul meu, care a știut tot timpul adevărul și l-a priceput pe de-a-ntregul, mi-a tăiat din colțuri treptat până când m-am trezit, conștient, că parcă nu mai am așteptările de la ea mari cât Universul."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
