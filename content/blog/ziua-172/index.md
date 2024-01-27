@@ -63,6 +63,8 @@ Purple Velvet
   </figure>
 </div>
 
+<br/><br/>
+
 Pentru că nu am studiat subiectul dalia, am crezut că toate-s la fel ca dimensiune, ce le deosebește fiind culoarea. N-a fost așa dar nu-i bai, la anul mai bag o fisă, acum știu ce să caut. Asta nu înseamnă că nu le-am drăgălit și pe ele, că nu le-am adăpat bine-bine, să treacă mai ușor peste încă o zi de fierbințeală.
 
 <p style="text-align: center;">***</p>
