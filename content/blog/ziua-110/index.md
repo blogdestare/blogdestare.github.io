@@ -65,7 +65,7 @@ Cred că a fost cea mai scurtă zi din ultima perioadă. Nici nu am apucat să m
 Clipa mea de frumos e:
 
 <div class="flex justify-center">
-  <img src="images/110.jpe" />
+  <img src="images/110.jpeg" />
 </div>
 
 Blue Mycena Mushroom
