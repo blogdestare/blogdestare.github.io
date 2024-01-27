@@ -2,7 +2,7 @@
 +++
 date = 2022-07-16
 title = "Ziua 186"
-description = "Ea nu a crezut în sinea ei niciodată că este cochetă, că este deșteaptă. Tot timpul a fost o cârpeală și s-a simțit asta pentru că nu și-a însușit niciodată cochetăria sau inteligența, pentru ea. Era masca pe care o flutura oamenilor, ca să le câștige admirația dar, în adâncimea ei, s-a simțit o impostoare. Pentru că dacă n-ar fi fost așa, dacă ea ar fi trăit astea ca fiind realități irefutabile ale felului ei de a fi, acum cochetăria ei, inteligența ei n-ar fi fost bătute crunt de demență."
+description = "Dacă om cu om cu om ne-am imprima în bucata de carne responsabilă cu făcutul, nu doar cu gânditul, și-am împrăștia fiecare, măcar un gest d-ăsta “păcătos”, what a wonderful world it would be. Azi am articulat clar asta în mine și-am putut să disociez limpede, și fără niciun gând-dubiu în spate, că vorbitul despre o faptă bună nu-mi gogoșește egoul, ci mă umple de bucurie că pot prinde și eu o mână în cordonul lung de alte mâini prinse-n ajutorul celor care au mâinile ocupate cu ruga către un Dumnezeu exterior."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
