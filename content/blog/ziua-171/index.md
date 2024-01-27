@@ -103,7 +103,6 @@ La prânzul meu cu Mr. H, fără să deschid acest subiect, în cu totul alt con
 
 După prânzuri, îmi trag sufletul un strop și gândul îmi zboară, fără niciun alt gând coerent în spate, la profa mea de curs, ce mi-a devenit și prietenă dragă inimii. Cum ea e mai antrenată la chestii d-astea ezoterice, a simțit sigur gândul că într-o oră m-a sunat. Aș putea s-o clasific și p-asta tot la întâmplare dar dacă pun pe tapet că în timpul convorbirii cu ea, am menționat-o pe mama ei, iar după ce-am închis telefonul, aveam mesaje pe whatsapp, de la mamă, venite fix în timpul callului meu cu fiica, parcă nu mai sunt toate coincidențe sau potriviri. Deepak le numește sincronicități iar eu mă bucur că, o dată apărute, there is no way back, de acum înainte, dacă sunt prezentă, o să mi le tot creez și o să mă tot bucur de ele.
 
-<a href="https://www.youtube.com/watch?v=z9R\_AW9iTdk" target="_blank">https://www.youtube.com/watch?v=z9R\_AW9iTdk</a>
 
 <p style="text-align: center;">***</p>
 
