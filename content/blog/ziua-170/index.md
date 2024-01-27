@@ -122,4 +122,4 @@ O zi albă, călduță, nici prea-prea, nici foarte-foarte, dar suficientă să 
 
 Clipa mea de frumos este:
 
-<a href="https://www.youtube.com/watch?v=FL\_DMuhnisQ" target="_blank">https://www.youtube.com/watch?v=FL\_DMuhnisQ</a>
+<a href="https://www.youtube.com/watch?v=mw4k1tCnAuE" target="_blank">https://www.youtube.com/watch?v=mw4k1tCnAuE</a>
