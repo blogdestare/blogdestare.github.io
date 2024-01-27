@@ -1,0 +1,109 @@
+
++++
+date = 2022-07-30
+title = "Ziua 200"
+description = "Mă înjunghie toate judecățile astea ascuțite despre cum ar trebui să fie și nu e, despre cum aș putea să fac și nu sunt lăsată de context să le fac, despre toate și despre orice, măi, dar nimic nu mă scutură puternic să mă dea jos, cu picioarele în realitatea crudă, dar frumoasă, palpabilă, trăibilă a lui 'acum e tot ce ai!'"
+authors = ["Biannca Locatelli"]
+[taxonomies]
+tags = []
+[extra]
+math = false
+diagram = false
+image = "images/ziua-200.jpg"
++++
+---
+
+Nicicând nu mi-e mai limpede că mintea este un instrument, util tare, dacă e folosit ca atare și parcat atunci când și-a încheiat misiunea, ca atunci când trebe să mă trezesc devreme dimineața pentru că plec undeva. În ultima perioadă din viața mea, mă trezesc fără să am nevoie de alarmă și pare că în taina nopții, mintea a instructat deja corpul, care nu i se împotrivește și nu crâcnește aproape deloc.
+
+Așa se face că azi m-am trezit simplu, într-o lumină roz, a unei prea dimineți de sâmbătă. Mama a decis că vrea să mergem la ea "acasă" și, până plecăm, trebe să-mi săvârșesc toate câte le am de făcut la acasa mea.
+
+Mi-am revenit în firea familiară, caut cu sufletul senzația caldă care-mi îmbrățișează ritualul de recunoștințe și-mi închid ochii la loc, să nu mă perturbe diafana lumină și să mă facă curioasă să privesc zorii sau cerul, să văd care-o radiază. Cu fiecare zi care trece, umplută la ceas mic, de clipe calde și moi și bune de mulțumiri către Viață, cu atât mi-e mai dragă și mai necesară ceremonia asta pe care o fac în liniștea intimității mele și la adăpostul ochilor închiși. De cele mai multe ori, mintea nu e cața care devine peste zi, sunt molcomă și e numa' bun terenul ăsta să pot planta în el intenții și să mă susțină în trimiterea de vibrație curată. Mi-e atât de bine în momentul ăsta, mă simt ca într-o catedrală a inimii mele, unde sunt singură dar nu singură, unde e o condensare de energie contemplativă și rugi intense ca într-o catedrală reală, unde e bine și unde pot fi autentică până-n măduva măduvelor, fără stres de ochi străin. Într-adevăr, cel mai bine mi-e în mine.
+
+<p style="text-align: center;">***</p>
+
+Adaug la plusul ăsta mare al momentului și lipsa oricărei dureri în corpul fizic, ba chiar îmi observ un mic neastâmpăr, o dorință ca de copil mic căruia gândul nu-i stă decât la joacă. Sunt o dovadă vie de antiteză: mi-e starea emoțională molcomă dar mi-e starea fizică cu zvâc de mișcare. Înc-un strop și o să le-mpac pe amândouă.
+
+Mai fur câteva clipe de molcomeală să alint drăcoaica mică ce-mi stă lipită de coastă, într-o prefăcută toropeală, că-i văd un ochi deschis. Mândra asta are un somn tare fin, poate și anii petrecuți în stradă, în alertă continuă, și-au pus amprenta asupra ei sau pur și simplu ăsta-i e felul, cert este că dacă mă mișc un strop, aud ca prin ceață și un chichirit de-al ei, ca și cum mă face atentă că e lângă mine. Se întinde sub mângâierea mea, eu mă destind la simțul blăniței calde și la torsul ei rârâit ce vibrează blând sub palma mea, amândouă ne tragem recompensa din moment și ne e bine. Oare eu nu pot să SIMT că mi-e bine dacă nu analizez și cataloghez ce-mi vine în moment? Oare am nevoie să pun degetul și cuvântul pe senzație, s-o filtrez și separ și abia apoi s-o trăiesc, ca s-o decretez cu aromă de fain? Oare fără procesul gândirii nu are loc procesul simțirii?
+
+<p style="text-align: center;">***</p>
+
+Oricât de grăbită aș fi, încep să-mi permit mie timpul necesar pentru micile pocaluri de ambrozie pe care mi le-am presărat în prea dimineți și care au trecut testul timpului. Nu ratez apa caldă no matter what, e cel mai la îndemână și mai simplist mod de a-mi face un mare bine corpului, de a-i da voie să se trezească încet la o nouă zi de viață, de a deștepta organele încetișor și nu heirupist. Mă bucur că cineva a deschis gura și-a făcut cunoscut acest mic gest cu impact atât de mare. Iar eu am lărgit gura lui și am mai pus în el și stropi de albastru, calm sau gri, dar întotdeauna liniștitor cer. N-au trecut 66 de zile de când mă întreb zilnic cum mi-e cerul dar sunt pe cărare și hotărâtă să rămân.
+
+<p style="text-align: center;">***</p>
+
+În timp ce mi se odihnește smoothieul proaspăt făcut, ies la udat roșii, chestii triviale, d-astea de uman-țăran, ce trebe îndeplinite. De fapt, nu trebe, ci ar fi bine și fain.
+
+Mă arunc cu voluptate în acest moment, ca și cum ar fi ultimul și mă apuc să ud cu lăbuța și cu cana de 3 litri la baza fiecărui fir de roșie. E o mare junglă acolo, au crescut în toate părțile, trebe legate și mai trebe copilite. Nu am însă timp pentru asta acum, azi plec cu mama, dar mâine sigur mă ocup. Ud și florile și puiuții de liliac care dau semne că s-au prins toți, au frunze noi care cresc de la o zi la alta, pregătesc murele din cultura mea bio pe care vreau să le dăruiesc prietenelor mamei, strâng, spăl, las totul în ordine în urma mea.
+
+Mama s-a trezit, și-a făcut patul, s-a schimbat deja de vreo două ori și acum stă în pat. Cu toate bifate, mă duc să îi dau lui Sassy să pape și să văd în ce ape se scaldă mama.
+
+<p style="text-align: center;">***</p>
+
+Nu se simte bine. Și ca să-și întărească spusele, s-a îmbrăcat în halatul de casă, colecția toamnă-iarnă, și s-a băgat cu totul sub pătură. Chiar nu se simte bine, a și amețit mai devreme că era să cadă în baie. Hmmm, mai devreme am văzut-o pe cameră că era sprintenă. Mă prind repede, sau mai degrabă prind din aer energia aia care nu minte, și pricep că de fapt mama nu are chef să meargă la ea acasă. De ce, încă nu descifrez, dar mi-e clar că nu vrea să mergem și basta.
+
+Ușor descumpănită, că am făcut valuri, am luat mașina de la fiică-mea și-am cumpărat rovignetă pe 7 zile, am dereticat maxim ca să fiu cu toate gata, am anunțat prietenele ei că venim și femeile au făcut pregătiri s-o bucure pe mama, mă apuc de curățenie în baie, să las să se scurgă starea asta din mine și să nu mă duc în noul meu timp liber proaspăt câștigat cu o stare aiurea. Fiecare zi petrecută în prezența demenței este o zi care sparge tipare: mă aștept ca mama să refuze o mâncare sau alta, să nu vrea să fac duș sau baie, dar nu mă așteptam să se răzgândească și să întoarcă o situație pe care ea singură a propus-o și părea că și-o dorește. Încerc să citesc în spatele scuzei dar nu reușesc să înțeleg nicio posibilă cauză care să genereze acest efect. E drept, mie-mi convine de minune, dar acum nu mă bag pe mine în ecuație, e o curiozitate și-o uimire în mine care câștigă teren. Sigur o să aflu în episodul următor din filmul ăsta.
+
+<p style="text-align: center;">***</p>
+
+Am o oră liberă să fac ce vreau eu. Ce pleașcă minunată! Cum e și omul ăsta: în momentul în care nu mai ai ceva, ajungi să prețuiești maxim acel ceva. Am ora asta aproape în fiecare dimineață, măi dar cum se simte acum, nu s-a simțit niciodată. Am reușit să-i simt savoarea maximă abia când am fost pe muchia de a o pierde. Omul ăsta parșiv! Nici nu ne dăm seama cum ne dăm singuri la glezne, cum ne sabotăm constant ș-apoi ne punem în fund și dă-i cu bocetele. Un exemplu la scară mică, genial elocvent și relevant la orice scară mare.
+
+Câtă dulceață a avut ora asta pentru mine! M-am delectat cu design, cu jazz vechi în surdină, cu imagini frumoase în fața ochilor și cu imagini create în spatele lor, a fost un melanj între visare și realitate care m-a hrănit extraordinar de bine și de mult, să mă țină pentru toată ziua.
+
+<p style="text-align: center;">***</p>
+
+Am adăugat la asta și micul dejun al domnului meu, bulversat ușor și el de schimbarea de plan survenită brusc.
+
+Este singurul om din viața mea care a trecut și testul timpului și testul sentimentelor și câteodată nici mie nu-mi vine să cred că mă bucură și-mi face așa plăcere să-mi împart timpul și vorbele și emoțiile cu el, după atâta timp. Normalul meu, până ca voința și dorința și a mea și a lui să-mi dovedească contrariul, a fost că relațiile nu durează. Uite că asta mi-a bătut și recordul și convingerea și a trecut, mai întărită chiar, și printr-o pandemie. În această bucată de viață, am ajuns să apreciez mult orice interacțiune umană, cu atât mai mult cu cât ele s-au rărit, pesemne tocmai ca să pun în dreptul lor măsura corectă de evaluare. Lângă domnul meu, am învățat să fiu eu, liberă, iar acceptarea lui mi-a dat curaj să continui să mă gust și să mă trăiesc așa liberă până am dat de autenticitatea bine ascunsă de ochii lumii și culmea, și de ochii mei. Eu i-am întors favorul prin deschiderea ochilor lui asupra libertății individuale și ne-am crescut unul pe altul, frumos. Și încă ne mai creștem, probabil că d-aia îmi și place atât de mult, că simt că e mereu încă ceva acolo, de descoperit, la el, la mine, la noi-ul ăsta crescut fain.
+
+<p style="text-align: center;">***</p>
+
+Micul dejun al mamei e evidența c-am avut dreptate, mama nu mai avea chef de plecare și atât. Nu era niciun rău acolo, nicio amețeală, niciun disconfort. În momentul în care a văzut acceptarea mea calmă, mama a dezumflat orice altă stare sau a uitat starea anterioară. E bine dispusă la masă, mănâncă tot, comentează despre roșiile și florile mele, pe care le vede prin geam, e fascinată de trifoiul cu florile lui mici albe și mărunte și-mi dă și răspunsul la întrebarea nerostită "de ce?".
+
+Ce sens are să mai meargă într-un apartament gol și plin de păienjeni, unde nu mai e viața ei? Are timp să meargă acolo, oricând, că blocul nu pleacă nicăieri. Deocamdată, la știri, cică în Dâmbovița plouă de rupe și e frig.
+
+Deci d-asta nu mergea, undeva în mintea ei a perceput pustiul ce stă în casa goală de acolo, eu cred că acum începe să o asocieze cu locul unde la final i-a fost rău, extrem de rău și, pe deasupra, mai e și "frig". Ca întotdeauna, comoditatea câștigă la mama, nu se deranjează pentru nimic dacă nu îi este bine ei, în primul rând, în acest deranj. Ok, am închis subiectul, nu mai am nicio întrebare.
+
+<p style="text-align: center;">***</p>
+
+Cu toate misterele deslușite, ies în curte să mă bucur de libertatea de a fi la casa mea, în treburile mele. Mă apuc de curățat florile, de tăiat daliile uscate de la josul tijei, să nu mai consume planta inutil resurse, să le leg că au și ele peste un metru în înălțime, să-mi leg roșiile, să le copilesc, să smulg buruienile multe și mărunte care-mi împânzesc curticica de flori, să leg trandafirii și să-i dirijez pe bolta arcuită construită special pentru asta, să-mi spăl sculele și vermorelul, să spăl terasa și să-mi trag sufletul înainte de a mă apuca de pregătirea prânzului. Nu știu unde au zburat trei ore, doar pielea, roșie pe brațe și pe față, mă strânge și mă anunță că soarele m-a ținut în brațe cam mult și cam fierbinte. Nu-i bai, am așa o mulțumire, mă simt atât de bine, am consumat energia pe ceva ce-mi face plăcere și mă-ncântă rezultatul. Plus că-n timpul ăsta, de eu cu mine, am fost extrem de atentă la ce e în jurul meu și-am zburat cu fluturele alb cu aripi ondulate pe deasupra lavandei, cu libelula uriașă, cu cap verde ce s-a afundat în caprifoiul de pe gard, cu viespea uriașă care roade lemn din gardul vecinului (!), cu vrăbiuțele alertate de prezența lui Spiky în zonă, care s-a lipit de roabă și mă secondează la fiecare pas sau mutat de roabă, cu cârtița care habar n-are că afară e soare și aruncă pământul în sus, fix sub ochii mei șocați, cu toate micile minuni ale vieții care au ales să vină în ziua mea azi, să mă facă atentă la clipă în detaliul ei și nu la zi în ansamblul ei. Me happy. Atât de simplu.
+
+<p style="text-align: center;">***</p>
+
+S-au votat în unanimitate cartofii prăjiți, o bombă de nesănătate, dar să zicem că închidem ochii la momentele astea rare în mâncarea noastră. Ca să mai îndulcesc situația și să-mi potolesc vocea rațiunii care mă ceartă cu degetul ridicat a reproș, fac și-o salată lângă, poate se pune. Am un elan și-o pornire și-mi doresc un prânz în trei. Și-l am, doar că din nou sunt prinsă la mijloc: când vorbește mama se uită doar la mine și mi se adresează doar mie, domnul meu, în puținele dăți când deschide gura, vorbește simplu și general, iar eu am impresia că-s într-un film prost, în care sunt trei părți la masă dar două par că sunt certate și-o folosesc pe-a treia să plimbe vorba de la unul la altul. Oricum, singurul lucru despre care vorbește mama este Sassy și cum freacă ea cu lăbuța ca mama s-o bage în seamă, povestea care a trecut de mult de pragul de obsedant, e obsedant la nu știu ce putere, și m-am prins că orice aș povesti eu, orice subiect e la masa de discuții, mama nu-l are decât p-ăsta în mâneca și cu el defilează, orice ar fi. Nu mă mai deranjează situația asta, c-am mai trăit-o, dar mi-aduce aminte ce-am uitat de mi-am dorit un prânz în trei: nu mai există un prânz în trei, cel puțin nu cu noi trei protagoniști.
+
+<p style="text-align: center;">***</p>
+
+Copiii s-au anunțat în vizită iar mie nu-mi vine să cred că a mai zburat, într-o clipită, înc-o săptămână, parcă adineauri m-a sunat copila să-mi zică că vine pe la noi. Realizez, o țâră îngrozită, că timpul ăsta pleacă definitiv, că mă grăbește către un final fără niciun dubiu și că singurele necunoscute sunt clipele până la acel final de încetare materială. În clipele astea eu aș vrea să înghesui atât de multe și să experimentez atât de intens și tot ce fac de fapt este să stau suspendată pe-o cracă a minții într-o așteptare, într-un deznodământ al situației cu mama. Câtă inepție este ascunsă-n așteptarea asta și câtă risipă de timp e concentrată în ea și totuși, la modul cel mai onest cu putință, asta fac. Îmi mai umplu momentele cu prezență, mă mai bucur de nimicuri devenite mari în lipsa acelor lucruri pe care le consider eu mari, o călătorie, un pierdut cu orele în atelier într-o bucată de lemn, o plimbare în pădure, trăiesc, în cel mai propriu sens, procesul de devenire cum zice Connie: o să fac când oi avea timp, o să merg când s-o putea, cândva o să. Prosteasca impresie a umanului că e nemuritor, că o să aibă timp, că o să apuce acel "cândva o să". La nivel mental știu toată teoria, o recit pe nerăsuflatelea, uite că practica mă bate la fundul gol, nu sunt în stare să mă dezcocoț de acolo unde am rămas atârnată începând cu 18 decembrie 2021. Stau strâmb, mă înjunghie toate judecățile astea ascuțite despre cum ar trebui să fie și nu e, despre cum aș putea să fac și nu sunt lăsată de context să le fac, despre toate și despre orice, măi, dar nimic nu mă scutură puternic să mă dea jos, cu picioarele în realitatea crudă, dar frumoasă, palpabilă, trăibilă a lui "acum e tot ce ai!", nu există "cândva" decât ca concept într-o minte liniară. Mă culc pe-o ureche, fix aia în care-mi susură o voce să las lucrurile să curgă, că ce vine, aia trebe să vină. Dar eu mai am o ureche, iar în aia e un drac de voce care-mi strigă aproape, că să las lucrurile să curgă, dar să nu uit să și trăiesc în timp ce le las. Nu știu cum să le împac pe amândouă, una e mai dolce far niente, ailaltă e mai cu acțiune, sper să se mai decanteze un strop și să am claritate la un moment dat. Și mai sper ca decantarea să nu ia încă 8 luni de acum înainte.
+
+<p style="text-align: center;">***</p>
+
+Când mintea ți-e îmbârligată atât de tare, nu poți s-o dezbârligi decât într-o conversație cu altcineva, din afară, care să aibă o perspectivă corectă asupră vieții, asta spunea Connie, iar eu judecam imediat că face reclamă la educația ontologică. Am ajuns într-un final să pătrund înțelegerea asta și recunosc că, dacă aș putea, aș striga-o la toată lumea: da, de cele mai multe ori, dacă nu chiar întotdeauna, când ești prea afundat cu capul în fundul problemelor tale, nu mai vezi limpede și chiar de-ți iei un șut care te aruncă, tot nu te poți ridica deasupra, să ai privirea aia de ansamblu și să poți lăsa detașarea să joace zarurile. Așa se face că teoria asta pe care o tot știu și încep s-o și practic pe ici, pe colo, prin părțile esențiale, unde mă ține, o pot aplica cu multă ușurință la alții, pot identifica rapid unde-și cedează puterea și de ce și cam care ar fi soluția. Dar cum m-a luminat pe mine profa de curs, nu mă pot erija în salvatorul nimănui decât dacă-mi cere și, și atunci, e greu să pui ochelarii tăi de văzut pe nasul altcuiva.
+
+Copiii au dramele existențiale inerente vârstei și, tot caracteristic vârstei, le este și mărețul ego care-i limitează la a se descurca și a nu asculta nimic din afara lor. Au o problemă, îți cer sfatul, le dai soluție și te contracarează și parează instant cu altă problemă. Practic, e un șir de drame inepuizabil în care și dacă tai una de pe listă, o alta, mai hidoasă și mai mâncătoare de energie, timp și bucurie de viață, vine să-i ia locul celei secerate de simplitatea modului de a privi viața așa cum este.
+
+Cred că acum vreo patru ani am avut primul click în ceea ce-mi privește copila: am simțit cu adevărat că este o alță ființă, că nu-mi e datoare, dar nici eu nu-i sunt datoare cu nimic, că a venit prin mine, dar nu pentru mine și că tot ce pot să fac pentru ea este s-o sprijin și s-o ajut, cu bucurie și cu drag, când și cum pot. De atunci asta fac și încerc, cât pot eu de mult, să nu mă mai atac când ea mă-nchide în afara problemelor ei și să nu mai încerc să-i rezolv conjuncturile pentru că dacă sunt la ea, înseamnă că-s pentru ea. Nu e ușor, mama din mine nu înghite ușor neajutatul dar totul e, până la urmă, un exercițiu și clar orice învăț are și-un dezvăț.
+
+<p style="text-align: center;">***</p>
+
+S-au scurs 200 de zile de când scriu zilnic, de când scot afară ce gândesc, ce simt și ce ajunge afară, în traiul meu zilnic. Mi-a făcut și-mi face bine, am învățat multe despre mine, mi-am surprins tipare pe care nu le vedeam cu ochiul liber dar mi le-au prins în ele tastele, m-am cuprins și acceptat și deschis în moduri noi, însă ce era mai important, nu am reușit să fac: după 200 de zile de articulat zilnic experiențele prin care trec, conduse, mai mult sau mai puțin de experiența-umbrelă sub care se desfășoară ele, demența mamei, nici acum nu am reușit să accept, să pătrund pe bune și adevărat faptul că mama are demență.
+
+D-aia încă mă surprinde câte-o noutate în comportamentul mamei, noutate pe care ar trebui ușor s-o-ncadrez ca fiind evoluția firească a bolii, d-aia încă mă strânge dureros câteodată când mama nu e prezentă-n viața ei, d-aia nu pot pune egal între corpul ăsta ce repetă obsedant aceleași fraze de multe ori pe zi, multe zile la rând și femeia spumoasă care mă suna să-mi spună bancuri și avea niște ascuțimi de nuanțe care întotdeauna îmi puneau mintea la contribuție, între femeia asta care uită să se spele și femeia care era cochetăria întruchipată cândva.
+
+E o respingere atât de puternică în mine că trece de orice teorie, de orice înțelegere, de orice aș citi sau mi-ar spune cineva despre Alzheimer. Da, văd semnele bolii la ea, da, știu că are boala, dar nu pot încă concepe și, clar, nu am asimilat în interiorul meu asta. Și, dacă se poate ceva mai rău decât atât, este că nici nu știu cum să fac integrarea asta, cum să fac spațiu în mine suficient de mare, cum să crăcănez știutul ăla că mama are boala cu plinătatea a ceea ce face boala din mama, astfel încât să nu-mi mai afecteze viața așa cum o face, astfel încât să-mi curăț actele de orice judecată înainte sau în timpul interacțiunii mele cu ea. Dacă aș accepta o dată că mama are demență și aș lăsa să se usuce speranța aia ciudată cu care mă pomenesc în unele zile că poate nu e așa de grav, dacă aș pricepe cu subiect și predicat că ea nu se va mai face bine, aș putea să mă ajut și pe mine și poate și pe ea, mult mai bine decât o fac acum. Însă nimeni nu te învață cum e mai bine pentru că nimeni nu știe cum e mai bine în papucii tăi, decât tu.
+
+În astea 200 de zile, poate nu în toate, dar cu siguranță în multe din ele, observ cât de înfiptă sunt în realitatea mea și cât de prezentă sunt diminețile și cum mi se diluează asta pe măsură ce mi se desfășoară ziua. Doar statul în natură mă aduce din nou în clipă, altfel, to do-urile zilei îmi fură și timpul și plăcerea și bucuria zilei. O bună parte din timp mi se consumă pe lucruri care, cel puțin acum și cel puțin pentru mine, nu au o valoare mare intrinsecă: gătit, curățenie, cumpărături iar asta-mi adună frustrare. Ca soluție, ascult podcasturi în căști când aspir sau fac curățenie, sau convorbiri și învățături când gătesc. Când plec la cumpărături, îmi deschid larg antenele să captez viața din împrejurul meu, în genere am încercat să găsesc ceva cu care să umplu pozitiv o gaură neagră care-mi mănâncă timp. Poate că e superficial sau poate că am eu credința că panaceele astea sunt ceva temporar, ideea este că și cu ele, tot am senzația de fuștereală. Doar că nu la fel de acut, și face mai trăibil timpul petrecut așa.
+
+Dacă aș avea o conversație cu cineva care trece prin aceleași lucruri cu mine, zău dacă aș ști ce să spun. Nu am niciun sfat de dat și nu știu dacă pot primi vreunul, dar știu că sunt mult mai dispusă și deschisă să ascult oamenii, cel mai mult decât am fost vreodată în viața mea. Și știu că sunt mult mai aproape de oameni acum, când sunt atât de departe de ei și îi cuprind cu mult mai multă înțelegere și drag și toleranță și empatie și compasiune decât am făcut-o vreodată. Demența are și ea darurile ei.
+
+<p style="text-align: center;">***</p>
+
+Închei ziua 200 decorând-o cu o mare bilă albă și-i mulțumesc curat pentru:
+1. Ceremonia de mulțumire ce-mi intră sub pielea inimii!
+2. Viața din afara mea care mă face să-mi întorc privirile, mereu și mereu, la viața din mine!
+3. Consecvența mea și inspirația care curge prin taste!
+
+Clipa mea de fain este:
+
+<div class="flex justify-center">
+  <img src="images/old.jpeg" />
+</div>
