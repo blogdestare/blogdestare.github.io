@@ -106,53 +106,42 @@ LATER EDIT: un filmuleț foarte fain explicat, util atât pentru cei care au dem
 
 #1 Absolute Best Way To Reverse & Slow Dementia - Dr Ekberg
 
+<br/>
 
-<p style="text-align: center;">Clipa mea de frumos:</p>
+<div class="flex justify-center">
+<div>
 
-Au înnebunit salcâmii
+<b>Clipa mea de frumos:</b>
 
-De atâta primăvară,
-
-Umblă despuiați prin ceruri
-
-Cu tot sufletu-n afară.
-
-Și l-au scos de dimineață
-
-Alb și încărcat de rouă
-
-Cu miresme tari de ceruri
-
-Smulse dintr-o taină nouă.
-
-Au înnebunit salcâmii
-
-Și cu boala lor odată
-
-S-a-ntâmplat ceva îmi pare
-
-Și cu lumea asta toată.
-
-Păsările aiurite
-
-Își scot sufletul din ele
-
-Pribegind de doruri multe,
-
-Călătoare printre stele.
-
-S-a-mbătat pădurea verde
-
-Nu mai e așa de calmă,
-
-Ține luna lunguiață
-
-Ca pe-o inimă în palmă.
-
-Nu-mi vezi sufletul cum iese
-
-În haotice cuvinte,
-
-Au înnebunit salcâmii
-
+Au înnebunit salcâmii<br/>
+De atâta primăvară,<br/>
+Umblă despuiați prin ceruri<br/>
+Cu tot sufletu-n afară.<br/>
+<br/>
+Și l-au scos de dimineață<br/>
+Alb și încărcat de rouă<br/>
+Cu miresme tari de ceruri<br/>
+Smulse dintr-o taină nouă.<br/>
+<br/>
+Au înnebunit salcâmii<br/>
+Și cu boala lor odată<br/>
+S-a-ntâmplat ceva îmi pare<br/>
+Și cu lumea asta toată.<br/>
+<br/>
+Păsările aiurite<br/>
+Își scot sufletul din ele<br/>
+Pribegind de doruri multe,<br/>
+Călătoare printre stele.<br/>
+<br/>
+S-a-mbătat pădurea verde<br/>
+Nu mai e așa de calmă,<br/>
+Ține luna lunguiață<br/>
+Ca pe-o inimă în palmă.<br/>
+<br/>
+Nu-mi vezi sufletul cum iese<br/>
+În haotice cuvinte,<br/>
+Au înnebunit salcâmii<br/>
 Și tu vrei să fiu cuminte?
+</div>
+
+</div>

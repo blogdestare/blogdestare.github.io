@@ -60,8 +60,8 @@ Dacă înainte, mulți ani în urmă, focusul meu era pe ce pun pe masă, ca bu
 Mi-am cumpărat inelele pentru șervețele cred că acum vreo 20 de ani iar farfuriuțele mici, diferite, le am de la o tipă de pe instagram, expertă în porțelanuri faine. Me happy!
 
 
-<div class="flex justify-center ">
-  <img src="images/104-1-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
+<div class="flex justify-center h-96">
+   <img src="images/104-1-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img src="images/104-2-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img src="images/104-4-576x1024.jpeg" />
 </div>

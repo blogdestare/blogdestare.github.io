@@ -44,18 +44,43 @@ Cu alte cuvinte, aplicat pe studiul meu de caz, trebe să trec prin închisoare 
 Am mai prins doar o tură prin grădină, să fac prezența și să trec în catastif noile apariții, if case. Da, se înregistrează în anuarul bujorilor trei noi vedete, pe numele lor de scenă: Sarah Bernhardt, Laura Dessert și Pieterje Vriend Wagennar, sau mai scurt Petre.
 
 
-<div class="flex justify-center ">
-  <img src="images/sarah-1-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/laura-1-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/pieter-576x1024.jpeg" />
+<div class="flex justify-center h-96">
+  <figure>
+   <img class="h-96" src="images/sarah-1-576x1024.jpeg" /> 
+   <figcaption>Sarah</figcaption>
+  </figure>
+   &nbsp; &nbsp; &nbsp;
+  <figure>
+   <img class="h-96" src="images/laura-1-576x1024.jpeg" /> 
+   <figcaption>Laura</figcaption>
+  </figure>
+   &nbsp; &nbsp; &nbsp;
+  <figure>
+   <img class="h-96" src="images/pieter-576x1024.jpeg" />
+   <figcaption>Petre</figcaption>
+  </figure>
 </div>
 
+<br/><br/>
 
-<div class="flex justify-center ">
-  <img src="images/sifonel-1-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/coralina-13-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/bucky-1-576x1024.jpeg" />
+<div class="flex justify-center h-96">
+  <figure>
+   <img class="h-96" src="images/sifonel-1-576x1024.jpeg" />
+   <figcaption>Șifonel</figcaption>
+  </figure>
+   &nbsp; &nbsp; &nbsp;
+   <figure>
+   <img class="h-96" src="images/coralina-13-576x1024.jpeg" />
+   <figcaption>Coralina</figcaption>
+  </figure>
+   &nbsp; &nbsp; &nbsp;
+   <figure>
+   <img class="h-96" src="images/bucky-1-576x1024.jpeg" />
+   <figcaption>Bucky</figcaption>
+  </figure>
 </div>
+
+<br/><br/>
 
 Aproape toate daliile și-au scos căpșorul din pământ, a apărut și un bărbos din cei trei iriși, cine nu vrea deloc să ne vedem, sunt cei doi crini Asiatic Pink. Iar la pomii fructiferi, cei trei piersici dau semne de revigorare, în continuare stau piersicile pe crengi și am avut parte și de o surpriză mică: o caisă. Una singură, într-unul din cei trei caiși care s-au înălțat ca nebunii dar nu au rod (mai) deloc, ca să nu minimizez importanța caisei. Le-am dat tuturor nota maximă și m-am băgat în casă, pentru micile dejunuri ce urmează.
 
