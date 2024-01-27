@@ -1,9 +1,3 @@
----
-title: 'Ziua 185'
-date: '2022-07-15'
-categories:
-    - 'viata-asa-cum-e'
-coverImage: 'ziua-185.jpg'
 
 +++
 date = 2022-07-15
@@ -102,11 +96,12 @@ Deși-mi curățasem pepene pentru o delectare de final de zi, n-a mai intrat, d
 <p style="text-align: center;">***</p>
 
 Închid seara destul de binișor, bag bila albă în borcanul zilei și-i mulțumesc pentru:
-
 1. Mirosul ud de pământ!
 2. Minunea țepoasă ce mi-a tremurat în palme și mi s-a deschis cu curaj!
 3. Desertul zemos și suculent și crunchy și bestial al zilelor mele de vară!
 
 Clipa mea de fain:
 
-![](images/24336922ac32bc87cdc1bbba31b5ab55.jpeg)
+<div class="flex justify-center">
+  <img src="images/24336922ac32bc87cdc1bbba31b5ab55.jpeg" />
+</div>
