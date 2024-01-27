@@ -112,8 +112,9 @@ Mi-e greu să decid cum a fost ziua de azi, clar n-a fost bilă neagră dar nu-s
 
 Frumosul meu sublim a fost azi:
 
-<div class="flex justify-center ">
-    <img src="images/case-vechi.jpeg" /> &nbsp; &nbsp; &nbsp;
-    <img src="images/cv2-bun-768x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-    <img src="images/cv3.jpeg" />
+<div class="flex justify-center h-96">
+    <img class="h-96" src="images/case-vechi.jpeg" /> &nbsp; &nbsp; &nbsp;
+    <img class="h-96" src="images/cv2-bun-768x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
+    <img class="h-96" src="images/cv3.jpeg" />
 </div>
+
