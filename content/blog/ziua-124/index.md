@@ -106,7 +106,7 @@ LATER EDIT: un filmuleț foarte fain explicat, util atât pentru cei care au dem
 
 #1 Absolute Best Way To Reverse & Slow Dementia - Dr Ekberg
 
-Clipa mea de frumos:
+**Clipa mea de frumos:**
 
 Au înnebunit salcâmii
 
