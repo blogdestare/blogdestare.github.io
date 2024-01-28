@@ -117,7 +117,7 @@ O zi gri, cu o mare dungă albă marcată de reușita copilei mele, în rest nu 
 
 Frumosul zilei peste ochii care au vegheat cu bune intenții asupra unui traseu:
 
-<div class="flex justify-center ">
-  <img src="images/WhatsApp-Image-2022-09-14-at-22.59.38-1.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/legitimatie-2-1024x709.jpeg" />
+<div class="flex justify-center h-96">
+   <img class="h-96" src="images/WhatsApp-Image-2022-09-14-at-22.59.38-1.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img class="h-96" src="images/legitimatie-2-1024x709.jpeg" /> &nbsp; &nbsp; &nbsp;
 </div>
