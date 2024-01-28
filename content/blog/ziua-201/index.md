@@ -28,7 +28,7 @@ Pornim amândouă spre bucătărie, și deși nu mi-au alunecat ochii pe nicio f
 Mi-am pus frunze de mentă în sticla de cupru aseară, nu le-am zdrobit, doar le-am dat drumul acolo și am pus apa peste, așa că apa dimineții mă învăluie pe dinăuntru cu aromă de mentă. E un cer absolut superb, intens, atât în albastrul lui definitoriu cât și-n albul pufos și bucălat al norilor ce-l pun parcă mai mișto în evidență. Niciodată n-am avut perspectiva asta: norii, albi, pufoși, gri, grei, negri, oricum ar fi ei, sunt un accesoriu care de fapt scot și mai mult în evidență albastrul superb de cer. Dacă de fapt bâlbele, dudele, durerile, suferințele mele sunt aici ca să scoată și mai mult în evidență frumusețea vieții? Perspectivă verde cu aromă de mentă la ceas mic. Faină.
 
 
-div class="flex justify-center">
+<div class="flex justify-center">
   <img src="images/noros-1024x576.jpeg" />
 </div>
 
