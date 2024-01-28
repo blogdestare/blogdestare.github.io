@@ -2,7 +2,7 @@
 +++
 date = 2022-09-18
 title = "Ziua 250"
-description = "Încă năucită și epuizată înăuntrul meu, am o trăire plină că suntem atât de trecători. Care este sensul vieții ăsteia? Cine ne-a pus pioni pe-o scenă care se termină de trăit când abia a început să fie de înțeles? De ce trăim? Toate răspunsurile pe care credeam că le-am priceput se fac țândări la malul acestor întrebări, în contextul zilelor deprimante pe care le trec cu chiu, cu vai."
+description = "Încă năucită și epuizată înăuntrul meu, am o trăire plină că suntem atât de trecători. Care este sensul vieții ăsteia? Cine ne-a pus pioni pe-o scenă care se termină de trăit când abia a început să fie de înțeles? De ce trăim? Toate răspunsurile pe care credeam că le-am priceput se fac țăndări la malul acestor întrebări, în contextul zilelor deprimante pe care le trec cu chiu, cu vai."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
@@ -59,7 +59,7 @@ Fac eforturi supraomenești să uit ce tocmai s-a petrecut, să forțez o minte 
 
 Încă năucită și epuizată înăuntrul meu, am o trăire plină că suntem atât de trecători. Încep să-mi vină întrebări grămadă peste minte și la niciuna nu am un răspuns. Nu le-am mai privit niciodată așa, cel puțin nu după ce am înțeles eu sau credeam că am înțeles eu ce e viața.
 
-Care este sensul vieții ăsteia? Cine ne-a pus pioni pe-o scenă care se termină de trăit când abia a început să fie de înțeles? De ce trăim? Toate răspunsurile pe care credeam că le-am priceput se fac țândări la malul acestor întrebări, în contextul zilelor deprimante pe care le trec cu chiu, cu vai. Pentru că la mine, deși m-am scremut mult timp, nu a funcționat niciodată faza cu religia, cu "Fac sacrificiul ăsta pentru că o să mântuiesc!"(!), nu mai găsesc rețeta care să-mi trateze indiferența și pe alocuri repulsia față de simulacrul de viață în care m-am priponit.
+Care este sensul vieții ăsteia? Cine ne-a pus pioni pe-o scenă care se termină de trăit când abia a început să fie de înțeles? De ce trăim? Toate răspunsurile pe care credeam că le-am priceput se fac țăndări la malul acestor întrebări, în contextul zilelor deprimante pe care le trec cu chiu, cu vai. Pentru că la mine, deși m-am scremut mult timp, nu a funcționat niciodată faza cu religia, cu "Fac sacrificiul ăsta pentru că o să mântuiesc!"(!), nu mai găsesc rețeta care să-mi trateze indiferența și pe alocuri repulsia față de simulacrul de viață în care m-am priponit.
 
 Singurul fir care mă ține în această demență este faptul că eu nu pot duce emoțional acum, cât timp mama e lucidă, frica și groaza ei de a se trezi într-un azil. Atât. Mă tot cercetez, e adevărat că poate nu-i taman momentul potrivit, dar măcar o fac la rece, și-mi dau seama că pe mine nu mă leagă de mama sentimente de iubire. Nu știu dacă le-am avut, nu știu când, dez-amăgită, adică scoasă din amăgirea dulce că ai mei o să-și țină promisiunea față de puiul lor, am tăiat radical orice sentiment d-ăsta în mine, știu doar că nu am fost niciodată apropiate și cu siguranță acum nu iubirea o ține sub acoperișul meu.
 
