@@ -81,7 +81,7 @@ Nu eram pregătită nici pentru un sfert din tirada ce-a urmat, d-apăi pentru t
 
 Am închis telefonul și-am început să plâng.
 
-Să descarc răutatea asta care a străbătut eterul și mi s-a strecurat în fibre, să curgă uimirea mea ca bucuria mi-a fost mai scurtă de o miime de secundă că am reușit să dau de ei, să mă spăl de tristețea pe care o resimt adânc, că am devenit din oameni neoameni și nici măcar vârsta nu îndulcește veninul, să găsesc o cale să-i spun mamei fără să o rănesc că trebe să-și ia gândul e la el.
+Să descarc răutatea asta care a străbătut eterul și mi s-a strecurat în fibre, să curgă uimirea mea ca bucuria mi-a fost mai scurtă de o miime de secundă că am reușit să dau de ei, să mă spăl de tristețea pe care o resimt adânc, că am devenit din oameni neoameni și nici măcar vârsta nu îndulcește veninul, să găsesc o cale să-i spun mamei fără să o rănesc că trebe să-și ia gândul de la el.
 
 <p style="text-align: center;">***</p>
 
