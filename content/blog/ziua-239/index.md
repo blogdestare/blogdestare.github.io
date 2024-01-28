@@ -1,4 +1,4 @@
-
++++
 date = 2022-09-07
 title = "Ziua 239"
 description = "Extrem de cerebrală, văd limpede, albastru egeic, că nicio furtună nu ține o veșnicie albă. Extrem de emoțională, îmi dau peste gura cerebrală cu nerăbdarea, cu dorința mea de libertate curată, fără vini și reproșuri ulterioare și mă prind, again, că oricare ar fi finalul acestei povești, oricum voi pierde. Dar voi fi și câștigat."
