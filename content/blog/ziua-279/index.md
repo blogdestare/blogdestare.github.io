@@ -57,8 +57,8 @@ Tot azi, tot pentru mine și nevoia mea de exprimare și tot dintr-un curaj nebu
 
 <div class="flex justify-center h-96">
    <img class="h-96" src="images/faianta-1.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img class="h-96" src="images/faianta-2.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img class="h-96" src="images/faianta.jpeg" /> 
+   <img class="h-96" src="images/faianta.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img class="h-96" src="images/faianta-2.jpeg" /> 
 </div>
 
 În timp ce buchisesc la faianță realizez, ca și cum în fața mea a pus cineva brusc o plancardă, că eu, pe principiul liniarității vieții ăsteia de pe pământ, unde începi un lucru dar îl și termini, tot timpul am creața credință că o să termin situația asta care-mi dă bătăi de cap și iese soarele. Si când nu iese, m-apucă disperarea. Într-un final, julită și vai de steaua mea aia de n-o mai văd, iese soarele, mă bucur o țâră și vine altă situație cu care încep să mă simt nelalocul meu. Sau al ei, în viața mea.
