@@ -2,7 +2,7 @@
 +++
 date = 2022-10-26
 title = "Ziua 288"
-description = "o să mă 'vindec', de trăirile astea tenebroase, când o să mă scot în afara mea, când o să mă dau afară din ecuație și când o să fiu capabilă să fiu, ingenuă, doar despre ea, despre mama, fără însă să mă ignor, refuz, astup. Oricât de antagonic și de aiuritor poate fi gândul ăsta, îl simt în mine adevărat și-l simt cum crește, chiar dacă îl ignor. Numai că nu pot cuprinde cu mintea cum să fiu iubire cu mama, în același timp în care sunt iubire cu mine."
+description = "O să mă 'vindec', de trăirile astea tenebroase, când o să mă scot în afara mea, când o să mă dau afară din ecuație și când o să fiu capabilă să fiu, ingenuă, doar despre ea, despre mama, fără însă să mă ignor, refuz, astup. Oricât de antagonic și de aiuritor poate fi gândul ăsta, îl simt în mine adevărat și-l simt cum crește, chiar dacă îl ignor. Numai că nu pot cuprinde cu mintea cum să fiu iubire cu mama, în același timp în care sunt iubire cu mine."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
