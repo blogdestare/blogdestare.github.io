@@ -2,7 +2,7 @@
 +++
 date = 2022-09-26
 title = "Ziua 258"
-description = "Spăl vasele și strâng masa și mă simt la Cenușăreasa, eu aș vrea să fiu cocoțată în vârf de munte, în schimb sunt pe-un burete de vase. Vocii ăleia care-mi spune că asta e experiența, că prin asta trebe să trec, că trebe să-mi deschid pieptul s-o primesc cu toată inima, îi spun, tot din toată inima, fuck you. Nu pot să accept să-mi treacă timpul, să-mi treacă zile, clipe de viață netrăită. Nu pot și atât."
+description = "Spăl vasele și strâng masa și mă simt ca Cenușăreasa, eu aș vrea să fiu cocoțată în vârf de munte, în schimb sunt pe-un burete de vase. Vocii ăleia care-mi spune că asta e experiența, că prin asta trebe să trec, că trebe să-mi deschid pieptul s-o primesc cu toată inima, îi spun, tot din toată inima, fuck you. Nu pot să accept să-mi treacă timpul, să-mi treacă zile, clipe de viață netrăită. Nu pot și atât."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
@@ -59,7 +59,7 @@ Termin la limită prânzul lui, mănânc și eu cu el, mai schimbăm câte o par
 
 Oricât de anost aș trăi acum, oricât de revoltată sunt, oricât de tristă și iritată inutil, nu pot să mă fac că nu văd măreția acestei vieți. Experiența asta care se întinde între o naștere și o mare trecere este atât de vastă, atât de mindblowing, încât îmi face poftă aproape fizică de a o trăi.
 
-Spăl vasele și strâng masa și mă simt la Cenușăreasa, eu aș vrea să fiu cocoțată în vârf de munte, în schimb sunt pe-un burete de vase. Aș vrea să văd capete de lume dar stau lipită de o casă, frumoasă ce-i drept, dar aceeași. Vreau să văd oameni, să absorb culturi, să învăț, să mă desfac pe mine către ființa fabuloasă ce știu că e acolo, undeva, iar eu strâng și spăl și fac mâncare. Iar vocii ăleia care-mi spune că asta e experiența, că prin asta trebe să trec, că trebe să-mi deschid pieptul s-o primesc cu toată inima, îi spun, tot din toată inima, fuck you. Nu pot să accept să-mi treacă timpul, să-mi treacă zile, clipe de viață netrăită. Nu pot și atât.
+Spăl vasele și strâng masa și mă simt ca Cenușăreasa, eu aș vrea să fiu cocoțată în vârf de munte, în schimb sunt pe-un burete de vase. Aș vrea să văd capete de lume dar stau lipită de o casă, frumoasă ce-i drept, dar aceeași. Vreau să văd oameni, să absorb culturi, să învăț, să mă desfac pe mine către ființa fabuloasă ce știu că e acolo, undeva, iar eu strâng și spăl și fac mâncare. Iar vocii ăleia care-mi spune că asta e experiența, că prin asta trebe să trec, că trebe să-mi deschid pieptul s-o primesc cu toată inima, îi spun, tot din toată inima, fuck you. Nu pot să accept să-mi treacă timpul, să-mi treacă zile, clipe de viață netrăită. Nu pot și atât.
 
 <p style="text-align: center;">***</p>
 
