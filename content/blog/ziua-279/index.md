@@ -56,10 +56,11 @@ Mirosul de lemn ars, pe alocuri mai puternic, pe alocuri aproape deloc, m-a țin
 Tot azi, tot pentru mine și nevoia mea de exprimare și tot dintr-un curaj nebunesc, am desenat, cu pixul pentru început, pe mici plăci de faianță rămase de la bucătărie. Din serialul "ce decor a mai schimbat Biannca", visez la faianță desenată, nu integral, ci așa răsfirat pe ici pe colo, sau doar un brâu, ceva minimalist, dar stilul ăla care pe mine mă încântă cel mai mult: un british aristocrat amestecat cu tușe de franțuz rural. Desenatul meu de azi, pe lângă că a fost o surpriză colosală pentru mine, care nu sunt în stare să desenez o pisică, mi-a deschis o lume întreagă de posibilități. Vreau să-mi lărgesc cât mai mult posibil mintea, să nu mai gândească în luat de-a gata ci în invenție, creație, chiar dacă nu atinge standardele estetice ale celor din jur. Până acum, casa mea nu a încetat să-mi dea zâmbete în inimă și frumusețe în ochi așa că am toată încrederea în mine și în gustul meu. Și-apoi, nu mie trebe să-mi placă?!
 
 <div class="flex justify-center h-96">
-   <img class="h-96" src="faianta 1.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img class="h-96" src="faianta 2.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img class="h-96" src="faianta.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img class="h-96" src="faianta-1.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img class="h-96" src="faianta-2.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img class="h-96" src="faianta.jpeg" /> 
 </div>
+
 
 În timp ce buchisesc la faianță realizez, ca și cum în fața mea a pus cineva brusc o plancardă, că eu, pe principiul liniarității vieții ăsteia de pe pământ, unde începi un lucru dar îl și termini, tot timpul am creața credință că o să termin situația asta care-mi dă bătăi de cap și iese soarele. Si când nu iese, m-apucă disperarea. Într-un final, julită și vai de steaua mea aia de n-o mai văd, iese soarele, mă bucur o țâră și vine altă situație cu care încep să mă simt nelalocul meu. Sau al ei, în viața mea.
 
