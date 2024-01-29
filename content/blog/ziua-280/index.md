@@ -2,7 +2,7 @@
 +++
 date = 2022-10-18
 title = "Ziua 280"
-description = "Am luat ca temă pentru acasă, prin sughițuri și lacrimi de curățare și de acceptare, semnul cu "Do not disturb!" pe care Wayne îl avea în cap, acolo unde își plasa în imaginație orice voia el să creadă, orice rezona puternic cu toată ființa lui și nu lăsa pe nimeni, cu sau fără bocanci, să intre acolo, în intimitatea lui, cu degetul instigator a 'NU se poate ce vrei tu!'"
+description = "Am luat ca temă pentru acasă, prin sughițuri și lacrimi de curățare și de acceptare, semnul cu 'Do not disturb!' pe care Wayne îl avea în cap, acolo unde își plasa în imaginație orice voia el să creadă, orice rezona puternic cu toată ființa lui și nu lăsa pe nimeni, cu sau fără bocanci, să intre acolo, în intimitatea lui, cu degetul instigator a 'NU se poate ce vrei tu!'"
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
