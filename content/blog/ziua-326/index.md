@@ -2,7 +2,7 @@
 +++
 date = 2022-12-03
 title = "Ziua 326"
-description = "Nu-mi mai pun pumnul în gură pentru că da, am dreptate să fiu nervoasă. Nu pe mama, ci pe situație, am reușit s-o dezlipesc pe mama din dreptul degetului meu acuzator, acum arunc săgețile nervoase către situație. Nu sunt limpede încă în mine dacă nu cumva shiftul ăsta nu e o falsitate, e ca aia "trebe să se facă și să se dreagă" fără numire de responsabil dar, cel puțin acum, pentru emoționala din mine, e bine să știe că nu mai împroașcă cu gânduri spurcate câmpul mamei de energie, și așa faultat probabil de demență."
+description = "Nu-mi mai pun pumnul în gură pentru că da, am dreptate să fiu nervoasă. Nu pe mama, ci pe situație, am reușit s-o dezlipesc pe mama din dreptul degetului meu acuzator, acum arunc săgețile nervoase către situație. Nu sunt limpede încă în mine dacă nu cumva shiftul ăsta nu e o falsitate, e ca aia 'trebe să se facă și să se dreagă' fără numire de responsabil dar, cel puțin acum, pentru emoționala din mine, e bine să știe că nu mai împroașcă cu gânduri spurcate câmpul mamei de energie, și așa faultat probabil de demență."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []

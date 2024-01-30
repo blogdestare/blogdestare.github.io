@@ -78,16 +78,5 @@ poze
   <img src="images/ziua-63-1.jpeg" />
 </div>
 
-<div class="flex justify-center ">
-  <img src="images/rococo1.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/rococo4.jpeg" />
-</div>
-
-<div class="flex justify-center h-96">
-   <img class="h-96" src="images/WhatsApp-Image-2022-09-14-at-22.59.38-1.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img class="h-96" src="images/legitimatie-2-1024x709.jpeg" /> &nbsp; &nbsp; &nbsp;
-</div>
-
 video
 
-<a href="https://www.youtube.com/watch?v=48vtduOhn9E" target="_blank">https://www.youtube.com/watch?v=48vtduOhn9E</a>
