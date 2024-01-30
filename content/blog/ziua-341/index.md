@@ -2,7 +2,7 @@
 +++
 date = 2022-12-18
 title = "Ziua 341"
-description = "Atâtea Biennci, câte stări. Nici nu-i de mirare că nu reușesc să mă cuprind. Într-un fel mă pot trezi la prima oră, odihnită sau bumbuțată din loc în loc, într-altul sunt pe la mijloc de zi și altă Bianncă petrece seara. Iar părțile astea de zi se desfac și ele la rândul lor în mini părți, cu diverse stări, cu diverse comportamente. Iar mini părțile în momente cu tușe personale, momentele în mini-momente și uite așa, dacă trag linia seara, simt că m-au cutreierat mii de Biennci, ca ielele."
+description = "Atâtea Biennci, câte stări. Nici nu-i de mirare că nu reușesc să mă cuprind. Într-un fel mă pot trezi la prima oră, într-altul sunt pe la mijloc de zi și altă Bianncă petrece seara. Iar părțile astea de zi se desfac și ele la rândul lor în mini părți, cu diverse stări, cu diverse comportamente. Iar mini părțile în momente cu tușe personale, momentele în mini-momente și uite așa, dacă trag linia seara, simt că m-au cutreierat mii de Biennci, ca ielele."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
