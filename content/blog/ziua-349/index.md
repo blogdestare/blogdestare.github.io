@@ -72,7 +72,7 @@ La ceas de seară decid calmă că fuștereala a fost o impresie pripită. Într
 Frumosul din zi:
 
 <div class="flex justify-center">
-  <img src="images/349.jpegg" />
+  <img src="images/349.jpeg" />
 </div>
 
 Kirsty Elson
