@@ -2,8 +2,7 @@
 +++
 date = 2022-12-11
 title = "Ziua 334"
-description = "Nu am curajul să articulez frica asta nici măcar pentru mine în mine. Nu vreau să gândesc ce-mi vine să gândesc, dar mai mult de atât, nu vreau să simt ce-mi vine să simt. Am îmbătrânit brusc azi. Dacă m-ar întreba cineva ce am făcut azi, i-aș răspunde că am trăit o întreagă viață într-o zi. 
-Neputința bătrâneții trăită de un nebătrân e hidoasă."
+description = "Nu am curajul să articulez frica asta nici măcar pentru mine în mine. Nu vreau să gândesc ce-mi vine să gândesc, dar mai mult de atât, nu vreau să simt ce-mi vine să simt. Am îmbătrânit brusc azi. Dacă m-ar întreba cineva ce am făcut azi, i-aș răspunde că am trăit o întreagă viață într-o zi. Neputința bătrâneții trăită de un nebătrân e hidoasă."
 authors = ["Biannca Locatelli"]
 [taxonomies]
 tags = []
