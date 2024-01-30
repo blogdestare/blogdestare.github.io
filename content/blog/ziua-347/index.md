@@ -71,7 +71,7 @@ Deși-s obosită, i-am dăruit răbdarea mea și-am înțeles că a vrea să vez
 Frumosul din clipă:
 
 <div class="flex justify-center">
-  <img src="images/images/347-1.jpeg" />
+  <img src="images/images/347.jpeg" />
 </div>
 
 Ceramics by Jurg C. Bachtold
