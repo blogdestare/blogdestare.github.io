@@ -8,4 +8,7 @@ authors = ["Biannca Locatelli"]
 
 
 
-Să știi că prefer mesajele cu sens și bun simț. Răspund la fel. Mulțam!
+Mă găsești la blogdestare@gmail.com 
+
+
+Să știi că prefer mesajele cu sens și bun simț.Răspund la fel. Mulțam!
