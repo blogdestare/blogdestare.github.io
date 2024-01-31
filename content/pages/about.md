@@ -1,6 +1,6 @@
 +++
 date = 2019-03-11
-title = "About"
+title = "Despre mine"
 description = "Despre mine"
 template = "page.html"
 authors = ["Thomas Weitzel"]
