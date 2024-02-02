@@ -1,9 +1,3 @@
----
-title: "Ziua 617"
-date: "2023-09-20"
-categories: 
-  - "viata-asa-cum-e"
-coverImage: "ultima-zi-1.png"
 
 +++
 date = 2023-09-20
