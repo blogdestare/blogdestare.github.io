@@ -13,6 +13,7 @@ module.exports = {
             colors: {
                 ...defaultColors,
                 ...{
+                    black: '#000000',
                     green0: '#86efac',
                     green1: '#4ade80',
                 },

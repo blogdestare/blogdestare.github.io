@@ -7,7 +7,8 @@
         {% for entry in config.extra.social_links %}
         {% if entry.enabled %}
         <a {% if entry.rel is defined %} rel="{{ entry.rel }}" {% endif %} href="{{ entry.link }}"
-            title="{{ entry.name | capitalize }}" {% if loop.index==1 %} class="text-gray-400 hover:text-gray-500">
+            title="{{ entry.name | capitalize }}" {% if loop.index==1 %} class="text-gray-400 hover:text-gray-500"
+            target="_blank">
             {% else %}
             class="ml-8 text-gray-400 hover:text-gray-500">
             {% endif %}

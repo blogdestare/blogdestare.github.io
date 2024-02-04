@@ -67,6 +67,23 @@ Any day from Wordpress is stored in a folder (ex: `ziua-1`).
 7. Go to https://blogdestare.github.io/ to see the published result
    that's available online.
 
+<br/>
+
+### Navigation within a blog post
+
+Example from `ziua-350/index.md`, to be placed at the end of the file:
+
+```
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-349/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-351/">Postarea următoare</a>
+  </div>
+</div>
+```
+
 ### Assets
 
 -   `_wp` is the WordPress export and the conversion(s) to Markdown.
