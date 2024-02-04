@@ -8,7 +8,7 @@ authors = ["Biannca Locatelli"]
 
 
 
-Mă găsești la blogdestare@gmail.com 
+Mă găsești la adresa <a href="mailto:blogdestare@gmail.com" target="_blank">blogdestare@gmail.com</a> 
 
 
 Să știi că prefer mesajele cu sens și bun simț. Răspund la fel. 
