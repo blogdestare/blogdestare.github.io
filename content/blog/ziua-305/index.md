@@ -83,3 +83,18 @@ Cu capul greu pe pernă, dar inimă ușoară, validez cu Universul recunoștinț
 3. Copila mea frumoasă pe care o imensiubesc!
 
 Feeria zilei:
+
+<div class="flex justify-center mt-6 rounded-lg bg-black p-2">
+<video
+    id="my-video"
+    class="video-js"
+    controls
+    preload="auto"
+    width="600"
+    height="400"
+    poster="images/vulpitza.png"
+    data-setup="{}"
+  >
+    <source src="images/vulpitza.mp4" type="video/mp4" />
+</video>
+</div>

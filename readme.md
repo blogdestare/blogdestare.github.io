@@ -91,7 +91,7 @@ Example from `ziua-350/index.md`, to be placed at the end of the file:
 
 poze
 
-<div class="flex justify-center">
+<div class="mtflex justify-center">
   <img src="images/ziua-63-1.jpeg" />
 </div>
 

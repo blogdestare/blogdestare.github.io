@@ -62,3 +62,18 @@ Așa că astăzi sunt recunoscătoare pentru:
 3. Liniștea din casă, chiar dacă ea vine la pachet cu lipsa Mayei (azi a fost prima zi în care am putut să fiu obiectivă și să văd că da, e liniște fără ea. Nu că e mai bine fără ea, doar mai liniște.…)
 
 P.S. mi-a trimis copila mea un video cu Maya. Am adormit cu lacrimi repezi pe obraz, cu dor adânc în piept și cu un strop de revoltă împotriva schimbărilor în stomac.
+
+<div class="flex justify-center mt-6 rounded-lg bg-black p-2">
+<video
+    id="my-video"
+    class="video-js"
+    controls
+    preload="auto"
+    width="600"
+    height="400"
+    poster="images/maya.png"
+    data-setup="{}"
+  >
+    <source src="images/maya.mp4" type="video/mp4" />
+</video>
+</div>
