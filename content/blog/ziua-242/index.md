@@ -74,3 +74,16 @@ Clipa mea de fain:
 <div class="flex justify-center">
   <img src="images/242-900x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-241/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-243/">Postarea următoare</a>
+  </div>
+</div>

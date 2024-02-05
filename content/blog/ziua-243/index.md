@@ -111,3 +111,16 @@ Frumosul meu azi:
     <img class="h-96" src="images/plimbare-1-1024x768.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img class="h-96" src="images/plimbare-2-1024x768.jpeg" /> &nbsp; &nbsp; &nbsp;
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-242/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-244/">Postarea următoare</a>
+  </div>
+</div>

@@ -84,3 +84,16 @@ M-am trezit cu o grămadă de timp în față dar și cu o durere din ce în ce 
 Dau drumul la Netflix, la Bridgerton și-mi opresc motoarele, cu Spiky lângă mine. Are fătuca asta, crescută pe maidan ca și mine, un miros al stării mele de rău, ceva de speriat: de câte ori nu mi-e bine, ea stă lângă mine, nedezlipită. Azi am drăgălit-o încetișor, cât am putut și eu și i-am declarat că știu că e îngerul meu păzitor.
 
 Am apucat să-mi trec prin ochii minții ziua, cu grabă, că nici nu mi-am văzut susurile și josurile prea bine și apoi cu durere, că nici nu mi-a mai ars să le văd. Recunoștința mea s-a dus toată către porțelanuri și fosta lor stăpână, și tot acolo a fost și frumosul zilei. În rest, nimic notabil, nimic care să schimbe o stare ce pare că se infiltrează perfid în acumul meu.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-248/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-250/">Postarea următoare</a>
+  </div>
+</div>

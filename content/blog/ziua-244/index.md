@@ -155,3 +155,16 @@ All her heart hears is<br/>
 </div>
 
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-243/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-245/">Postarea următoare</a>
+  </div>
+</div>

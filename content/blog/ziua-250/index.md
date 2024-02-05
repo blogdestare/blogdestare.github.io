@@ -70,3 +70,16 @@ S-a întors și Mr. H acasă, simt prezența lui ca o mică rază de soare pe o 
 <p style="text-align: center;">***</p>
 
 Sunt tare obosită.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-249/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-251/">Postarea următoare</a>
+  </div>
+</div>

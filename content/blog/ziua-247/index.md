@@ -121,3 +121,16 @@ Frumosul zilei peste ochii care au vegheat cu bune intenții asupra unui traseu:
    <img class="h-96" src="images/WhatsApp-Image-2022-09-14-at-22.59.38-1.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img class="h-96" src="images/legitimatie-2-1024x709.jpeg" /> &nbsp; &nbsp; &nbsp;
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-246/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-248/">Postarea următoare</a>
+  </div>
+</div>

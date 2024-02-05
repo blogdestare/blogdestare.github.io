@@ -75,3 +75,16 @@ Ce clipă frumoasă mi-a fost:
 <div class="flex justify-center">
   <img src="images/241-833x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-240/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-242/">Postarea următoare</a>
+  </div>
+</div>

@@ -72,3 +72,16 @@ Nu mai am chef de nimic, nici să mă uit la TV, nici să nu mă uit, nici să m
 Stau absentă și trec în revistă o zi nașpa. Nici măcar nu o numesc neagră, pentru că aș minți, e o zi urâtă cu totul. Singurul meu gând care mă ajută este că știu că totul e trecător. Rămâne de văzut cum se traduce în timp acest "trecător". Altfel, azi nu pot numi recunoștințe iar frumos, deși o fi, nu-l văd.
 
 Can I skip to the good part?
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-247/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-249/">Postarea următoare</a>
+  </div>
+</div>

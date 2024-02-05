@@ -64,3 +64,16 @@ Dacă aș opri deșirarea gândurilor la acest gând primordial și primar, totu
 Nu-mi mai arde de nimic, sunt într-o stare de împietrire, mă uit la Netflix și totuși nu mă uit, privesc în orizont spre un apus pe care nu reușesc să-l conțin, dușul nu mai e momentul meu de curățare, am căzut în hazna și în jurul meu totul pute.
 
 Închei o zi banală, cu tente maronii spre negru, cu apăsare de dimineața până seara, cu neplăcere de viață și iritare peste măsură. Sunt recunoscătoare că-l am pe domnul meu prin preajmă, să pot respira aer bun, de drag, în jurul lui și că există distracții de la o realitate care nu-mi place mai deloc. O exista și-o a treia recunoștință dar acum nu-mi vine în minte. Ah, ba da, să fie aia că m-am trezit. Am pângărit azi până și partea asta…
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-245/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-247/">Postarea următoare</a>
+  </div>
+</div>
