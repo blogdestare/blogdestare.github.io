@@ -71,3 +71,16 @@ Iar frumosul din clipă este:
 <div class="flex justify-center">
   <img src="images/rabbit.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-220/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-222/">Postarea următoare</a>
+  </div>
+</div>

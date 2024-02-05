@@ -90,3 +90,16 @@ Frumosul zilei:
 <div class="flex justify-center">
   <img src="images/225-frumos.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-224/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-226/">Postarea următoare</a>
+  </div>
+</div>

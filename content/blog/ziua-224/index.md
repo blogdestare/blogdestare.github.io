@@ -83,3 +83,16 @@ Frumosul zilei e momentul inegalabil al ciubărului:
 <div class="flex justify-center">
   <img src="images/ciubar-furtuna-1024x576.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-223/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-225/">Postarea următoare</a>
+  </div>
+</div>

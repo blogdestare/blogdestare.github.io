@@ -99,3 +99,16 @@ Clipa de frumos este:
 </div>
 
 Creat de woo_dkey
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-229/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-231/">Postarea următoare</a>
+  </div>
+</div>

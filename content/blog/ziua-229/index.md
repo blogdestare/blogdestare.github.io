@@ -72,3 +72,16 @@ Cu analiza aia rece, de chirurg, de care sunt capabilă, observ că am căzut di
 <p style="text-align: center;">***</p>
 
 M-am ferit eu să numesc zilele negre, dar azi n-am nici măcar delicatețea asta. O închid, oripilată din nou de unghiile mamei, scârba de care nu reușește să mă spele nici dușul, absent și el din bucata mea de atenție. Sunt supărată pe mine, pe traseul meu de azi, pe tot și toate și nu-mi arde de nicio recunoștință. Mă bucur că mă pun la somn, evadarea mea perfectă și mascată.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-228/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-230/">Postarea următoare</a>
+  </div>
+</div>

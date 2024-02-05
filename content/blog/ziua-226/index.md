@@ -86,3 +86,16 @@ Mi se închideau ochii încă de la duș, cred că am adormit în drum spre pat.
 3. Mâncarea vegană gătită de cei de la Akasha, curcubeu pe cerul gurii, care n-a făcut rău niciunei ființe să ajungă în farfuriile noastre, hrană vie!
 
 Iar frumosul zilei mele sunt oamenii, în toate splendoarea lor curată!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-225/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-227/">Postarea următoare</a>
+  </div>
+</div>
