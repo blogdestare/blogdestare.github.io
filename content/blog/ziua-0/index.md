@@ -42,3 +42,9 @@ Toate sentimentele pe care le trăiam dar nu le exteriorizam, toate trăirile pe
 <a href="https://www.youtube.com/watch?v=48vtduOhn9E" target="_blank">https://www.youtube.com/watch?v=48vtduOhn9E</a>
 
 Și așa am ajuns la ziua de 12 ianuarie 2022 (care este și ziua în care, acum 22 de ani, deveneam mamă)...
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-1/">Postarea următoare</a>
+  </div>
+</div>
