@@ -102,11 +102,13 @@ video
 
 <br/>
 
+<br/>
+
 <div class="flex justify-between">
   <div>
-    <a href="/blog/ziua-349/">Postarea anterioară</a>
+    <a href="/blog/ziua-0/">Postarea anterioară</a>
   </div>
   <div>
-    <a href="/blog/ziua-351/">Postarea următoare</a>
+    <a href="/blog/ziua-1/">Postarea următoare</a>
   </div>
 </div>

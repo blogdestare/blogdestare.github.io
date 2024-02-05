@@ -80,3 +80,16 @@ Iar cele 3 lucruri pentru care sunt recunoscătoare azi:
 1. Că nu ne-am pierdut umanitatea!
 2. Că primesc ajutor de la un specialist!
 3. Că domnul meu m-a îmbrățișat și mângâiat pe față azi!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-1/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-3/">Postarea următoare</a>
+  </div>
+</div>
