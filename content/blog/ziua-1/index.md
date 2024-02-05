@@ -84,6 +84,10 @@ Până una-alta, deși îi place la nebunie la duș sau în cadă, e o întreag�
 2. Că există culoarea galben!
 3. Că am o casă atât de faină!
 
+<br/>
+
+<br/>
+
 <div class="flex justify-between">
   <div>
     <a href="/blog/ziua-0/">Postarea anterioară</a>
