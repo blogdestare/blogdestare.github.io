@@ -121,3 +121,12 @@ Clipa mea de frumos plin este:
 </div>
 
 Embroidered pomegranate by Margaret Cobleigh
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-114/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-116/">Postarea următoare</a>
+  </div>
+</div>

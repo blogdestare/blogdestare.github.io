@@ -115,3 +115,12 @@ Iar frumosul meu se duce la gălușca asta mică și dulce:
 <div class="flex justify-center">
   <img src="images/rata.jpeg" />
 </div>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-118/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-120/">Postarea următoare</a>
+  </div>
+</div>

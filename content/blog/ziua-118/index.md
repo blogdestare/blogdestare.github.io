@@ -105,3 +105,12 @@ Clipa mea de frumos pur-sânge:
 <div class="flex justify-center">
   <img src="images/cal.jpeg" />
 </div>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-117/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-119/">Postarea următoare</a>
+  </div>
+</div>

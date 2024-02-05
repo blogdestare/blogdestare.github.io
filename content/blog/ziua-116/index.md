@@ -113,3 +113,12 @@ Clipa mea de frumos:
 </div>
 
 lan de rapiță
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-115/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-117/">Postarea următoare</a>
+  </div>
+</div>

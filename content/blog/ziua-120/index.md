@@ -99,3 +99,12 @@ Clipa mea de frumos a fost umplută de:
 
 by [Lucia Friedericy, Friedericy Dolls]
 <a href="https://www.thetoyshoppe.com/products/?manufacturer=5647" target="_blank">https://www.thetoyshoppe.com/products/?manufacturer=5647</a>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-119/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-121/">Postarea următoare</a>
+  </div>
+</div>

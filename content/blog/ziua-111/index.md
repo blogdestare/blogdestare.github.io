@@ -101,3 +101,12 @@ Iar clipa mea de fain a fost azi:
 </div>
 
 Yazemeenah Rossi
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-110/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-112/">Postarea următoare</a>
+  </div>
+</div>

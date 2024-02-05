@@ -93,3 +93,12 @@ Momentul meu de frumos colorat este:
 <div class="flex justify-center">
   <img src="images/ziua-117-bun.jpeg" />
 </div>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-116/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-118/">Postarea următoare</a>
+  </div>
+</div>

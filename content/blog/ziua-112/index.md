@@ -103,3 +103,12 @@ Clipa mea de frumos este dată de regina oricărei curți (sau clădiri), glicin
 </div>
 
 Wisteria sinensis
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-111/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-113/">Postarea următoare</a>
+  </div>
+</div>
