@@ -102,7 +102,7 @@ Las toate trăirile mele, toate emoțiile mele, toate gândurile mele și toate 
 
 Clipele mele de caring, de frumos, sunt:
 
-<div class="flex justify-center ">
+<div class="flex justify-center h-96">
   <img src="images/pinguini.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img src="images/marmote.jpeg" />
 </div>
@@ -119,3 +119,4 @@ Clipele mele de caring, de frumos, sunt:
     <a href="/blog/ziua-191/">Postarea următoare</a>
   </div>
 </div>
+
