@@ -83,3 +83,12 @@ Până una-alta, deși îi place la nebunie la duș sau în cadă, e o întreag�
 1. Că suntem în viață toți!
 2. Că există culoarea galben!
 3. Că am o casă atât de faină!
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-0/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-1/">Postarea următoare</a>
+  </div>
+</div>
