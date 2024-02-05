@@ -81,3 +81,16 @@ Nu forțez norocul să articulez niște recunoștințe dar m-a traversat un frum
 </div>
 
 Lyrics paper
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-238/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-240/">Postarea următoare</a>
+  </div>
+</div>

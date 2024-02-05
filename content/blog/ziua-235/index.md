@@ -87,3 +87,16 @@ Clipa mea de bine frumos este:
 </div>
 
 made by quaintmarie
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-234/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-236/">Postarea următoare</a>
+  </div>
+</div>

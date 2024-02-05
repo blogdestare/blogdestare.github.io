@@ -74,3 +74,16 @@ Am recuperat-o pe Chichirică destul de târziu în zi, deși recunosc că nu a 
 Din nota aia de răzbunare sterilă și puerilă, din care am eu porniri câteodată să mă răzbun pe te miri ce, care dau în final tot în mine, azi nu scot la scuturat și întins pe cerul serii nicio recunoștință.
 
 Ultimul gând e și el milog ca Spiky și se roagă de cineva, din exterior, să mă ferească de încă o zi apoteotică ca asta, mâine.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-237/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-239/">Postarea următoare</a>
+  </div>
+</div>

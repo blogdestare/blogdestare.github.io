@@ -129,3 +129,16 @@ Clipa mea de similitudine este:
 <div class="flex justify-center">
   <img src="images/d2b5d1afbb0ffbab00a5a50543aa540d.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-231/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-233/">Postarea următoare</a>
+  </div>
+</div>

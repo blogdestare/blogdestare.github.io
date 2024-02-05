@@ -81,3 +81,16 @@ Clipa de fainoșag a zilei:
 <div class="flex justify-center">
   <img src="images/240-828x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-239/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-241/">Postarea următoare</a>
+  </div>
+</div>

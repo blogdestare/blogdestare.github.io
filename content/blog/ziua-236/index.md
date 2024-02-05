@@ -77,3 +77,16 @@ Clipa mea de fain sculptat este:
 <div class="flex justify-center">
   <img src="images/standing.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-235/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-237/">Postarea următoare</a>
+  </div>
+</div>
