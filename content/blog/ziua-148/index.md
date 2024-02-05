@@ -22,3 +22,16 @@ Astea au fost singurele mele momente trează mai mult decât să beau o înghiț
 Am dormit tot restul timpului, cu vise ciudate, grele, complicate și stresante. Dar le prefer pe ele decât starea asta de sfârșeală conștientă pe care o trăiesc când sunt trează.
 
 N-am trăit nicio zi ca asta până acum dar viața e oricum surprinzătoare.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-147/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-149/">Postarea următoare</a>
+  </div>
+</div>

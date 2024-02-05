@@ -87,3 +87,16 @@ Clipa mea de frumos este:
 </div>
 
 Bird of Paradise
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-144/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-146/">Postarea următoare</a>
+  </div>
+</div>

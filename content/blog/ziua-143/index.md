@@ -42,3 +42,16 @@ Nici mama nu a vrut prânz, deși Mr. H s-a dus la ea, a coborât în schimb, î
 <p style="text-align: center;">***</p>
 
 Dacă mă întreabă cineva ce am făcut ziua asta, habar n-am, a fost o zi parcă netrăită, zăcută. Spre seară s-au întors presiunea craniană și frisoanele așa că domnul meu m-a băgat în sesiunea doi de carmol. Nu-l mai suport, iar mă duce prin iadul înghețat și ăla plin de flăcări, iar transpir și mă curg de nu mă mai opresc. Dar, prin aceeași minune, și presiunea craniană începe să scadă. Mănânc 2 sendvișuri de-ale mele și nu-mi mai trebe nimic. Tot nu pot sta mult în picioare, vreau să ajung repede în pat și în somn. Că de rău, nici vise nu am.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-142/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-144/">Postarea următoare</a>
+  </div>
+</div>

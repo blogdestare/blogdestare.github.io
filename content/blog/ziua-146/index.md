@@ -66,3 +66,16 @@ Am obosit. Dar e o oboseală d-aia-n vintrele inimii, de câte ori a mai venit c
 Am și uitat cum e doar să te trezești. Dacă vrei să te dai jos, te dai, dacă nu, nu. Dacă vrei să te duci să te plimbi pe jos, te duci, dacă nu, stai pe terasă, pe scaun și te uiți. Fără nicio grijă atârnată de gât, fără nicio treabă de făcut. Nu mereu, că nu există. Dar măcar din când în când. Cum mai este frate, să ieși să bei o cafea cu un alt om, la o terasă?! Eu am trecut din pandemie direct în demență, că nici nu mai știu cum se simte să ieși. Și, cel mai dramatic dintre toate este că, naiba știe cât o să dureze toate astea.
 
 Epuizată, supărată, tristă și descurajată, vreau să închid ochii peste această realitate. Vreau să fug în somn, vreau să fug oriunde în altă parte, dar nu aici. Pentru că aici nu găsesc ieșirea aia nenorocită și simt că mă mănâncă de vie disperarea.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-145/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-147/">Postarea următoare</a>
+  </div>
+</div>

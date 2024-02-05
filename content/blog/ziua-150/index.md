@@ -75,3 +75,16 @@ Frumosul meu e azi:
 <div class="flex justify-center">
   <img src="images/burning-inside.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-149/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-151/">Postarea următoare</a>
+  </div>
+</div>

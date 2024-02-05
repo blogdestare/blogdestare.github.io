@@ -83,3 +83,16 @@ Clipa mea de frumos este:
 </div>
 
 Ranunculus
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-140/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-142/">Postarea următoare</a>
+  </div>
+</div>

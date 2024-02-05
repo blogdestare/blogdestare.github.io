@@ -64,3 +64,16 @@ Singurele evenimente notabile au fost venirea domnului meu de la birou și faptu
 <p style="text-align: center;">***</p>
 
 Sunt Biannca, cu 2 n, am 46 de ani și sunt spre sau deja în depresie. Cred.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-146/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-148/">Postarea următoare</a>
+  </div>
+</div>
