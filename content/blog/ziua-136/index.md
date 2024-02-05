@@ -91,3 +91,16 @@ Clipa mea de echilibru frumos:
 <div class="flex justify-center">
   <img src="images/echilibru.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-135/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-137/">Postarea următoare</a>
+  </div>
+</div>

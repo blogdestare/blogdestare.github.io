@@ -99,3 +99,16 @@ Inima mea de frumos:
 <div class="flex justify-center">
   <img src="images/a8c32f46e8633bf08e6a790144fb0a2d.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-133/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-135/">Postarea următoare</a>
+  </div>
+</div>

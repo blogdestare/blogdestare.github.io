@@ -99,3 +99,16 @@ Clipa mea de frumos este:
 </div>
 
 Indigo Bunting
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-132/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-134/">Postarea următoare</a>
+  </div>
+</div>

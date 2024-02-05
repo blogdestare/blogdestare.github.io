@@ -97,3 +97,16 @@ Frumosul meu frumos:
 </div>
 
 Cutie de ceai din faianță, pictată în albastru, cu scene din Vechiul Testament. an 1700, artist De Vergulde Boot
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-137/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-139/">Postarea următoare</a>
+  </div>
+</div>

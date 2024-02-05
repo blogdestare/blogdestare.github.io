@@ -117,3 +117,16 @@ Frumosul meu azi și de toate zilele de acum înainte este:
 </div>
 
 Magnifique
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-139/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-141/">Postarea următoare</a>
+  </div>
+</div>

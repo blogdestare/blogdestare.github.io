@@ -91,3 +91,16 @@ Clipa mea de frumos dată, de câte piei cărăm pe piele:
 <div class="flex justify-center">
   <img src="images/catepieicarampepiele.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-130/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-132/">Postarea următoare</a>
+  </div>
+</div>

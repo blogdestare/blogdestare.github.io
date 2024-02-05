@@ -92,3 +92,16 @@ Pesemne că n-am fost foarte clară, poate că trebuia să scriu mare că avem n
 Am învățat în ultimele cinci luni că primul contact cu informația sau situația e năucitor. Am învățat că atunci când zici că nu mai vrei, că nu mai poți, că nu mai intră, fir-ar a naibii de situație, mai vine, mai îndeasă, te mai obligă. Am învățat, dar doamne cât aș fi vrut să nu, că se așează acceptarea peste ceva ce nici în cele mai negre clipe nu-ți imaginai că ți se poate întâmpla ție.
 
 Mă simt înfrântă.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-138/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-140/">Postarea următoare</a>
+  </div>
+</div>
