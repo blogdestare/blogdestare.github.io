@@ -69,3 +69,16 @@ Clipa mea de frumos e:
 </div>
 
 Blue Mycena Mushroom
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-109/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-111/">Postarea următoare</a>
+  </div>
+</div>

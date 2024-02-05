@@ -101,3 +101,16 @@ Clipa mea de frumos s-a plămădit în:
 <div class="flex justify-center">
   <img src="images/broderie.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-100/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-102/">Postarea următoare</a>
+  </div>
+</div>

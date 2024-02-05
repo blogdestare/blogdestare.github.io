@@ -87,3 +87,16 @@ Clipa mea de frumos instant a fost:
 </div>
 
 King Bird of Paradise
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-103/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-105/">Postarea următoare</a>
+  </div>
+</div>

@@ -97,3 +97,16 @@ Clipa mea de frumos e tare gingașă:
 </div>
 
 **Yellow wagtail**
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-106/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-108/">Postarea următoare</a>
+  </div>
+</div>

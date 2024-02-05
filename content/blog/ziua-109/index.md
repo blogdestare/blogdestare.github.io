@@ -91,3 +91,16 @@ Premiul clipei de frumos merge la:
 </div>
 
 Old wooden hinge by Alien Banana
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-108/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-110/">Postarea următoare</a>
+  </div>
+</div>

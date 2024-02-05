@@ -93,3 +93,16 @@ Clipa mea de frumos este starea de verde:
 <div class="flex justify-center">
   <img src="images/musetel.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-101/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-103/">Postarea următoare</a>
+  </div>
+</div>
