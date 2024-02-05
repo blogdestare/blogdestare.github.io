@@ -93,6 +93,6 @@ Până una-alta, deși îi place la nebunie la duș sau în cadă, e o întreag�
     <a href="/blog/ziua-0/">Postarea anterioară</a>
   </div>
   <div>
-    <a href="/blog/ziua-1/">Postarea următoare</a>
+    <a href="/blog/ziua-2/">Postarea următoare</a>
   </div>
 </div>
