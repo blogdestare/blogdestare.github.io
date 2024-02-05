@@ -54,7 +54,7 @@ Să bem apă, să luăm câte mere vrem, dar să tragem poarta după noi când p
 Colina a fost de vis, presărată și cu două vaci blânde, cu ciupercuțe interesante, cu peisaje cât să-ți umple retina și spațiul din memoria alocată zilei de azi. Nu aș pune nicio tușă în plus dacă aș fi pictor și cineva m-ar pune să zugrăvesc tabloul viu ce-mi stă la picioare și peste cap. Totul e cum trebe să fie.
 
 
-<div class="flex justify-center ">
+<div class="flex justify-center h-96">
     <img src="images/vaca-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
     <img src="images/ciuperci-1024x576.jpeg" />
 </div>
