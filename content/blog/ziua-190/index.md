@@ -47,7 +47,7 @@ Mă bucur de florile mele dar și de roșiile care apar ca ciupercile după ploa
 
 <div class="flex justify-center h-96">
    <img src="images/crin-1-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/hortensii-1024x576.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img src="images/hortensii-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img src="images/crin-2-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img src="images/rosii-576x1024.jpeg" />
 </div>
