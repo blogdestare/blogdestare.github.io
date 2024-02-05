@@ -93,3 +93,16 @@ Un frumos strecurat azi a fost o bucurie pentru ochii sufletului:
 </div>
 
 Carley Simmers design
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-96/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-98/">Postarea următoare</a>
+  </div>
+</div>

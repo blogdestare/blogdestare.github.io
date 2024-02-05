@@ -120,3 +120,16 @@ Iar clipa care mi-a adus frumosul în suflet:
 <div class="flex justify-center">
   <img src="images/pottery.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-98/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-100/">Postarea următoare</a>
+  </div>
+</div>

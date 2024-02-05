@@ -91,3 +91,16 @@ Iar clipa mea de frumos, din nou dăruit de o ființă care știe cât iubesc bu
 </div>
 
 P.S. azi e ziua 100! Motiv de sărbătoare pentru perseverență, pentru scrisul meu zilnic.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-99/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-101/">Postarea următoare</a>
+  </div>
+</div>

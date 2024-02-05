@@ -90,3 +90,16 @@ Iar clipa mea de frumos este dăruită de Lem Lem:
 <div class="flex justify-center">
   <img src="images/lem-lem.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-92/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-94/">Postarea următoare</a>
+  </div>
+</div>

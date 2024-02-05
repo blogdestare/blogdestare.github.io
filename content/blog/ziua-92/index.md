@@ -92,3 +92,16 @@ Frumosul meu de-o clipă:
 </div>
 
 [Anna Weatherley Designs](https://ro.pinterest.com/annaweatherleydesigns/)
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-91/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-93/">Postarea următoare</a>
+  </div>
+</div>

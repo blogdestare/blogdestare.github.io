@@ -93,3 +93,16 @@ Clipa mea de frumos lipit pe suflet este:
 <div class="flex justify-center">
   <img src="images/green.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-95/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-97/">Postarea următoare</a>
+  </div>
+</div>

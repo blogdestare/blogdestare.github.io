@@ -86,3 +86,16 @@ Clipa mea de frumos mi-a fost dăruită azi:
 <div class="flex justify-center">
   <img src="images/vulpita.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-90/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-92/">Postarea următoare</a>
+  </div>
+</div>

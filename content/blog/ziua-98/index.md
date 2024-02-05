@@ -98,3 +98,16 @@ Clipa mea de frumos este:
 </div>
 
 Clive Nichols photograph
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-97/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-99/">Postarea următoare</a>
+  </div>
+</div>

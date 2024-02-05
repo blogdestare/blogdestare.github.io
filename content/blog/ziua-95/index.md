@@ -80,3 +80,16 @@ Azi am avut mai toată ziua clipe de frumos și aleg doar două, deși mi-e greu
 </div>
 
 **Lalelele mele, fără tulpină, de culoare corai!**
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-94/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-96/">Postarea următoare</a>
+  </div>
+</div>
