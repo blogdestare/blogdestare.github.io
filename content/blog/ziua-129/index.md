@@ -76,7 +76,7 @@ Am mai prins doar o tură prin grădină, să fac prezența și să trec în cat
    &nbsp; &nbsp; &nbsp;
    <figure>
    <img class="h-96" src="images/bucky-1-576x1024.jpeg" />
-   <figcaption></figcaption>
+   <figcaption>Bucky</figcaption>
   </figure>
 </div>
 
