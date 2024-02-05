@@ -101,3 +101,16 @@ Frumosul zilei mele:
 <div class="flex justify-center">
   <img src="images/private.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-162/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-164/">Postarea următoare</a>
+  </div>
+</div>

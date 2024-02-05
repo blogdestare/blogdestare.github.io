@@ -107,3 +107,16 @@ Clipa mea de fain este:
 </div>
 
 Beatrix Potter, favorita mea!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-164/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-166/">Postarea următoare</a>
+  </div>
+</div>

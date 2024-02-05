@@ -118,3 +118,16 @@ Frumosul meu sublim a fost azi:
     <img class="h-96" src="images/cv3.jpeg" />
 </div>
 
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-165/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-167/">Postarea următoare</a>
+  </div>
+</div>
+

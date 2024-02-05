@@ -123,3 +123,16 @@ O zi albă, călduță, nici prea-prea, nici foarte-foarte, dar suficientă să 
 Clipa mea de frumos este:
 
 <a href="https://www.youtube.com/watch?v=mw4k1tCnAuE" target="_blank">https://www.youtube.com/watch?v=mw4k1tCnAuE</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-169/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-171/">Postarea următoare</a>
+  </div>
+</div>

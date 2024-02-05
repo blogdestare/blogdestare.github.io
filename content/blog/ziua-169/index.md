@@ -119,3 +119,16 @@ Clasez ziua de azi în borcanul de zile-amalgam, cu multă prezență a mea în 
 Clipa mea de frumos azi, generată de un om drag:
 
 <a href="https://www.youtube.com/watch?v=oisZMh9xVDU" target="_blank">https://www.youtube.com/watch?v=oisZMh9xVDU</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-168/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-170/">Postarea următoare</a>
+  </div>
+</div>

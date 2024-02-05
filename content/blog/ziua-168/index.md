@@ -151,3 +151,16 @@ Clipa de frumos este:
 </div>
 
 Terre de Fer
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-167/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-169/">Postarea următoare</a>
+  </div>
+</div>

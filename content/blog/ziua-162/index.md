@@ -97,3 +97,16 @@ Frumosul meu de peste zi este:
 <div class="flex justify-center">
   <img src="images/green.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-161/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-163/">Postarea următoare</a>
+  </div>
+</div>

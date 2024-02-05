@@ -86,3 +86,16 @@ Clipa mea de feerie este clasicul castel francez, cu camerele lui spectaculare:
 <div class="flex justify-center">
   <img src="images/acebbce548318ca149eb6bb6d3c2b32b.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-160/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-162/">Postarea următoare</a>
+  </div>
+</div>

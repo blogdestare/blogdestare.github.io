@@ -111,3 +111,16 @@ Iar frumosul zilei mele este:
 <div class="flex justify-center">
   <img src="images/877b522f096a264f14b7c83d2895db84.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-166/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-168/">Postarea următoare</a>
+  </div>
+</div>
