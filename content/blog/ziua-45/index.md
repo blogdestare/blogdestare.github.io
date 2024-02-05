@@ -92,3 +92,16 @@ Această imagine nu o pot duce! Și e de un milion de ori mai dură decât durer
 Nu știu cum să fac pace în mine între nevoia mea de a fi bine și eu și nevoia de a avea grijă de ea. Între a mă simți vinovată că o duc la un azil și între a înnebuni de oboseală și griji având-o la mine. Între a decide un drum și a nu decide nimic, a lăsa lucrurile să curgă. Între a simți vina că-mi trăiesc viața și dorința de a-i fi și ei bine.
 
 Împing decizia asta pentru altă dată. Acum nici nu e momentul, nici nu a venit momentul.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-44/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-46/">Postarea următoare</a>
+  </div>
+</div>

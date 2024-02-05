@@ -82,3 +82,16 @@ Deși s-a rezolvat partea cu alimentarea tabletei, s-a întâmplat ceva cu touch
 Fără tableta ei, mama e pierdută și doarme aproape non-stop.
 
 Azi nu am soluție. Mi s-a pus o umbră parcă pe suflet. Adunată cu starea de rău, e un cocktail periculos. Atât de periculos încât nu-mi mai iese nicio respirație adâncă, ba aproape că reușesc să mă cert cu domnul meu și articulez, nervoasă și obosită de la răul ăsta fizic, că asta nu e viață de trăit!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-42/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-44/">Postarea următoare</a>
+  </div>
+</div>

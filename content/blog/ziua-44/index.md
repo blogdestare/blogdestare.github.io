@@ -99,3 +99,16 @@ Sunt totuși recunoscătoare:
 1. Copilei mele care îmi dă mesaje zilnic, terminate invariabil cu inimioare!
 2. Naturii care vindecă toate rănile!
 3. Universului care mi-a dat azi o putere supraomenească!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-43/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-45/">Postarea următoare</a>
+  </div>
+</div>

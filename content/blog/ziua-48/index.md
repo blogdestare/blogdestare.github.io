@@ -82,3 +82,16 @@ Nu mă dezic acum de felul în care am fost toată viața: totul sau nimic. Nu v
 <p style="text-align: center;">***</p>
 
 Am avut o zi liniară, cu recunoștintă doar pentru natura ce ne-a gratulat azi cu fulgi de nea. Altfel, frica=necunoașterea mi-a suflat în ceafă mai tot timpul.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-47/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-49/">Postarea următoare</a>
+  </div>
+</div>

@@ -104,3 +104,16 @@ Sunt recunoscătoare pentru:
 1. recunoștința caldă care mă vizitează impinsă de niște resorturi pe care numai ea le știe!
 2. magie!
 3. faptul că suntem cu toți în viață! Mi-am privit iubitul pe ascuns și doamne, cât mă bucur că există, că e în viață, că e în viața mea și că ne e un bine nou!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-41/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-43/">Postarea următoare</a>
+  </div>
+</div>

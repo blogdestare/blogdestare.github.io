@@ -85,3 +85,16 @@ Ziua de azi, deși tare scurtă, mi-a fost bună. Am avut stări calde, liniști
 1. Primăvară!
 2. Claritatea mea mentală ce mă conduce la conștientizări mici dar cu mare degajare de spațiu ocupat aiurea în interiorul meu!
 3. Starea asta caldă și calmă dinlăuntrul meu care parcă a uns tot parcursul meu prin ziua de azi!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-48/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-50/">Postarea următoare</a>
+  </div>
+</div>

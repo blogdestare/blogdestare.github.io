@@ -94,3 +94,16 @@ Life goes on and so are we, e vorba unei tipe tare faine de la Lugera, așa că 
 2. Faptul că domnul meu iubit e lângă mine!
 3. Primăvară!
 4. Aurul soarelui!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-45/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-47/">Postarea următoare</a>
+  </div>
+</div>

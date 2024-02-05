@@ -85,3 +85,16 @@ Nu e nici încântată, nici revoltată de difuzor și de uleiuri. Pentru că la
 În linii mari, o zi ok, scurtă, liniară, fără prea mult și multe. Sunt recunoscătoare cerului că mi-a dat zăpadă și Universului că mi-a mai dat o zi. Că n-am reușit eu să fac the best of it, îmi asum, se mai întâmplă dar poate-mi iese mâine.
 
 Ah, azi se fac 50 de zile de când scriu zilnic. Asta da perseverență! Și pentru asta sunt recunoscătoare!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-49/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-51/">Postarea următoare</a>
+  </div>
+</div>

@@ -105,3 +105,16 @@ Recunoștință plină pentru:
 1. Puiul meu și tot ce este ea!
 2. Încrederea lui Spiky!
 3. Iubire!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-46/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-48/">Postarea următoare</a>
+  </div>
+</div>

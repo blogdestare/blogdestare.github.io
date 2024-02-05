@@ -89,3 +89,16 @@ Trag linie pentru ziua de azi. Îmi dă cu plus. Cu tot zbuciumul, e o zi câșt
 1. Timpul meu fermecat, de crescut suflet!
 2. Gândul curat al ființei bune care este verișoara mea!
 3. Limpezimea și cursivitatea în gândire pe care le am în ultima vreme!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-40/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-42/">Postarea următoare</a>
+  </div>
+</div>
