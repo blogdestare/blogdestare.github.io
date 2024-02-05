@@ -79,3 +79,16 @@ Recunoștința zilei merge către:
 1. Partea aia din mine care intră pe pilotul automat al răbdării și blândeței în momente cheie!
 2. Minunea care a făcut posibilă întoarcerea oamenilor în viața și prezentul meu!
 3. Claritatea mentală ce mă face să văd că demența este pentru mine un tutorial din care-mi extrag zilnic lecții de viață!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-35/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-37/">Postarea următoare</a>
+  </div>
+</div>

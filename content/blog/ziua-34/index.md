@@ -98,3 +98,16 @@ Sunt recunoscătoare:
 1. Căldurii umane! Astăzi, în încercarea disperată de a găsi un loc care să repare tableta mamei, am primit un mesaj în privat de la un consătean de-al meu, cu care nu mă cunosc personal, ce-mi spunea că e electronist și că mă ajută fără bani! L-am luat în brațe virtual și îi tare mulțumesc!
 2. Razelor de soare ce mi-au încălzit inima!
 3. Universului care-mi arată, la tot pasul, că nu sunt singură, că-s oameni gata oricând să-ți întindă o mână de ajutor, chiar dacă nu fac parte din liga aia "aleasă pe sprânceană" pe care am selectat-o eu cândva să-mi fie aproape! (asta mi-a adus aminte de o glumiță: "Să nu faci rău, că răul se întoarce. Fă bine, că ăla nu se întoarce niciodată!" Uite că nu e chiar așa!)
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-33/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-35/">Postarea următoare</a>
+  </div>
+</div>

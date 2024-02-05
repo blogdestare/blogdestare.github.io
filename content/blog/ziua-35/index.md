@@ -104,3 +104,16 @@ Sunt obosită. Dar sunt recunoscătoare pentru:
 1. Liniștea interioară pe care am trăit-o azi!
 2. Că pot vedea clar, ierta și merge mai departe!
 3. Fiecare zi în care învăț să mă iubesc, să nu mă mai învinovățesc și să permit!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-34/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-36/">Postarea următoare</a>
+  </div>
+</div>

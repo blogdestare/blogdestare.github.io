@@ -123,3 +123,16 @@ Dacă trag o linie la finalul acestei zile, am sentimentul că balanța a atârn
 1. corpul meu fantastic de iertător și atât de bun cu mine până acum!
 2. sentimentele astea atât de mișto și pline pe care le experimentez pentru mama mea!
 3. întoarcerea încet-încet la starea super faină care a fost întotdeauna liant între mine și domnul meu!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-37/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-39/">Postarea următoare</a>
+  </div>
+</div>

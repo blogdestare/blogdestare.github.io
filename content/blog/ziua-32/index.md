@@ -74,3 +74,16 @@ Nu i-am mai dat nimic de mâncare, să aiba stomacul ei parte de un reset, să s
 1. Dezțelenirea blogului! Mai am puținel și gata!
 2. Faptul că Covidul nu a dat simptomele cele mai nasoale la copii!
 3. Duș!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-31/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-33/">Postarea următoare</a>
+  </div>
+</div>

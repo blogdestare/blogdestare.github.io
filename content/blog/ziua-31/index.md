@@ -88,3 +88,16 @@ Dar sunt recunoscătoare pentru:
 1. Salata mea de crudități!
 2. Oamenii dragi din trecut care-mi calcă pragul prezentului cu gânduri bune!
 3. Perseverența mea în scris!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-30/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-32/">Postarea următoare</a>
+  </div>
+</div>

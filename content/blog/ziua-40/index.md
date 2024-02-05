@@ -103,3 +103,16 @@ Mai răspund la câteva mesaje, la 2 telefoane, gata și cu probioticul, aproape
 1. Călătoriile virtuale!
 2. Iubirea pentru domnul meu și iubirea domnului meu!
 3. Ființa asta faină care a devenit puiul meu!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-39/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-41/">Postarea următoare</a>
+  </div>
+</div>

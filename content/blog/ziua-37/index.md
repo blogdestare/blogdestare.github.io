@@ -101,3 +101,16 @@ Sunt pe de-a-ntregul obosită, dar nu pot să nu fiu recunoscătoare pentru:
 1. Prezența mea de spirit prin care-mi creez buzunare ce-adună stări de bine!
 2. Crucifere!
 3. Timpul ăsta pe care îl (mai) am cu mama mea!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-36/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-38/">Postarea următoare</a>
+  </div>
+</div>

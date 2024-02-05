@@ -112,3 +112,16 @@ Chiar dacă sunt tare obosită azi, iar spre seară mi s-a zbuciumat și sufletu
 1. Domnului meu care a făcut ziua asta să-mi fie de weekend!
 2. Pământului!
 3. Tehnologiei!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-38/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-40/">Postarea următoare</a>
+  </div>
+</div>

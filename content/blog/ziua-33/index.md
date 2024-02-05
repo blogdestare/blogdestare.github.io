@@ -79,3 +79,16 @@ Am început ziua cu speranță și o închei cu deznădejde. Nu găsesc ieșirea
 Cica e  nevoie de tristețe pentru a înțelege fericirea, e nevoie de zgomot pentru a aprecia liniștea, e nevoie de absență ca să înțelegi valoarea prezenței unei persoane.
 
 Dacă jur că le-am înțeles până la sânge, pot să trec mai departe?!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-32/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-34/">Postarea următoare</a>
+  </div>
+</div>
