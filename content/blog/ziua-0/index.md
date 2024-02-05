@@ -45,6 +45,8 @@ Toate sentimentele pe care le trăiam dar nu le exteriorizam, toate trăirile pe
 
 <br/>
 
+<br/>
+
 <div class="flex justify-between">
   <div>
     <a href="/blog/ziua-1/">Postarea următoare</a>

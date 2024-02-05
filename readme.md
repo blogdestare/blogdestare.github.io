@@ -98,3 +98,15 @@ poze
 video
 
 <a href="https://www.youtube.com/watch?v=48vtduOhn9E" target="_blank">https://www.youtube.com/watch?v=48vtduOhn9E</a>
+
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-349/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-351/">Postarea următoare</a>
+  </div>
+</div>
