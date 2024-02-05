@@ -49,3 +49,16 @@ Fără duș dar cu suc proaspăt de sfeclă, măr, morcov și portocale. Rece ș
 1. Vizita copiilor noștri!
 2. Bucatele pe care am avut să le punem pe masă!
 3. Momentele astea pline de căldură sufletească în care se adună lângă o masă caractere diferite dar unite-un gând de comuniune!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-17/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-19/">Postarea următoare</a>
+  </div>
+</div>

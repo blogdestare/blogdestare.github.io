@@ -46,3 +46,16 @@ Această perioadă probabil va scoate toate puroaiele la suprafață. Sper să f
 <p style="text-align: center;">***</p>
 
 Nici azi nu am găsit pentru ce să fiu recunoscătoare. Încă.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-10/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-12/">Postarea următoare</a>
+  </div>
+</div>

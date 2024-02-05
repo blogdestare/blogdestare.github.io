@@ -54,3 +54,16 @@ Până una alta, nu-mi place deloc noua mea viață, nu-mi place nimic din noua 
 <p style="text-align: center;">***</p>
 
 Sunt recunoscătoare vieții pentru existența Danei în ea, a moldovencei ăsteia faine care a știut să țină spațiul pentru mine și suferința mea, care a știut să fie lângă mine când nimeni altcineva nu a fost.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-12/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-14/">Postarea următoare</a>
+  </div>
+</div>

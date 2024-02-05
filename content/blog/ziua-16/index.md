@@ -61,3 +61,16 @@ Recunoștința mea se îndreaptă către Univers pentru:
 1. Existența domnului meu în viața mea și pentru faptul că alege să rămână în viața mea!
 2. Muzica bună!
 3. Imaginație! Fără ea și visarea ce vine la pachet, viața e “pustiu”!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-15/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-17/">Postarea următoare</a>
+  </div>
+</div>

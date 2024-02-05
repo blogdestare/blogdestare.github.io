@@ -56,3 +56,16 @@ Astăzi sunt recunoscătoare acelei voci din mine care mi-a șoptit să dau drum
 **Dacă aștepți să faci totul perfect, nu o mai faci niciodată.** Poate blogul de stări s-a născut tocmai ca un frate mai mare care să ajute la nașterea (finally!) blogului pentru casuța noastră, Ever After Cottage. Vom vedea...
 
 A, și mai sunt recunoscătoare nu știu cărui fapt care a înmuiat ceva în domnul meu și azi a fost cald cu mine. Hai că azi am găsit două lucruri pentru recunoștință. Progresez.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-13/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-15/">Postarea următoare</a>
+  </div>
+</div>

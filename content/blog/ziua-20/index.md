@@ -77,3 +77,16 @@ Prost a început, prost s-a și încheiat. O zi plină cu nervi, cu conștientiz
 </div>
 
 Mâine o iau de la capăt. Adică sper să am o nouă zi. Și implicit o nouă șansă să fac lucrurile altfel.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-19/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-21/">Postarea următoare</a>
+  </div>
+</div>

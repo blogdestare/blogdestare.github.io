@@ -77,3 +77,16 @@ P.S. mi-a trimis copila mea un video cu Maya. Am adormit cu lacrimi repezi pe ob
     <source src="images/maya.mp4" type="video/mp4" />
 </video>
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-16/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-18/">Postarea următoare</a>
+  </div>
+</div>

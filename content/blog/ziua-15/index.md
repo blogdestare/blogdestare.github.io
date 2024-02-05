@@ -54,3 +54,16 @@ A câștigat la table și, fericită, nu a comentat la făcutul dușului. Doamne
 Mă bucur pentru ea și cobor să-mi trag sufletul. Îmi iau aroganța de a-mi face floricele la microunde. De a-mi pune un pahar mic de vin alb cât mă chinui să văd cum naiba dau drumul o dată la site. Obosită, m-a luat vinul ăsta pe sus că aproape mi se închid ochii pe tastatură! Între timp a venit și domnul meu de la birou, mi-a promis că mă ajută el cu site-ul dar eu sunt franjuri de oboseală așa că nu mai am puterea să îi povestesc ce vreau ci doar să mă spăl pe dinți și să mă arunc în pat.
 
 out of service!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-14/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-16/">Postarea următoare</a>
+  </div>
+</div>

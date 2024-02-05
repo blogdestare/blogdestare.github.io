@@ -66,3 +66,16 @@ Am mai avut o senzație astăzi, dar nu vreau să o pun pe tapet până nu o mai
 Azi îmi sunt recunoscătoare mie că mi-am permis șemineul. Și, săpând adânc, vieții că mi-a dat șansa să îl concretizez în fizic. Nu am trei lucruri dar e un prim pas.
 
 Mâine e o nouă zi.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-11/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-13/">Postarea următoare</a>
+  </div>
+</div>

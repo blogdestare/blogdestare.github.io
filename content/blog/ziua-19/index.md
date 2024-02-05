@@ -76,3 +76,16 @@ Recunoștinta însă-mi stă pe buze și în suflet pentru:
 1. Apa caldă pe care o beau dimineața!
 2. Cele mai frumoase răsărituri pe care le trăiesc din această casă!
 3. Că mama se simte bine, nu-i vine să creadă că am pus-o pe picioare!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-18/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-20/">Postarea următoare</a>
+  </div>
+</div>
