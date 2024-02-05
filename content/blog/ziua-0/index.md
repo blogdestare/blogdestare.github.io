@@ -43,8 +43,7 @@ Toate sentimentele pe care le trăiam dar nu le exteriorizam, toate trăirile pe
 
 Și așa am ajuns la ziua de 12 ianuarie 2022 (care este și ziua în care, acum 22 de ani, deveneam mamă)...
 
-
-
+<br/>
 
 <div class="flex justify-between">
   <div>
