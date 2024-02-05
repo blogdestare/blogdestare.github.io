@@ -100,3 +100,16 @@ Ultima piatră de încercare a zilei este momentul unghiilor, care s-au redus la
 Nu vreau să-i dau o bilă neagră acestei zile deși a fost pe alocuri așa. A fost o zi a sloganului "azi nu-mi iese!" și, dacă de dimineață nu mă puteam aduna să-mi zic recunoștințele, acum, hârșâită prin zi, tot nu mi le pot spune. Știu că sunt, știu că-s acolo, doar că nu vreau să fac nicio forțare, doar de bifă.
 
 Și mâine e o zi.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-193/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-195/">Postarea următoare</a>
+  </div>
+</div>

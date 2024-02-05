@@ -75,3 +75,16 @@ Clipa mea de fain creativ este:
 <div class="flex justify-center">
   <img src="images/24c84a782c40b441855184c196882847.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-192/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-194/">Postarea următoare</a>
+  </div>
+</div>

@@ -124,3 +124,16 @@ Clipa mea de frumos este:
 </div>
 
 de sezon :)))
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-195/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-197/">Postarea următoare</a>
+  </div>
+</div>

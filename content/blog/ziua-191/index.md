@@ -101,3 +101,16 @@ Frumosul meu de azi:
 </div>
 
 Ladybugs by Lilalune
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-190/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-192/">Postarea următoare</a>
+  </div>
+</div>
