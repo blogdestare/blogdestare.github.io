@@ -106,6 +106,10 @@ Clipa mea de frumos pur-sânge:
   <img src="images/cal.jpeg" />
 </div>
 
+<br/>
+
+<br/>
+
 <div class="flex justify-between">
   <div>
     <a href="/blog/ziua-117/">Postarea anterioară</a>

@@ -98,6 +98,10 @@ Iar clipa mea de frumos este:
 
 Olivia Markov the Crimson Bride from Magic the Gathering - Aluminum Foil Sculpture
 
+<br/>
+
+<br/>
+
 <div class="flex justify-between">
   <div>
     <a href="/blog/ziua-113/">Postarea anterioară</a>

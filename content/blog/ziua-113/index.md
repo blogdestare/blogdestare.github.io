@@ -108,6 +108,10 @@ Clipa mea de frumos e și un tribut mic către mama Geta:
 
 P.S. nu pot să nu mă gândesc dacă nu cumva "pana de curent" pe care a simțit-o mama azi-noapte nu a fost cumva "pana de viață" a mamei Geta. E doar un gând...
 
+<br/>
+
+<br/>
+
 <div class="flex justify-between">
   <div>
     <a href="/blog/ziua-112/">Postarea anterioară</a>

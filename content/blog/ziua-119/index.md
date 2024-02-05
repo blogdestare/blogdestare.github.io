@@ -116,6 +116,10 @@ Iar frumosul meu se duce la gălușca asta mică și dulce:
   <img src="images/rata.jpeg" />
 </div>
 
+<br/>
+
+<br/>
+
 <div class="flex justify-between">
   <div>
     <a href="/blog/ziua-118/">Postarea anterioară</a>
