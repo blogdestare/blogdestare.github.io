@@ -88,3 +88,16 @@ Azi sunt recunoscătoare pentru:
 1. Claritatea ce m-a ajutat să înțeleg ce trebe să fac să-mi dezinflamez viața!
 2. Întoarcerea lui Spiky!
 3. Că văd! Traduc imaginile frumoase din care mă inspir în hrană pentru suflet și tare bine e!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-22/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-24/">Postarea următoare</a>
+  </div>
+</div>

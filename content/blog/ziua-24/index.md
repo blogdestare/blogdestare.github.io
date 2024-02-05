@@ -80,3 +80,16 @@ Cu un nod în gât, sunt recunoscătoare:
 1. Vieții care s-a născut azi printr-un răsărit superb!
 2. Hranei vii, care, la nivel subtil, lucrează în corpul meu să-mi fie bine!
 3. Prieteniei!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-23/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-25/">Postarea următoare</a>
+  </div>
+</div>

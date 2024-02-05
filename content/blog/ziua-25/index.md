@@ -81,3 +81,16 @@ La final de zi, după niște table absente, fără suc, fără duș, realizez c�
 1. Că am o casă cu curte!
 2. Pentru iubirea lui Spiky!
 3. Pentru patul și căldurica și atmosfera de intimitate plăcută din camera noastră!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-24/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-26/">Postarea următoare</a>
+  </div>
+</div>

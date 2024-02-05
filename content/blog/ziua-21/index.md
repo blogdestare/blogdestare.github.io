@@ -81,3 +81,16 @@ Doctorul ei psihiatru zice că demența nu e grea pentru pacient ci pentru famil
 <p style="text-align: center;">***</p>
 
 Dacă mi-ar da cineva un burete de șters pentru tabla vieții, aș șterge ziua de azi fără niciun regret. Nu-mi vine în minte nicio recunoștință…
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-20/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-22/">Postarea următoare</a>
+  </div>
+</div>

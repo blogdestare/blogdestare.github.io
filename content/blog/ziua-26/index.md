@@ -57,3 +57,16 @@ Iar eu sunt plin recunoscătoare:
 1. Spiritului mamei că a ales să-mi fie învățător în această viață!
 2. Soarelui!
 3. Clarității mele mentale!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-25/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-27/">Postarea următoare</a>
+  </div>
+</div>

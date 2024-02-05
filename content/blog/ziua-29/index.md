@@ -69,3 +69,16 @@ Recunoștință plină pentru:
 1. Balsamul de rufe!
 2. Programul de abundență al lui Deepak!
 3. Vinul alb de casă!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-28/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-30/">Postarea următoare</a>
+  </div>
+</div>

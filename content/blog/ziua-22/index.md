@@ -69,3 +69,16 @@ Până atunci, mi-e dor imens de copilele mele. Mi-e inima așa de grea în zona
 Și apropo de inimă și de recunoștință, ieri ziceam că nu-mi vine în minte nicio recunoștință. Azi mi-am răspuns singură: recunoștința nu vine niciodată din minte, ci din inimă!
 
 Motivul pentru care am fost azi recunoscătoare este că m-am trezit. Nu m-am bucurat de ziua de azi dar am făcut tranziția către ziua de mâine, unde, sper eu, să mai bag o fisă în vendomatul Universului și să-mi cadă "jucăria" dorită: o mâine mai blândă cu mine.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-21/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-23/">Postarea următoare</a>
+  </div>
+</div>

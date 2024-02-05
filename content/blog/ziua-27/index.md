@@ -81,3 +81,16 @@ Nu mai vedeam scările de lacrimi.
 <p style="text-align: center;">***</p>
 
 Azi sunt recunoscătoare doar clipei în care ea s-a întors. Restul parcă a fost de umplutură.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-26/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-28/">Postarea următoare</a>
+  </div>
+</div>

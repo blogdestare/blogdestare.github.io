@@ -98,3 +98,16 @@ Recunoștința mea azi merge din plin către:
 1. Baby și sărbătorita zilei, care mi-au umplut de bine desaga sufletului pentru azi!
 2. Inteligența asta incomensurabilă!
 3. Programul de abundență!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-29/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-31/">Postarea următoare</a>
+  </div>
+</div>

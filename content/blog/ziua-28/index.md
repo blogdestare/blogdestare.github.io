@@ -82,3 +82,16 @@ Sunt recunoscătoare profund:
 1. Prezenței mele de spirit!
 2. Meditației!
 3. Legumelor crude!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-27/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-29/">Postarea următoare</a>
+  </div>
+</div>
