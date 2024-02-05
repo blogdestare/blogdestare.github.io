@@ -101,3 +101,16 @@ Cu domnul meu într-o bulă de "ce bine că suntem!", cu șturlubatica sălbatic
 Clipa mea de fain este:
 
 <a href="https://fb.watch/e1gQTvwH0n/" target="_blank">https://fb.watch/e1gQTvwH0n/</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-172/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-174/">Postarea următoare</a>
+  </div>
+</div>

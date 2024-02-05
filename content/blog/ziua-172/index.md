@@ -149,3 +149,16 @@ Clipa mea de și mai fain este:
 <div class="flex justify-center">
   <img src="images/clipa-de-frumos.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-171/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-173/">Postarea următoare</a>
+  </div>
+</div>

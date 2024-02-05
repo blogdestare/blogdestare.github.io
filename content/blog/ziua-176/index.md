@@ -141,3 +141,16 @@ Clipa mea de fain a fost:
 <div class="flex justify-center">
   <img src="images/porumbel.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-175/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-177/">Postarea următoare</a>
+  </div>
+</div>

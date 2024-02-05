@@ -145,3 +145,16 @@ You can let it go
 You can throw a party full of everyone you know  
 And not invite your family, 'cause they never showed you love  
 You don't have to be sorry for leaving and growing up!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-174/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-176/">Postarea următoare</a>
+  </div>
+</div>

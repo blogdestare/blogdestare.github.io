@@ -138,3 +138,16 @@ Frumosul zilei mele este gândul superb din spate:
 </div>
 
 În Italia, la castelul Sf. Elmo, există o bară metalica pe care este inscripționat, în braille, pentru nevăzători, o descriere poetică a panoramei ce poate fi văzută de la fereastra respectivă. Speechless!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-173/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-175/">Postarea următoare</a>
+  </div>
+</div>

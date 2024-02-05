@@ -129,3 +129,16 @@ Clipa mea de frumos e superbitatea asta veche de porțelan, extensie a mesei pe 
   <img src="images/rig1.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img src="images/rig2-576x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-170/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-172/">Postarea următoare</a>
+  </div>
+</div>
