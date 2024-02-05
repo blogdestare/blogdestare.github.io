@@ -78,3 +78,16 @@ O ultimă alegere a zilei este punerea degetului pe recunoștințele zilei, deș
 Frumosul unei zile frumoase, pe repeat:
 
 <a href="https://www.youtube.com/watch?v=mEmyZLaaRWc" target="_blank">https://www.youtube.com/watch?v=mEmyZLaaRWc</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-154/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-156/">Postarea următoare</a>
+  </div>
+</div>

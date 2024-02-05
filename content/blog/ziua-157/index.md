@@ -101,3 +101,16 @@ Domnul meu m-a găsit cu prosopelul la locul lui de cinste, pe frunte, de parcă
 Iar frumosul meu auditiv și vizual a fost azi:
 
 <a href="https://www.youtube.com/watch?v=4qLY0vbrT8Q" target="_blank">https://www.youtube.com/watch?v=4qLY0vbrT8Q</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-156/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-158/">Postarea următoare</a>
+  </div>
+</div>

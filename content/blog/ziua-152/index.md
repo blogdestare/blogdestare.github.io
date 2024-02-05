@@ -54,3 +54,16 @@ Chiar dacă mi-am mutat fizicul de la un etaj la altul, starea e aceeași, proas
 Coșmarurile nopții s-au transferat și asupra zilei. Noroc că îl am pe domnul meu de veghe lângă mine și când urletele din vis sparg liniștea reală a camerei unde e și el, mă mângâie și mă trezește calm.
 
 Singurul gând care-mi traversează conștiența la acest moment este că trebe să fac cumva să mă scutur din toate rahaturile astea care mă înghit fie trează, fie în somn. Trec printr-o nebunie și dacă vreau să ies la capătul celălalt întreagă, și la minte și la trup, trebe să fac ceva. Partea proastă este că nu știu ce. Iar ăsta a fost ultimul gând al unei zilei din care nu am trăit decât dimineața.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-151/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-153/">Postarea următoare</a>
+  </div>
+</div>

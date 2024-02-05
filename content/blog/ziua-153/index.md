@@ -85,3 +85,16 @@ Iar frumosul zilei este:
 <div class="flex justify-center">
   <img src="images/black-beauty.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-152/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-154/">Postarea următoare</a>
+  </div>
+</div>

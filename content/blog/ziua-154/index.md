@@ -93,3 +93,16 @@ Frumoasele mele azi sunt prigoriile:
 <div class="flex justify-center">
   <img src="images/prigorii.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-153/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-155/">Postarea următoare</a>
+  </div>
+</div>
