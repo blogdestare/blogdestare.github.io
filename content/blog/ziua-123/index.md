@@ -112,3 +112,16 @@ Frumosul meu feminin-masculin:
 <div class="flex justify-center">
   <img src="images/male-and-female.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-122/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-124/">Postarea următoare</a>
+  </div>
+</div>

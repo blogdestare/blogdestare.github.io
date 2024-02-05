@@ -145,3 +145,16 @@ Au înnebunit salcâmii<br/>
 </div>
 
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-123/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-125/">Postarea următoare</a>
+  </div>
+</div>

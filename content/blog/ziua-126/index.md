@@ -119,3 +119,16 @@ Frumosul clipei azi:
 <div class="flex justify-center">
   <img src="images/vazute.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-125/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-127/">Postarea următoare</a>
+  </div>
+</div>

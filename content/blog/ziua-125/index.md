@@ -104,3 +104,16 @@ Clipa mea de frumos este dor de ducă galben:
 </div>
 
 Vespa
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-124/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-126/">Postarea următoare</a>
+  </div>
+</div>

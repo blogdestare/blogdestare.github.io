@@ -124,3 +124,16 @@ Clipa mea de frumos nu poate fi decât o cană cu bujori!
 <div class="flex justify-center">
   <img src="images/canacu-bujori-1024x576.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-127/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-129/">Postarea următoare</a>
+  </div>
+</div>

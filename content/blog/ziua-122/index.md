@@ -91,3 +91,16 @@ Clipa mea de frumos este:
 </div>
 
 Golden retriever
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-121/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-123/">Postarea următoare</a>
+  </div>
+</div>

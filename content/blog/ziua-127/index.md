@@ -86,3 +86,16 @@ Pot doar să pun un frumos, o stare faină care mi-a mângâiat retina când scr
 <div class="flex justify-center">
   <img src="images/mood.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-126/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-128/">Postarea următoare</a>
+  </div>
+</div>

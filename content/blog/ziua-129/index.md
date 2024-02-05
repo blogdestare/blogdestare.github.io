@@ -138,3 +138,16 @@ Clipa mea de frumos este arțarul meu galben cu margini roșiatice și cu "piel
 <div class="flex justify-center">
   <img src="images/artar-576x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-128/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-130/">Postarea următoare</a>
+  </div>
+</div>
