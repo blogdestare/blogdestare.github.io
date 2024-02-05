@@ -91,3 +91,16 @@ Frumosul zilei mele:
 </div>
 
 Made by Rebecca wheeler
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-209/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-211/">Postarea următoare</a>
+  </div>
+</div>

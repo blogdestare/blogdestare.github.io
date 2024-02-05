@@ -83,3 +83,16 @@ Momentul meu de frumos este:
 </div>
 
 Made by QuaintMarie
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-201/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-203/">Postarea următoare</a>
+  </div>
+</div>

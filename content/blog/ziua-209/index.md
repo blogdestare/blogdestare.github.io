@@ -79,3 +79,16 @@ Frumosul a venit la mine sub forma:
 </div>
 
 Networking :-))
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-208/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-210/">Postarea următoare</a>
+  </div>
+</div>

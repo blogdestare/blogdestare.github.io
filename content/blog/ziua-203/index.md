@@ -94,3 +94,16 @@ O țâră ipocrită, că parcă o ascult mai mult acum decât când era în via�
 Iar frumosul meu nu poate fi decât adevărul ăsta fain spus mie direct de o Connie care a transcens materialul în astă seară:
 
 <a href="https://www.youtube.com/watch?v=eXyEyNeVxDk&t=1478s" target="_blank">https://www.youtube.com/watch?v=eXyEyNeVxDk&t=1478s</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-202/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-204/">Postarea următoare</a>
+  </div>
+</div>

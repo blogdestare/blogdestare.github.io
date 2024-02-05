@@ -91,3 +91,16 @@ Frumosul zilei mele este:
 </div>
 
 Degustătorul de vin - pictură veche pe lemn
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-207/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-209/">Postarea următoare</a>
+  </div>
+</div>

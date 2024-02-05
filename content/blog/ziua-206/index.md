@@ -91,3 +91,16 @@ Clipa mea de frumos este:
 </div>
 
 Rainbow Iris Agate
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-205/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-207/">Postarea următoare</a>
+  </div>
+</div>
