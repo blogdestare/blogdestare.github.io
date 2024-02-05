@@ -70,3 +70,16 @@ Dacă aș mai avea putere.
 <p style="text-align: center;">***</p>
 
 Nu văd sau nu vreau să văd niciun motiv de recunoștință, vreau să mă refugiez în somn, singura mea libertate!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-52/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-54/">Postarea următoare</a>
+  </div>
+</div>

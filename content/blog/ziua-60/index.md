@@ -86,3 +86,16 @@ Iar sunt deznădăjduită. Iar încep să-mi pierd cumpătul cu ea și nu vreau 
 Cred că va trebui să practic exercițiul ăsta de câte ori mă apucă disperarea până o să-mi intre în reflex. Pentru că știu cât de pervers este egoul uman. Acum a funcționat faza cu compasiunea dar e posibil ca-n dățile viitoare să intre în joc și compasiunea față de propria mea persoană, să mai vreau și eu să trăiesc. Deocamdată, am potolit monstrul ăsta dar știu că e acolo, în mine, dormitează.
 
 Îmi iau prietena durerea de o aripă și ne îndreptăm spre o noapte în care să las întunericul să șteargă neputința și căderile mele. Mâine să mă trezesc într-o zi luminoasă. Sau să mă trezesc luminoasă într-o nouă zi. Totul ține de nuanța pe care o pui.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-59/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-61/">Postarea următoare</a>
+  </div>
+</div>

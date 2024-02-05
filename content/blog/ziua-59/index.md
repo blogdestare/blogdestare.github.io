@@ -81,3 +81,16 @@ După dușul cald și bun, în timp ce îi făceam masaj, mi-a fost tare drag de
 1. Starea mamei care pare să fie mai bună decât a fost vreodată de când e la mine!
 2. Iubitul meu care știe el să așeze în momentul în care simt că mă scufund o ancoră prin simplul fapt că există și vrea să existe în viața mea!
 3. Bucuria plină de a face bucurii pline!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-58/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-60/">Postarea următoare</a>
+  </div>
+</div>

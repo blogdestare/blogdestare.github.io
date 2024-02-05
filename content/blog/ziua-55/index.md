@@ -89,3 +89,16 @@ Zi faină per total, cu stări faine, cu recunoștință pură pentru:
 1. Starea mea de spirit limpede!
 2. Gândurile bune dintr-un "banal" telefon!
 3. Mici picturi!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-54/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-56/">Postarea următoare</a>
+  </div>
+</div>

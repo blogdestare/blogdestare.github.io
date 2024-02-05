@@ -90,3 +90,16 @@ Eu cred că în această ciclitate suntem la 3 iar ce ne așteaptă sunt vremuri
 1. O nouă zi de explorat și de trăit și de înțeles și de simțit!
 2. Oamenii darnici care-s buni de pus la rană în vremuri de restriște!
 3. Rețeaua de oameni faini care s-au adunat să facă scut din energie curată!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-51/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-53/">Postarea următoare</a>
+  </div>
+</div>

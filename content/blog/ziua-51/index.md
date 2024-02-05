@@ -77,3 +77,16 @@ Ultimul gând pentru ziua de azi este umplut cu recunoștință pentru:
 1. Limpezimea inimii care mă dezbracă de toate straiele ce mi le-am pus pe ea de-a lungul vieții, ca să fac față agresiunilor voite sau nevoite!
 2. Uleiurile Doterra!
 3. Magia unei băi fierbinți, în aburi de lavandă, în umbre de lumânare și meditație faină!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-50/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-52/">Postarea următoare</a>
+  </div>
+</div>

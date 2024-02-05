@@ -77,3 +77,16 @@ Am avut niște trăiri superbe. Și doamne, cât am mai plâns! În esență m-a
 Meditație este și dacă stai întins, ești cât mai atent la respirația ta și încerci să-ți relaxezi fiecare mușchiuleț din corp, să fii într-o stare de relaxare cât mai cuprinzătoare. Bonus, muzică liniștitoare, natură, pian sau clasică, în căști. Sau o plimbare prin natură, cu câinele și mintea în lesă, să nu o ia pe alături. Sau o baie fierbinte, să te înmoi de bine. Orice dă o pauză, binemeritată, și corpului și minții. Nu e mare filozofie meditația, pentru mine a fost o sperietoare iar acum aș sta în meditație mai tot timpul, dacă aș putea. E doar o relaxare și o rupere de la ciclul ăsta de hamster în rotiță în care ne pune umanul din noi. Că, de fapt, la esență suntem stropi de eternitate.
 
 Închei ziua mai bine decât am început-o și acord premiul 1 și 2 și 3 de pe podiumul recunoștinței, meditației!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-57/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-59/">Postarea următoare</a>
+  </div>
+</div>

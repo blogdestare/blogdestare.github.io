@@ -77,3 +77,16 @@ Sunt obosită. Din nou. Mi se închid ochii dar parcă aș mai vrea și eu timp 
 1. Umorului meu, care m-a scos de nenumărate ori din ghearele neputinței și disperării!
 2. Viselor cu ochii deschiși și visărilor cu ochii închiși!
 3. Papilelor mele gustative care s-au resetat de când sunt vegană și mă gratulează cu explozii de gust!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-56/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-58/">Postarea următoare</a>
+  </div>
+</div>

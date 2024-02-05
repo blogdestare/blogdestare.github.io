@@ -71,3 +71,16 @@ O zi frumoasă, la sfărșitul căreia sunt recunoscătoare:
 1. Faptului că sunt în viață!
 2. Bucuriei că sunt și mamă și fiică!
 3. Stării ăsteia de bine care vrea să mi se cuibărească în zile!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-55/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-57/">Postarea următoare</a>
+  </div>
+</div>

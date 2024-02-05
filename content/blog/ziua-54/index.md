@@ -93,3 +93,16 @@ Iar Universului îi mulțumesc pentru:
 1. Izvorul ăsta de iubire, bidirecțional, între mine și oamenii mei dragi, care-mi dă sclipici în vene și mă face să mă simt vie când sunt la un pas de butoiul cu melancolie!
 2. Timpul meu dimineața pe care-l iubesc de-a dreptul!
 3. Speranța că totul va fi bine in the end!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-53/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-55/">Postarea următoare</a>
+  </div>
+</div>
