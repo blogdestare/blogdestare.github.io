@@ -117,6 +117,6 @@ Păpuși create de Komnata Levshi
     <a href="/blog/ziua-183/">Postarea anterioară</a>
   </div>
   <div>
-    <a href="/blog/ziua-184/">Postarea următoare</a>
+    <a href="/blog/ziua-185/">Postarea următoare</a>
   </div>
 </div>
