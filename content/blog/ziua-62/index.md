@@ -70,3 +70,16 @@ Din păcate, azi tablele nu intră nici unse cu o tonă de ulei. Numai gândul c
 Din două ore se făcură trei, că azi a fost și zi de spălat pe păr, și de masajul cu uleiuri, și de uscat părul, și tratamente și uite așa, că deși nu am avut chef de nimic azi, am performat ca în oricare altă zi. Sunt sătulă de tot și de toate, câteodată am impresia fizică că mă gâtui, că nu mai intră să fac chestii pe care nu le vreau, când nu le vreau.
 
 Am hotărât să numesc astfel de zile, în care nu mai vreau să duc, zile-capac.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-61/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-63/">Postarea următoare</a>
+  </div>
+</div>

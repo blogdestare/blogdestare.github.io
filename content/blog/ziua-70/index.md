@@ -80,3 +80,16 @@ Ne este ușor să îi acceptăm pe ceilalți pentru că sunt faini, mișto, buni
 <p style="text-align: center;">***</p>
 
 Stau în pat, în dormitor, unde nu am mai stat în timpul zilei din decembrie, mi-am luat laptopul în brațe, printre storurile trase se strecoară ultimele raze ale soarelui pe ziua de azi, prind un apus magnific și mă bucur de clipe bune în nebunia durerii. Orice s-ar zice, viața asta e fascinantă, all the way!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-69/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-71/">Postarea următoare</a>
+  </div>
+</div>

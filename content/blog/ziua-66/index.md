@@ -87,3 +87,16 @@ Până atunci, trag linia peste ziua de azi, bunuță-bunuță pentru mine, atâ
 3. Vremea frumoasă de afară!
 
 P.S. de azi, am implementat, by the book, obiceiul de a scrie zilnic. Am scris 66 zile zilnic!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-65/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-67/">Postarea următoare</a>
+  </div>
+</div>

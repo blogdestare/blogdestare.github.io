@@ -104,3 +104,16 @@ Am fost la un pas să dărâm eșafodajul stării de bine cu care am plecat de d
 <p style="text-align: center;">***</p>
 
 Am bifat azi o zi cu fainoșag, plină de recunoștință. La cât mai multe, una după alta!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-66/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-68/">Postarea următoare</a>
+  </div>
+</div>

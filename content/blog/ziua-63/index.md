@@ -104,3 +104,16 @@ Sunt plină, plină peste poate de recunoștintă pentru:
 1. FLORI!
 2. Viața care mă înconjoară!
 3. Auriul opulent!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-62/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-64/">Postarea următoare</a>
+  </div>
+</div>

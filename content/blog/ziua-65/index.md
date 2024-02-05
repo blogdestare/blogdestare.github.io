@@ -72,3 +72,16 @@ Nimic notabil în cele 2 ore de table, poate doar o înmuiere a gândului meu. T
 <p style="text-align: center;">***</p>
 
 Poate pentru că nici nu știu când a trecut ziua, nu am fost atentă și nu pot să extrag o recunoștință. În afară de cea că m-am trezit în viață. Poate mâine mă trezesc și la viață.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-64/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-66/">Postarea următoare</a>
+  </div>
+</div>

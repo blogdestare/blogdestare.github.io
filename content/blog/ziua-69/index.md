@@ -111,3 +111,16 @@ Oricum ar fi, ziua asta a fost tare bună cu mine. De fapt, cred că eu am fost 
 1. Lipsa durerilor acute!
 2. Flori, multe flori, din ce în ce mai multe flori!
 3. Momentul prezent, acumul meu plin de tot și de toate!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-68/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-70/">Postarea următoare</a>
+  </div>
+</div>

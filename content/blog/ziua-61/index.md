@@ -97,3 +97,16 @@ Am citit, prin sutele de chestii citite despre Alzheimer, că la unii pacienți,
 1. claritatea cu care am înțeles unul din mecanismele traumei!
 2. vlăstarii de bujori care sparg ei scoarța mamei pământ să-mi încânte zilele!
 3. că, oricât de egoist ar suna, la noi e pace!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-60/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-62/">Postarea următoare</a>
+  </div>
+</div>

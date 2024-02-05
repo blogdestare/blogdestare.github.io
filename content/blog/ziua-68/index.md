@@ -109,3 +109,16 @@ Am început ziua minunat și am încheiat-o la fel. Și de dragul exercițiului,
 1. Pentru ființa umană care sunt, capabilă să experimentez prin simțuri lumea!
 2. Pentru genialul AHA moment avut!
 3. Pentru binecuvântarea de a avea copil!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-67/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-69/">Postarea următoare</a>
+  </div>
+</div>

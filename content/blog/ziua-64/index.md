@@ -110,3 +110,16 @@ Am rugat-o să terminăm mai devreme tablele pentru că efectiv nu mai puteam s�
 1. Orice miracol, mic sau mare, al Creației!
 2. La valse d'Amelie!
 3. Frumusețea renașterii naturii primăvara!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-63/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-65/">Postarea următoare</a>
+  </div>
+</div>
