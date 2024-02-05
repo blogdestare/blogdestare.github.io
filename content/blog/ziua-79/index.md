@@ -94,4 +94,17 @@ Iar clipa mea de frumos, cum altfel, decât rococo:
    <img src="images/rococo4.jpeg" />
 </div>
 
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-78/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-80/">Postarea următoare</a>
+  </div>
+</div>
+
 

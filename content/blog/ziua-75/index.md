@@ -97,3 +97,16 @@ Sunt recunoscătoare pentru:
 Iar medalia de aur pentru frumos dar mai ales pentru gingășie merge la iubirică ăsta mic:
 
 <a href="https://www.facebook.com/watch/?v=1082843388949496" target="_blank">https://www.facebook.com/watch/?v=1082843388949496</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-74/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-76/">Postarea următoare</a>
+  </div>
+</div>

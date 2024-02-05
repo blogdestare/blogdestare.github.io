@@ -120,3 +120,16 @@ Frumosul ce mi-a umplut ființa (castel+natură+minutul de aur al soarelui = my 
 <div class="flex justify-center">
   <img src="images/my-dream.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-77/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-79/">Postarea următoare</a>
+  </div>
+</div>

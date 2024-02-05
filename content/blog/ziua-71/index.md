@@ -86,3 +86,16 @@ Mi-am propus ca în fiecare zi să pun câte-o chestie frumoasă în postare. Sp
 Azi a fost o zi-capac dar fie se îndulcesc ele între timp, fie mă obișnuiesc eu cu greul.
 
 P.S. ce ironie fină are și Universul ăsta! După ce am încărcat pagina, am văzut pe ce a făcut stop cadru videoclipul pe care l-am pus. Cică "Happy days"!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-70/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-72/">Postarea următoare</a>
+  </div>
+</div>

@@ -80,3 +80,16 @@ Frumosul zilei mele (un strop de mister, de vechi, de boem, de lemn, de necizela
 <div class="flex justify-center">
   <img src="images/beauty.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-75/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-77/">Postarea următoare</a>
+  </div>
+</div>

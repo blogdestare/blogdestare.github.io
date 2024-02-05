@@ -81,3 +81,16 @@ Iar clipa mea de frumos este acest bulb de mac, desen în creioane colorate:
 <div class="flex justify-center">
   <img src="images/poppyseed.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-79/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-81/">Postarea următoare</a>
+  </div>
+</div>

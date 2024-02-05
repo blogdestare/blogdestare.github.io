@@ -110,4 +110,17 @@ Pentru clipa de frumos, piesa asta e de vis!!
   <img src="images/s-l1600-1-1024x768.jpeg" />
 </div>
 
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-72/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-74/">Postarea următoare</a>
+  </div>
+</div>
+
 

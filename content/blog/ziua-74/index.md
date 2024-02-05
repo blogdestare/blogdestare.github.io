@@ -91,3 +91,16 @@ Iar pe podiumul clipei de frumos s-a așezat:
 <div class="flex justify-center">
   <img src="images/ziua-74-garden.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-73/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-75/">Postarea următoare</a>
+  </div>
+</div>

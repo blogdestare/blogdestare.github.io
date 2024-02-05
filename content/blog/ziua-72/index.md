@@ -81,3 +81,16 @@ Iar clipa de frumos a zilei este:
 </div>
 
 Ploșnița față-de-om! Că tot vorbeam de frumusețe la tot pasul.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-71/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-73/">Postarea următoare</a>
+  </div>
+</div>

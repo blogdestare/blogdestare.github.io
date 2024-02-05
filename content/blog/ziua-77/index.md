@@ -101,3 +101,16 @@ Iar clipa de frumos e minunăția asta abandonată:
 <div class="flex justify-center">
   <img src="images/greenhouse-ziua-77.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-76/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-78/">Postarea următoare</a>
+  </div>
+</div>
