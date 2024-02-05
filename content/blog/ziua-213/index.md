@@ -89,3 +89,16 @@ Clipa mea de fain este:
 </div>
 
 simplu și organic
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-212/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-214/">Postarea următoare</a>
+  </div>
+</div>

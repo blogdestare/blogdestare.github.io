@@ -76,3 +76,16 @@ Clipa mea de suflet este:
 <div class="flex justify-center">
   <img src="images/ziua-219-694x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-218/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-220/">Postarea următoare</a>
+  </div>
+</div>

@@ -93,3 +93,16 @@ Momentul meu de frumos:
 <div class="flex justify-center">
   <img src="images/verde.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-211/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-213/">Postarea următoare</a>
+  </div>
+</div>

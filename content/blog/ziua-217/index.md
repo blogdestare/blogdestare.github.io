@@ -92,3 +92,16 @@ Frumos zilei mele este:
 <div class="flex justify-center">
   <img src="images/generatii.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-216/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-218/">Postarea următoare</a>
+  </div>
+</div>

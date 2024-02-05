@@ -87,3 +87,16 @@ Clipa mea de frumos este:
 </div>
 
 Toscana
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-215/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-217/">Postarea următoare</a>
+  </div>
+</div>
