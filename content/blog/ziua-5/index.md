@@ -58,3 +58,16 @@ Pentru ce sunt recunoscătoare azi?
 1. Pentru regăsirea dintre vecin și lupițe!
 2. Pentru plimbarea de dimineață!
 3. Pentru pisicuța mea adoptată, Spiky!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-4/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-6/">Postarea următoare</a>
+  </div>
+</div>

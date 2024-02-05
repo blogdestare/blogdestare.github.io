@@ -66,3 +66,16 @@ Azi am simțit recunoștință:
 1. Că a existat și există Sassy în viața noastră!
 2. Că a ieșit soarele!
 3. Că s-a reîntors Daria acasă!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-2/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-4/">Postarea următoare</a>
+  </div>
+</div>

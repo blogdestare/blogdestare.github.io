@@ -60,3 +60,16 @@ Gata, e îmbăiata, bibilită, cu sucul băut, e cald și bine la ea, Sassy e ș
 1. Primirea unei noi șanse de a face lucrurile cum trebe deci culmea, sunt recunoscătoare pentru situația în care mă aflu!
 2. Că mă iubesc, chiar și sporadic!
 3. Că am avut claritate mentală fix câtă era nevoie să mă scot dintr-un rahat în care m-am băgat singură!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-5/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-7/">Postarea următoare</a>
+  </div>
+</div>

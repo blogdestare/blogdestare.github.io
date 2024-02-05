@@ -58,3 +58,16 @@ Dar și astăzi va trece. Și și asta va trece. La fel ca și viața mea.
 They say “**ce vei face azi e important pentru că plătești pentru asta cu o zi din viața ta**”.
 
 Prețul pe care l-am plătit pentru azi a fost prea mare. O parte din mine a murit. În chinuri.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-7/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-9/">Postarea următoare</a>
+  </div>
+</div>

@@ -67,3 +67,16 @@ Dar azi am fost recunoscătoare pentru:
 1. Smothieul de dimineață!
 2. Răsăritul de soare!
 3. Bucuria mamei că e răsfățată!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-3/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-5/">Postarea următoare</a>
+  </div>
+</div>

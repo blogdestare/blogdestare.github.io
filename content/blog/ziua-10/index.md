@@ -51,3 +51,16 @@ Mă simt tare singură. Și chiar sunt singură. Mi-a trecut azi prin cap gându
 După baie, după masaj, îmbrăcată, uscată cu foenul, cu suculețul proaspăt și pastilele, s-a întins în pat și mi-a zis “_Să-ți dea Dumnezeu toată sănătatea din lume că tare mi-e bine!_”
 
 Și cu asta, m-a încărcat și pentru mâine.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-9/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-11/">Postarea următoare</a>
+  </div>
+</div>

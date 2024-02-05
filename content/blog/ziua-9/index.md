@@ -56,3 +56,16 @@ Am făcut cumpărăturile, recunosc că nici nu știu ce am cumpărat, că ea a 
 Sunt anesteziată, totul se derulează rapid în viața mea, nu apuc să-mi jelesc pierderile sau să plâng pentru că…. trebe să joc table. Mama nu înțelege de ce sunt tristă. Că a mea copilă oricum trebuia să plece cândva, iar Maya lătra tot timpul!
 
 Oare e demența care fură empatia? Oare am intrat eu într-o linie temporală de coșmar? Unde naiba e butonul ăla care aprinde lumina? Cum fac să ies de aici?
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-8/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-10/">Postarea următoare</a>
+  </div>
+</div>

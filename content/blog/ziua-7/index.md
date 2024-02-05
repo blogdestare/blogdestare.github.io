@@ -55,3 +55,16 @@ Mâine e o nouă zi. Dar până atunci a trebuit să scotocesc adânc să găses
 <div class="flex justify-center">
   <img src="images/spikylina-768x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-6/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-8/">Postarea următoare</a>
+  </div>
+</div>
