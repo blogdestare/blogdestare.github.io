@@ -82,3 +82,16 @@ Așa amărâtă cum sunt acum, sunt recunoscătoare:
 </div>
 
 Lorna de Santos design
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-84/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-86/">Postarea următoare</a>
+  </div>
+</div>

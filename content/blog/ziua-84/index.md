@@ -106,3 +106,16 @@ Iar clipa mea de frumos este azi:
 <div class="flex justify-center">
   <img src="images/84-beauty.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-83/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-85/">Postarea următoare</a>
+  </div>
+</div>

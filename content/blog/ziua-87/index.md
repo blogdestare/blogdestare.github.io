@@ -96,3 +96,16 @@ Se apropie de închidere și ziua de azi, dar sufletul meu i-a șoptit Universul
 <div class="flex justify-center">
   <img src="images/portal.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-86/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-88/">Postarea următoare</a>
+  </div>
+</div>

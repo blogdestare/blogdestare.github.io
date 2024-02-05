@@ -82,3 +82,16 @@ Pentru clipa de frumos, intră în scenă:
 <div class="flex justify-center">
   <img src="images/roses-1024x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-80/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-82/">Postarea următoare</a>
+  </div>
+</div>

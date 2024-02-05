@@ -88,3 +88,16 @@ Clipa de frumos a zilei este:
 <div class="flex justify-center">
   <img src="images/outfit.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-85/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-87/">Postarea următoare</a>
+  </div>
+</div>

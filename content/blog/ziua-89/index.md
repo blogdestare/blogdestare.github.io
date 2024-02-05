@@ -94,3 +94,16 @@ Frumosul din clipă este starea:
 <div class="flex justify-center">
   <img src="images/mood.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-88/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-90/">Postarea următoare</a>
+  </div>
+</div>

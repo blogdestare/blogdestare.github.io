@@ -87,3 +87,16 @@ Clipa mea de frumos:
 <div class="flex justify-center">
   <img src="images/yellow.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-89/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-91/">Postarea următoare</a>
+  </div>
+</div>

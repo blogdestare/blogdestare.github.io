@@ -92,3 +92,16 @@ Frumosul meu azi nu poate fi decât Maya:
 <div class="flex justify-center">
   <img src="images/maya.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-87/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-89/">Postarea următoare</a>
+  </div>
+</div>

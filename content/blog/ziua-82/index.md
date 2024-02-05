@@ -98,3 +98,16 @@ Frumosul care mi-a hrănit sufletul azi este acest cocktail bar, cu alăturări 
 </div>
 
 _Paul Montgomery worked with Nussbaumer to create this incredible mural which nods to Mowgli from Rudyard Kipling’s 1894 The Jungle Book_
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-81/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-83/">Postarea următoare</a>
+  </div>
+</div>
