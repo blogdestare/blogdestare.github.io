@@ -95,3 +95,16 @@ Frumosul meu azi:
 <div class="flex justify-center">
   <img src="images/gorgeous.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-187/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-189/">Postarea următoare</a>
+  </div>
+</div>

@@ -106,3 +106,16 @@ Clipele mele de caring, de frumos, sunt:
   <img src="images/pinguini.jpeg" /> &nbsp; &nbsp; &nbsp;
    <img src="images/marmote.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-189/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-191/">Postarea următoare</a>
+  </div>
+</div>

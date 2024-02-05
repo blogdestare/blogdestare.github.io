@@ -115,3 +115,16 @@ Nu vreau, în vreme de jelanie, să renunț la recunoștință așa că mulțume
 Frumosul adevăr reamintit al zilei:
 
 <a href="https://www.youtube.com/watch?v=\_GYFdA8Oq0o" target="_blank">https://www.youtube.com/watch?v=\_GYFdA8Oq0o</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-188/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-190/">Postarea următoare</a>
+  </div>
+</div>

@@ -107,3 +107,16 @@ Clipa mea de frumos:
 </div>
 
 P.S. Azi s-a făcut juma' de an de când scriu zilnic. Și-am vindecat mulți ani prin asta.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-182/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-184/">Postarea următoare</a>
+  </div>
+</div>

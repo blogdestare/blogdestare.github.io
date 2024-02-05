@@ -107,3 +107,16 @@ Clipa mea de frumos gingaș:
 </div>
 
 Păpuși create de Komnata Levshi
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-183/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-184/">Postarea următoare</a>
+  </div>
+</div>

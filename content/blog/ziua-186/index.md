@@ -109,3 +109,16 @@ Frumosul meu azi:
 <div class="flex justify-center">
   <img src="images/velvet.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-185/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-187/">Postarea următoare</a>
+  </div>
+</div>

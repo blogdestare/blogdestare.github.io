@@ -103,3 +103,16 @@ Câteva ore de frumos din această zi:
 </div>
 
 Ciupilica
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-180/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-182/">Postarea următoare</a>
+  </div>
+</div>

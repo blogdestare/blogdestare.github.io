@@ -111,3 +111,16 @@ Frumosul cel mai frumos pe care l-am adus în viața asta prin mine:
 <div class="flex justify-center">
   <img src="images/pure-beauty-809x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-181/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-183/">Postarea următoare</a>
+  </div>
+</div>
