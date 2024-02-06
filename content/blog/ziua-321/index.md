@@ -81,3 +81,15 @@ Sunt obosită dar mă simt extraordinar de plină, aproape că nici nu mă pot c
 </div>
 
 
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-320/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-322/">Postarea următoare</a>
+  </div>
+</div>
