@@ -73,3 +73,16 @@ Frumosul zilei mele:
 </div>
 
 Vladila wallpaper
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-338/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-340/">Postarea următoare</a>
+  </div>
+</div>

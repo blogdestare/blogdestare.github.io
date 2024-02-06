@@ -85,3 +85,16 @@ Frumosul unei clipe:
 </div>
 
 Cityscape sketches by Mark Poulier
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-339/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-341/">Postarea următoare</a>
+  </div>
+</div>

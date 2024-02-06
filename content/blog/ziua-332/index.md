@@ -72,3 +72,16 @@ Mi-aduc aminte cât de mult mă intimidau, și-o mai fac și acum dar mult mai r
 De ceva timp, simt o răceală în el, dar mereu o pun pe seama oboselii. Numa' că de la un timp, parcă motivul ăsta al oboselii nu mai stă în picioare cu aceeași tărie ca la început, parcă în spatele lui tremură înfricoșător altceva. Așa că, la ceas de seara, de vineri seara, că așa-mi găsesc eu momentele ideale pentru discuții deschise, de comunicare, îl provoc să-mi spună ce-l apasă.
 
 Mai bine tăceam. Mai bine mă făceam că plouă.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-331/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-333/">Postarea următoare</a>
+  </div>
+</div>

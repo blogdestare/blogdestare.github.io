@@ -46,3 +46,16 @@ Lipsă voință. Blocaj. Vid soluții. Neacceptare variante. Neînțeleasă. Tri
 <p style="text-align: center;">***</p>
 
 Sunt atât de obosită…
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-337/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-339/">Postarea următoare</a>
+  </div>
+</div>

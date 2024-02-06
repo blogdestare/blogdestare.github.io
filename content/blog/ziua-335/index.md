@@ -77,3 +77,16 @@ Frumosul din zi:
 </div>
 
 Megan Ivy Griffiths
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-334/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-336/">Postarea următoare</a>
+  </div>
+</div>

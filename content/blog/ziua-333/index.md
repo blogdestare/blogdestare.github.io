@@ -75,3 +75,16 @@ Frumosul zilei extreme:
 </div>
 
 Peter Lubach
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-332/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-334/">Postarea următoare</a>
+  </div>
+</div>

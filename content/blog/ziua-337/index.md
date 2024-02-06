@@ -89,3 +89,16 @@ Clipa mea de plăcere:
 </div>
 
 Kathleen Ryan mouldy fruit sculpture
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-336/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-338/">Postarea următoare</a>
+  </div>
+</div>

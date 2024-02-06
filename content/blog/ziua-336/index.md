@@ -89,3 +89,16 @@ Secunda frumoasă a zilei:
 </div>
 
 EMBT architects
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-335/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-337/">Postarea următoare</a>
+  </div>
+</div>

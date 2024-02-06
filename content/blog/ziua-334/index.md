@@ -76,3 +76,16 @@ Intru încet la ea, se trezește doar cât să-i spun că-i las fructe pe noptie
 Am îmbătrânit brusc azi.
 
 Dacă m-ar întreba cineva ce am făcut azi, i-aș răspunde că am trăit o întreagă viață într-o zi. Cu dealuri și văi, cu drumuri line, dar și curbe periculoase. În zile d-astea, nu-mi iese hotărârea aia de a-mi ține mâinile larg deschise să primesc ce-mi dă viața. În zile d-astea, am niște filtre care-mi protejează inima și scuipă înapoi către viață junghiurile. În zile d-astea, parcă-mi vine să uit că pot fi recunoscătoare pentru bătăile inimii, cel puțin.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-333/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-335/">Postarea următoare</a>
+  </div>
+</div>
