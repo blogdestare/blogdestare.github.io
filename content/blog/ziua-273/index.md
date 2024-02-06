@@ -62,3 +62,16 @@ M-am înșelat când am crezut că o să uite de desert, că o să se domoleasc�
 <p style="text-align: center;">***</p>
 
 Netflix-ul se îmbină cu scrisul, când simt că mi-e greu să aștern și să retrăiesc ziua, mă opresc, nu vreau să mă maltratez mai mult decât e cazul, am început să mă trezesc din amorțirea aia în care nu-mi păsa ce trece prin mine, material sau imaterial. Și e și ăsta tot un pas mic.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-272/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-274/">Postarea următoare</a>
+  </div>
+</div>

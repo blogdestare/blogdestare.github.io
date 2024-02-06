@@ -62,3 +62,16 @@ Stau în pat și-mi închid ochii, încercând să-mi aud răspunsul sau răspun
 Nu aud nicio fărâmă, dar simt că am o acumulare și o apăsare în mine care se vrea expulzată. Așa că, fără alte introduceri, din momentul în care am simțit acumularea, mi s-a bulucit toată grămadă spre ochi și s-a aruncat afară. Plâng cu ochii închiși și-mi trece prin minte un gând amuzant, în același timp: dacă-i deschid acum, mă fac fântână arteziană? Plâng ca să descarc ceva, habar n-am ce, dar nu am și încărcătura emoțională a acelui ceva. Iar asta, pe lângă că e o noutate, e un lucru fain, plânsul e doar un act biologic, de spălare și atât, nu mai gogoșesc și eu, cu stări apocaliptice, păturile alea de vibrație care adună toate aolelile, suferințele, dramele, durerile celor aproape 8 miliarde de oameni.
 
 Măcar atât și parcă închid ziua aproape în aceeași notă de cuminte în care am început-o.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-276/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-278/">Postarea următoare</a>
+  </div>
+</div>

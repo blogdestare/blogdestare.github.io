@@ -70,3 +70,17 @@ S-a făcut deja 16, azi mi-am propus să mai recuperez cu scrisul pe blog așa c
 <p style="text-align: center;">***</p>
 
 Azi, acum 12 ani, Mr. H și-a manifestat intenția să-mi facă parte din viață.
+
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-271/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-273/">Postarea următoare</a>
+  </div>
+</div>

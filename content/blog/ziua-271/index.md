@@ -68,3 +68,16 @@ Am stat așa cuminte, când cu ochii închiși, când cu ei pironiți pe bucata 
 Restul zilei mi l-am scurs între ațipire și trezie, legănată de sunetul monoton al motorului mașinii de tuns sau de imagini pline de personalitate ale unor castele imaginate.
 
 Yep, nene Einstein, ai mare dreptate, imaginația e chiar mai importantă decât cunoașterea. Dar îți trebe țâțâni să vrei să renunți la cunoaștere, să vrei să dai drumul la hățurile controlului, să înfrunți judecățile și prejudecățile celor din jur.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-270/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-272/">Postarea următoare</a>
+  </div>
+</div>

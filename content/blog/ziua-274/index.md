@@ -62,3 +62,16 @@ După momentul prânzului, la care n-am avut surprize de refuz mâncare, iar mic
 Zău dacă știu cum un duș o țâră mai prezentă, cum o scurtă curățenie în bucătărie, urmată de o și mai scurtă strângere de scule zburătăcite prin garaj, cum spălatul de boluri și hrănitul pisicilor, cum aranjatul medicamentelor mamei pe zile că, da, iar a fugit o săptămână deși parcă ieri le-am pus în cutiuțe, mi-au mâncat orele restului de zi. Ori sunt eu obsedată, ori se învârte mai repede pământul.
 
 Oricât de mult îmi displace și propoziția și ce implică ea, câteodată nu-mi ajunge timpul să fac ceva și pentru mine, să-mi hrănesc măcar așa, la limita de supraviețuire, și partea aia creativă, imaginativă, înclinată spre frumos, de orice natură ar fi el.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-273/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-275/">Postarea următoare</a>
+  </div>
+</div>

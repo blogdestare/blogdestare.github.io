@@ -74,3 +74,16 @@ Am reușit, ce-i drept prin repetiție, să-mi crez fix realitatea care nu-mi pl
 După amiezile nu-mi mai sunt strânse în jurul făcutului constant, poate pentru că am obosit și m-am blazat și pentru că, o dată cu venirea frigului, treburile de afară s-au rărit. Sau poate și pentru că am intrat într-o pasivitate cruntă, în care bifez fără nicio bucurie, ca să fie făcute și las să curgă lucrurile pe lângă mine, fără mare participare din partea mea.
 
 Probabil d-aia nici nu mai pun degetul pe măcar trei recunoștințe, sigur d-aia nici nu mai am un frumos în zi. Toate au început și un sfârșit. Sau un sfârșit și un alt început.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-274/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-276/">Postarea următoare</a>
+  </div>
+</div>

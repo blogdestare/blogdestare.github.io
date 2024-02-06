@@ -70,3 +70,16 @@ Ideea e că de fapt nu termini niciodată nimic. E o minciună liniară. Nu bife
 Mi-am petrecut restul serii baleind între camera mamei, unde o anunț în mod repetat că mâine dimineață, foarte dimineață, vin să recoltăm pentru analize, între dormitorul nostru, unde mă așez să mai scriu câteva rânduri, între două pisici, fiecare cu personalitatea și mofturile ei, din nou în camera mamei. Deși parcă mi-e mie jenă de câte ori m-am dus, mai bag un cap și înainte de a se pune ea la somn să-i aduc aminte de recoltarea care o paște în ceas mic de noapte.
 
 Setez alarma, mă scarpin cu simț de răspundere pe brațe și adorm cu miros de lemn traforat în nas.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-278/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-280/">Postarea următoare</a>
+  </div>
+</div>

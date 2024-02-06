@@ -64,3 +64,16 @@ Mi-a fost dușul o scurtă meditație, mi-am permis, ca-n vremurile vechi, să s
 <p style="text-align: center;">***</p>
 
 Restul serii m-am mișcat cu atenție și cu durere de mijloc iar la culcare am observat că mi se întețește scărpinatul pe pielea brațelor. Nu mă pot opri până nu-mi fac răni, zici că-mi umblă purici pe sub piele care mă pișcă încontinuu. E nașpa senzația dar sunt așa de obosită că nici mintea nu mai pleacă pe cărări ciulinoase.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-275/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-277/">Postarea următoare</a>
+  </div>
+</div>

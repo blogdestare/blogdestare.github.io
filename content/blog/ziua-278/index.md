@@ -62,3 +62,17 @@ Predarea de curs s-a terminat, Mr. H pleacă pe coclauri cu bicla, iar eu urc î
 <p style="text-align: center;">***</p>
 
 Brrr, urât se simte în vintre pâcla asta a victimizării. Dar e a mea și eu a ei, acum. Atât se poate.
+
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-277/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-279/">Postarea următoare</a>
+  </div>
+</div>

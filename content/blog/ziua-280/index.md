@@ -78,3 +78,16 @@ Afară e soare, iar eu, după ce am plâns aproape toată ziua și m-am golit de
 Subit, mi s-a făcut poftă să scriu.
 
 Și să îi mulțumesc, cu aceleași lacrimi omniprezente, Universului pentru supapa asta descoperită.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-279/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-281/">Postarea următoare</a>
+  </div>
+</div>
