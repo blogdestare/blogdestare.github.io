@@ -70,3 +70,16 @@ Nu mă părăsește sentimentul de trecător și de inutilitate, oricât aș vre
 Fix în senzația asta am plutit tot restul zilei, am navigat cu indiferență printre prânzul mamei, care nu a vrut decât ciorbă că pastele "au prea mult sos", am scris ca și cum nu despre mine scriu și am renunțat la scris pentru a sta în pat, eu cu mine și cu visurile mele. O altă formă de evadare cu care încep să cochetez: statul și visatul cu ochii deschiși. Îmi lipsește și contextul și voința și cheful de a face și acțiunea, de a trece de la vis la realitate, de a mă scoate dintr-o plecare și de a mă aduce într-un prezent.
 
 O zi plană, fără prea mare fâsâială. Poate cu o mai mare lejeritate în a "respira" o nouă zi. Poate sunt pe valul care mă va duce la liman și nu la fundul tulbure al adâncimilor pe care nu le accept.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-252/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-254/">Postarea următoare</a>
+  </div>
+</div>

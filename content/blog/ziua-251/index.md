@@ -62,3 +62,16 @@ Scriu ca să evadez, încep să stăpânesc mai bine arta asta decât de diminea
 M-a scos din fuga mea printre cuvinte telefonul domnului meu, plecat cu bicla să se relaxeze, dar eșuat lamentabil pe la o margine de pădure, trădat de o roată înțepată. E destul de departe de casă, se înserează în curând așa că singura variantă este să mă duc să-l recuperez cu mașina.
 
 Pe drum am înțeles și de ce s-a întâmplat așa: e cerul de un spectacol superb iar ochii mei îl sorb hulpavi. Mi-am odihnit sufletul în cer și mi-a fost bine. Am mare nevoie de liniște albastră și senină și chiar dacă plâng, țâșnesc lacrimile astea de zici că-s gheizere, privitul spre înalt mi-a ridicat un strop starea asta de mers pe sub pământ care mă stăpânește lately. Și când mă gândesc că realitatea asta nici măcar nu e reală…
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-250/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-252/">Postarea următoare</a>
+  </div>
+</div>

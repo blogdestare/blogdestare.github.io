@@ -68,3 +68,16 @@ Azi a reparat Mr. H veioza și nici n-am deschis bine ușa să i-o duc și să-i
 <p style="text-align: center;">***</p>
 
 Oricât de gri o fi fost ziua de azi, am simțit bucuria lui Sassy pentru explorare, chiar și acum, la "bătrânețe", pentru iriși și pentru Spiky. Sunt trei.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-251/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-253/">Postarea următoare</a>
+  </div>
+</div>

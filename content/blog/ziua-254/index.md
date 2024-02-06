@@ -85,3 +85,16 @@ Iar adevărul acestei zile este:
 <div class="flex justify-center">
   <img src="images/intr-o-zi.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-253/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-255/">Postarea următoare</a>
+  </div>
+</div>

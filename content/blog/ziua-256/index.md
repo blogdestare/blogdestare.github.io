@@ -86,3 +86,16 @@ Yep, spui ce stă ascuns în tine, eu pentru ea am fost omul bun la toate, nu om
 Q.E.D
 
 Cu sufletul tremurând a frig, mi-am luat coconetul, mi-am scufundat fața în blănița ei și mi-am plâns durerea și neputința.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-255/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-256/">Postarea următoare</a>
+  </div>
+</div>

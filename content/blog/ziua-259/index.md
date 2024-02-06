@@ -64,3 +64,16 @@ Am așteptat tăcută dar la un moment dat am întrebat dacă au programare. Nic
 Am plecat de acolo mai cocoșată de cât eram când am intrat. Mă apăsa ne-simțirea mea, lipsa de empatie, plânsul de milă pe care mi l-am aruncat pe toate gardurile și holurile, rușinea, un cocktail suficient să mă aplece către pământ.
 
 Restul serii a trecut într-o împietrire din care îmi vine din ce în ce mai greu să-mi revin.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-258/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-260/">Postarea următoare</a>
+  </div>
+</div>

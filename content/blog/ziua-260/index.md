@@ -76,3 +76,16 @@ Fundul curții mele a devenit zona în care-mi vărs năduful și lacrimile, cel
 Mi-am petrecut după amiaza afară, în plâns și-n soare si-n sunet de Cabral și știri Protv, de la căștile conectate la camera mamei.
 
 Trebe să reîncep să cer sau să fiu recunoscătoare pentru răbdare si putere. Că sunt pe sponci și nu le mai fabric.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-259/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-261/">Postarea următoare</a>
+  </div>
+</div>

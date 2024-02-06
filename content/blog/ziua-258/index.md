@@ -86,3 +86,16 @@ A mâncat tăcută, nici eu nu debordez de entuziasm, doar că mi-am mai decorat
 Îmi petrec seara afară, doar eu cu mine și cu apusul, mai scriu un strop, dau de mâncare la animăluțe și pastilele mamei, n-am niciun chef de noapte, dar parcă nici de ziuă nu mai am chef. Iar mama, parcă să-mi demonstreze contrariul situației de la prânz, s-a culcat încotoșmănită, cu fes pe cap, pulover, halat de baie și din sfert în sfert de oră se trezește leaorcă, se schimbă și se îmbracă la fel de gros.
 
 O să fie cu cântec iarna asta…
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-257/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-259/">Postarea următoare</a>
+  </div>
+</div>

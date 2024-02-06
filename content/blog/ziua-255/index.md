@@ -85,3 +85,16 @@ Iar frumosul zilei mele este:
 </div>
 
 made by Sonix.ai
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-254/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-256/">Postarea următoare</a>
+  </div>
+</div>
