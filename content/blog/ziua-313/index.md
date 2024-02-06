@@ -81,3 +81,16 @@ Iar frumosul zilei este:
 </div>
 
 Iksel wallpaper
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-312/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-314/">Postarea următoare</a>
+  </div>
+</div>

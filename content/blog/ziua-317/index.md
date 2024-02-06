@@ -71,3 +71,16 @@ Dacă pe la jumătatea zilei, n-aș fi găsit recunoștințe, ha, acum sunt plin
 Esențialul zilei mele:
 
 <a href="https://www.youtube.com/watch?v=TxVoo0iUVDA" target="_blank">https://www.youtube.com/watch?v=TxVoo0iUVDA</a>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-316/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-318/">Postarea următoare</a>
+  </div>
+</div>

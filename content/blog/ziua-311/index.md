@@ -71,3 +71,16 @@ Clipa mea de plin este:
 <div class="flex justify-center">
   <img src="images/311-576x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-310/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-312/">Postarea următoare</a>
+  </div>
+</div>

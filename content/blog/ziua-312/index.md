@@ -86,3 +86,16 @@ Vibrez de recunoștință pentru tot și toate și toți. O stare mai înaltă d
 </div>
 
 Un "Te imensiubesc, mami!" devorat :-)
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-311/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-313/">Postarea următoare</a>
+  </div>
+</div>

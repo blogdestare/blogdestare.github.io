@@ -85,3 +85,16 @@ Clipa de fain este:
 </div>
 
 Isabelle and Mathieu Lott architects
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-318/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-320/">Postarea următoare</a>
+  </div>
+</div>

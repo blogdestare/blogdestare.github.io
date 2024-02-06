@@ -69,3 +69,16 @@ Frumosul meu din zi:
 </div>
 
 B.B. Clay art
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-317/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-319/">Postarea următoare</a>
+  </div>
+</div>

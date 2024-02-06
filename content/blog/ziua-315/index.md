@@ -87,3 +87,16 @@ Scurt, în clipe mici, în cădere spre pernă, sunt maxim recunoscătoare:
 <div class="flex justify-center">
   <img src="images/315.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-314/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-316/">Postarea următoare</a>
+  </div>
+</div>

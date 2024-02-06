@@ -65,3 +65,16 @@ Frumosul zilei este cine altcineva decât un urecheat trist:
 </div>
 
 Sett
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-313/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-315/">Postarea următoare</a>
+  </div>
+</div>
