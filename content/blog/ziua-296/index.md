@@ -72,3 +72,16 @@ Ca să-mi înmoaie o țâră indignarea morală ce mă căpăcește, primesc un 
 <p style="text-align: center;">***</p>
 
 Ce bine se simte să nu te simți singur.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-295/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-297/">Postarea următoare</a>
+  </div>
+</div>

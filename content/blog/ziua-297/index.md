@@ -66,3 +66,16 @@ Ideea e să nu mă pierd, în întuneric, prin disperare, până se va face lumi
 Prânzul ei mi-a trecut parcă la propriu prin toate oasele, nu pot să stau în picioare decât cocârjată, dintr-o tendință ciudată de a balansa în vreun fel marea durerea ce mi s-a concentrat în capul pieptului. Mă întreabă ce am, o dată, de două, de zece și fac eforturi să mă abțin și din a mă enerva, și din a-i vărsa ofurile care-mi adună otravă în corp. Ea n-are nicio vină. Îmi tot repet asta și, pe undeva o cred, pe undeva n-o cred. Mai mult, n-o cred, dar e ceva emoțional, mentalul îmi dă rapid peste percepție și-i pune căluș emoției: cu ce te ajută dacă n-o ierți?
 
 Ca s-o parafrez pe Connie, unde e critică, nu e iubire. Întotdeauna.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-296/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-298/">Postarea următoare</a>
+  </div>
+</div>

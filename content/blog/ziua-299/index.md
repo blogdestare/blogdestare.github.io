@@ -78,3 +78,16 @@ Dau drumul la aparatul cu aburi și arunc legume în el, n-am mai mâncat de ier
 Tot ce mai fac este să-i pun prânzul, să încerc să-i răspund fără să mă sugrume lacrimile la întrebările egotice: ce a zis doctorița despre mine? A fost încântată? Da, mamă, a fost, dar tu știi că scopul acestei evaluări e doar birocrația…
 
 Îmi doresc din tot sufletul meu de copil răvășit, să nu mă mai întâlnesc cu o zi ca asta în toată viața mea.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-298/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-300/">Postarea următoare</a>
+  </div>
+</div>

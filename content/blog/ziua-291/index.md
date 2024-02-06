@@ -60,3 +60,16 @@ S-a dus efervescența ei de dimineață, e din nou laconică, din nou mecanică 
 M-am reîntors în relaxarea patului și îl ascult pe Wayne Dyer. Îmi place mult și sunetul vocii lui, mă alină și energia cuvintelor lui, iar sensul lor face click după click în mine, în inimă. Rezonez cu multe din spusele lui, pe toate le înțeleg, nu pe toate le cuprind în inimă pentru că încă nu le-a venit momentul în viața mea, nu m-am copt să le pricep, dar o expresie de-a lui mi-a dat fiori, fără ca măcar să știu de ce: do what feels natural to you. Să faci ce-ți vine natural, asta e cheia care deschide seiful unde zace comoara acestei vieți: scopul tău, menirea pentru care ai venit tu, special, aici. Fiorii ăia pe care i-am simțit au fost de fapt validarea corpului meu că asta e un adevăr irefutabil. Nu m-am gândit niciodată așa, nu am avut niciodată perspectiva asta și totuși mi se pare atât de simplu, atât de adevărat, atât de la îndemână încât mi se pare incredibil că n-am articulat eu asta până acum.
 
 Nu cred că poate fi descris mai simplu și mai frumos și mai cuprinzător scopul vieții decât atât: fă ce îți vine natural să faci. Fără contorsionări care să dea bine, care să te urce deasupra altora, care să te înfoaie, îndoaie, astupe, murdărească, mutileze, anuleze, doară.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-290/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-292/">Postarea următoare</a>
+  </div>
+</div>

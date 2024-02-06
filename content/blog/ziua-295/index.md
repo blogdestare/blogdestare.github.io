@@ -74,3 +74,16 @@ Fac un duș rapid, dau o fugă la Hornbach că am găsit la ei pe net vas de exp
 O zi bună.
 
 O zic mic, și-o scuip apăsat, că nu vreau să o deochi.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-294/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-296/">Postarea următoare</a>
+  </div>
+</div>

@@ -70,3 +70,16 @@ Rămasă să alchimizez trăirea care s-a răsculat în mine, îmi scot uimirea 
 Mă inund de întrebări și de lacrimi în același timp: ce trebe să înțeleg eu din prietenia asta sublimă? Ce merit am eu în asta? Cum pot să primesc curat fără să am tendința primară de refuz? Cum să întorc eu omulețului ăsta minunat tot ce face pentru mine și nici măcar nu știe?
 
 Până m-oi lumina eu cu toate, îmi iau lecția zilei și-o pun în folderul inimii, în speranța c-am înțeles-o visceral și-n colțuri de carne și-n unghiuri de suflet: după orice furtună, iese soarele. Always.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-293/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-295/">Postarea următoare</a>
+  </div>
+</div>

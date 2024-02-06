@@ -78,3 +78,16 @@ Dar ce mi-a atins inima profund a fost modul cum scrie despre familia lui, toat�
 Îmi închei ziua așa cum am învățat de la Wayne Dyer, punându-mi ingenuu întrebarea: ce-ți dorești?
 
 Viață, cred că mi-e de ajuns.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-291/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-293/">Postarea următoare</a>
+  </div>
+</div>

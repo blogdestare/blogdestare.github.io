@@ -64,3 +64,16 @@ Așa cum încep să învăț, nu mai forțez lucruri, nu mai grăbesc rezolvări
 <p style="text-align: center;">***</p>
 
 O turlă a unui castel (!) mi-a dat așa o conștientizare faină, că aproape-mi vine să cred că-i semn de la Univers: mie, o fărâmiță de scânteie, mi s-a făcut onoarea să mă întrupez într-o lume în care să încerc și cald și rece, și d-aia și d-ailaltă, și bune și nebune și am acceptat și ales, atunci, când eram doar o fărâmiță de eter, să le sorb pe toate, să trec prin ele. Înseamnă că drumul nu trece decât pe aici, că oricâte ocolișuri sau devieri aș face, din "greșeală", de fapt traseul e tot ăla, toate devierile în ciulini sunt comori, dacă ai ochi deschiși să le vezi.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-297/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-299/">Postarea următoare</a>
+  </div>
+</div>

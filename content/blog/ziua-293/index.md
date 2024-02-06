@@ -70,3 +70,16 @@ Yep, așa e. Sunt total de acord cu ea, numai că mie mi-a sărit un arc din voi
 Așa că trebe să mă prind de asta și să nu-mi mai dau și singură la glezne când deja mă clatin, când mă plâng, când mi-e greu. Am tot dreptul s-o fac pentru că e greu și pentru că mi-e greu.
 
 E greu să te ridici în picioare când nu-ți mai găsești picioarele.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-292/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-294/">Postarea următoare</a>
+  </div>
+</div>
