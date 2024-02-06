@@ -46,10 +46,13 @@ Ies în curte și-mi las nervii în bucătărie, să fie înăbușiți de aburul
 Mă bucur de florile mele dar și de roșiile care apar ca ciupercile după ploaie.
 
 <div class="flex justify-center h-96">
-   <img src="images/crin-1-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/hortensii-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img src="images/hortensii-576x1024.jpeg" />
+</div>
+
+<div class="flex justify-center h-96">
    <img src="images/crin-2-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
-   <img src="images/rosii-576x1024.jpeg" />
+   <img src="images/rosii-576x1024.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img src="images/crin-1-576x1024.jpeg" />
 </div>
 
 E o viață imensă care se întâmplă în afara mamei și a demenței ei și eu nu vreau s-o ratez. Sunt mii de alte vieți care participă în viața mea, care-și aduc contribuții mici sau mari în bucuria mea de viață, și astăzi, tot într-un moment de claritate, am putut să văd asta cu ușurință. Vrăbiuțele gureșe care zboară scurt prin curte mi-aduc sonor mic clocotitor de bucurie, alături de câteva mierle care stau în nucul de la poartă. Fiecare floare sau legumă sau pom fructifer sau arbust, plantat cu mâinile mele și cu un strop de mămicie din inima mea, mă răsfață fiecare cu ce poate: cu miros bestial, cu colorit mișto, cu creștere, cu fructe. Și ele sunt vieți împletite de a mea, și ele-mi participă tăcute în parcursul ăsta de viață. Albinele, viespile, căprioarele, fazanii, Tăciunel, Arici Pogonici, vulpile, toate vin pentru un strop de hrană și-mi lasă-n loc stropi din viața lor.  M-am umplut de toate și-n umplerea asta, am aruncat afară nervii ăia stupizi ce s-au aprins doar pentru că…. nici măcar nu știu de ce.

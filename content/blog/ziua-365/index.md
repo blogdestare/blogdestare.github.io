@@ -66,6 +66,6 @@ Am înțeles cât de ciclică e viața și că suntem de două ori copii: o dat�
     <a href="/blog/ziua-364/">Postarea anterioară</a>
   </div>
   <div>
-    <a href="/blog/ziua-617/">Postarea următoare</a>
+    <a href="/blog/the-end/">Postarea următoare</a>
   </div>
 </div>
