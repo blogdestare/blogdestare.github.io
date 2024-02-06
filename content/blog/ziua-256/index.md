@@ -96,6 +96,6 @@ Cu sufletul tremurând a frig, mi-am luat coconetul, mi-am scufundat fața în b
     <a href="/blog/ziua-255/">Postarea anterioară</a>
   </div>
   <div>
-    <a href="/blog/ziua-256/">Postarea următoare</a>
+    <a href="/blog/ziua-257/">Postarea următoare</a>
   </div>
 </div>
