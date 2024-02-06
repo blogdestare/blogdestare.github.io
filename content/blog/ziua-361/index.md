@@ -79,3 +79,16 @@ O clipă de frumos:
 <div class="flex justify-center">
   <img src="images/361.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-360/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-362/">Postarea următoare</a>
+  </div>
+</div>

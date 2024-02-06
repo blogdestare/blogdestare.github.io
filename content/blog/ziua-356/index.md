@@ -75,3 +75,16 @@ Clipă de fain în zi:
 <div class="flex justify-center">
   <img src="images/356-2-1024x768.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-355/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-357/">Postarea următoare</a>
+  </div>
+</div>

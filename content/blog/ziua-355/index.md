@@ -83,3 +83,16 @@ Tot el este și frumosul zilei:
 </div>
 
 Hitlerică
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-354/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-356/">Postarea următoare</a>
+  </div>
+</div>

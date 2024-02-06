@@ -67,3 +67,16 @@ Clipa de frumos mi-a fost:
 <div class="flex justify-center">
   <img src="images/357-2.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-356/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-358/">Postarea următoare</a>
+  </div>
+</div>

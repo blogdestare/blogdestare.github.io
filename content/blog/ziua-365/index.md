@@ -56,3 +56,16 @@ Am înțeles cât de ciclică e viața și că suntem de două ori copii: o dat�
 <div class="flex justify-center">
   <img src="images/365-bun2.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-364/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/FINAL/">Postarea următoare</a>
+  </div>
+</div>

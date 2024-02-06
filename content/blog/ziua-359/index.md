@@ -69,3 +69,16 @@ Frumosul zilei este:
 <div class="flex justify-center">
   <img src="images/359.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-358/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-360/">Postarea următoare</a>
+  </div>
+</div>

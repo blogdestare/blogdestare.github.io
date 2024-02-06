@@ -34,3 +34,13 @@ Câteva ore mai târziu, la 12 fix noaptea, mama a respirat pentru ultima dată.
 E moartă pentru această viață și vie pentru alta. Fix așa cum eu am fost moartă pentru viața din pântecul ei și vie pentru asta pe care o trăiesc acum. Dar ne vom "vedea" dincolo cu siguranță, că ochii mei încă nu-s capabili s-o vadă și acum, pe aici, prin eter, de unde știu că mă alină.
 
 Mulțumesc, mamă!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-365/">Postarea anterioară</a>
+  </div>
+

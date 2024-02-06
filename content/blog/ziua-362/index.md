@@ -78,3 +78,16 @@ Un frumos de-al zilei:
 <div class="flex justify-center">
   <img src="images/362.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-361/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-363/">Postarea următoare</a>
+  </div>
+</div>

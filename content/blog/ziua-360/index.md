@@ -77,3 +77,16 @@ O clipă de frumos (din 90 de ani de frumos):
 <div class="flex justify-center">
   <img src="images/360.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-359/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-361/">Postarea următoare</a>
+  </div>
+</div>

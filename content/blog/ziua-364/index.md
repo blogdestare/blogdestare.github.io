@@ -89,3 +89,16 @@ Un frumos cât o zi:
 <div class="flex justify-center">
   <img src="images/364-827x1024.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-363/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-365/">Postarea următoare</a>
+  </div>
+</div>

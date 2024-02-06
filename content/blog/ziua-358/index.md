@@ -117,3 +117,16 @@ Frumosul din zi:
 </div>
 
 Layla Robinson Design
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-357/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-359/">Postarea următoare</a>
+  </div>
+</div>

@@ -68,3 +68,16 @@ Anul care vine vreau să trăiesc. Și să plec de la asta în fiecare dimineaț
 <div class="flex justify-center">
   <img src="images/354.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-353/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-355/">Postarea următoare</a>
+  </div>
+</div>

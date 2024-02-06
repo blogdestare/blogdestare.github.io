@@ -85,3 +85,16 @@ Frumosul zilei mele:
 </div>
 
 Ursuleț
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-352/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-354/">Postarea următoare</a>
+  </div>
+</div>
