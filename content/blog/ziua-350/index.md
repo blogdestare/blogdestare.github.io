@@ -85,15 +85,6 @@ Iar frumosul zilei mele este:
 </div>
 
 
-<div class="flex justify-between">
-  <div>
-    <a href="/blog/ziua-349/">Postarea anterioară</a>
-  </div>
-  <div>
-    <a href="/blog/ziua-351/">Postarea următoare</a>
-  </div>
-</div>
-
 <br/>
 
 <br/>
@@ -106,3 +97,5 @@ Iar frumosul zilei mele este:
     <a href="/blog/ziua-351/">Postarea următoare</a>
   </div>
 </div>
+
+
