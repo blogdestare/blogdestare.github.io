@@ -71,3 +71,16 @@ Clipa de frumos mi-a fost:
 </div>
 
 Kirsty Elson driftwood
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-328/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-330/">Postarea următoare</a>
+  </div>
+</div>

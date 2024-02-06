@@ -80,3 +80,16 @@ Frumosul din clipă:
 <div class="flex justify-center">
   <img src="images/327.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-326/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-328/">Postarea următoare</a>
+  </div>
+</div>

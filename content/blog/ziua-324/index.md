@@ -95,3 +95,16 @@ Clipa mea de fain:
 </div>
 
 David Stark design
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-323/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-325/">Postarea următoare</a>
+  </div>
+</div>

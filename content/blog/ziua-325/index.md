@@ -85,3 +85,16 @@ Frumosul zilei mele vine de la:
 </div>
 
 Jet&Co fabrics
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-324/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-326/">Postarea următoare</a>
+  </div>
+</div>

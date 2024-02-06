@@ -75,3 +75,16 @@ Iar frumosul de clătit ochi și suflet este:
 <div class="flex justify-center">
   <img src="images/323.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-323/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-324/">Postarea următoare</a>
+  </div>
+</div>

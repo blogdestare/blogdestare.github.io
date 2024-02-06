@@ -75,3 +75,16 @@ Stropul de fain de azi mi-a fost:
 </div>
 
 Hegi Design
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-329/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-331/">Postarea următoare</a>
+  </div>
+</div>
