@@ -1,7 +1,7 @@
 
 +++
 date = 2023-09-20
-title = "Ziua 617"
+title = "Ziua 617 - THE END"
 description = "Cele 26 secunde înregistrate mi-au tăvălit 48 de ani de credință tâmpită. Incredibil de cât de puțin timp e nevoie să înțelegi cea mai mare taină a acestei lumi, iubirea, cu nuanța ei de cel mai mare preț, iubirea de mamă. Mă opresc aici, nu există cuvinte omenești să cuprindă ce intensitate s-a petrecut între noi două în câteva secunde. Secunde care mi-au schimbat viața. Mi-a explodat în fiecare celulă din corp și m-a înfiorat adânc mângâierea asta. Cred că doar grija să nu cumva să-i tulbur starea, m-a oprit din urletul care s-a pornit în mine. Cine a trăit agonie și extaz suprapus, în fix aceleași secunde, știe ce vorbesc."
 authors = ["Biannca Locatelli"]
 [taxonomies]
