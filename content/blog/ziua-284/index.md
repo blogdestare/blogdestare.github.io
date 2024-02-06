@@ -76,3 +76,16 @@ Azi demența mamei nu m-a atins prea tare. Poate m-a înfășurat protector răs
 Partea mai calmă a zilei dar și cea mai obosită, o aloc scrisului iar asta îmi țesală frumos și blând gândurile, cam în ton cu ziua asta care mi s-a scurs. Fac pauză doar pentru un duș-meditație, pentru hrănit pisici, pentru pastilele mamei.
 
 Mă infuzez în toată mine cu gândul-dorință ca ziua de mâine să fie un copy-paste al zilei de azi. Chiar și unul mai palid, dar cu aceeași nuanță blândă, că tare bine mi-a făcut.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-283/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-285/">Postarea următoare</a>
+  </div>
+</div>

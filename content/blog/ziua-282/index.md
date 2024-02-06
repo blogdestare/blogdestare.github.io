@@ -62,3 +62,16 @@ Spiky a venit și mă așteaptă pe terasă să-i dau drumul, știe ea că am ne
 M-am apucat de scris și nu m-am mai oprit până mi s-au lipit ochii a somn.
 
 Ce zi…
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-281/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-283/">Postarea următoare</a>
+  </div>
+</div>

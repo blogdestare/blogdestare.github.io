@@ -64,3 +64,16 @@ Tot vorbind cu ea, mi-am susurat singură și unul din motivele pentru care prob
 <p style="text-align: center;">***</p>
 
 Gata, mi s-au consumat bateriile pentru ziua de azi, în care am ars intens dar bun, hrănitor pentru suflet. Până la urmă, sâmburelul ăla al prea dimineții m-a ținut toată ziua. Că așa am ales.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-288/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-290/">Postarea următoare</a>
+  </div>
+</div>

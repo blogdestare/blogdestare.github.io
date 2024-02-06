@@ -64,3 +64,16 @@ Uite că iar plâng, m-a impresionat omulețul ăsta, cu generozitatea lui peste
 În energia asta balsam mi-am culcușit toate intențiile și gândurile restului de zi. M-am cuplat la energia scrisului și ea m-a ghidat lin să nu mai vărs năduf în cuvinte, chiar dacă trăirile mi-s pline, îndreptățit sau nu. Mi-am luat timp conștient să mă las desfătată de apa asta magnetică, capabilă să mă spele la multe nivele, să mă albească și să mă primenească, pregătindu-mă pentru o nouă eu.
 
 Și-am adormit legănată de torsul sufletului ăsta mic, unul din boțurile mele de aur.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-285/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-287/">Postarea următoare</a>
+  </div>
+</div>

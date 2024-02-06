@@ -64,3 +64,16 @@ Cam cum am făcut toate lucrurile în viața mea, de-a-ndoaselea față de major
 Dar m-am copt doar la pusul de întrebări, cred că-mi mai trebe încă p-atât sau cine știe dacă vreodată o să și aflu răspunsurile. Deocamdată, singurul răspuns pe care-l am este că Dumnezeu e căutător de senzații.
 
 Mă roade însă și întrebarea întrebării: Dar de ce e căutător? De plictiseală?
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-287/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-289/">Postarea următoare</a>
+  </div>
+</div>

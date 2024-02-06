@@ -82,3 +82,16 @@ Da, totul și orice poate fi greu. Cred că am aflat-o și trăit-o din plin pe 
 În restul după-miezii și-al serii, m-am reîntors la liniștea creatoare de cuvinte care se cer scrise. În ultimul timp, am devenit confortabilă și cu pauza, și cu nevorbitul, m-am împrietenit și mai adânc cu liniștea iar ea începe să-mi aducă daruri.
 
 Cine ar fi crezut vreodată că mă voi sătura de "vorbit" prin scris?!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-286/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-288/">Postarea următoare</a>
+  </div>
+</div>

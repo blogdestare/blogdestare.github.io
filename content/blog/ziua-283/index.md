@@ -80,3 +80,16 @@ Cu laptopul în brațe, rămân parcă blocată într-o stare de nemișcare, câ
 Toată ziua am fost într-un leagăn: de jos în sus, de sus în jos. Simt eu că la un moment dat, o să-mi găsesc o mediană care să mă țină prezentă.
 
 Acum sunt sus, Maya e ok.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-282/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-284/">Postarea următoare</a>
+  </div>
+</div>

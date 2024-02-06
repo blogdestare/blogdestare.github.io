@@ -74,3 +74,16 @@ Dau drumul la Netflix și sper eu ca privitul serialului meu drag Bridgerton să
 Cred că ziua de azi a vrut să fie, și i-a ieșit, una cu mare încărcătură emoțională și, spre seară, chiar și fizică. Altfel nu-mi explic cum o simplă exclamație dintr-o banală scenă între o mamă și un fiu "Oh, my darling!", cu o intonație atât de caldă că mi s-a dus până în fundul sufletului, a scos din niște dosuri de inimă, bine ferecate, toată furia și tot dorul și toată dorința mea de a fi fost și eu protejată, îndrumată, mângâiată, toate fricile care mi-au străbătut fibrele și carnale și emoționale de câte ori venea peste mine câte o noutate și doamne, câte-au fost, la tot pasul! Și încă mai sunt dar acum, deși dorința asta a mea încă se manifestă, încă e caldă, e mult mai atenuată, că mi s-a bătucit ființa între timp.
 
 Cu toată durerea mea de cap, cu toată greața adunată-n vintre, un plâns răscolitor dar curățitor m-a ținut în brațele lui până am spălat și mizeriile astea aduse la suprafață. De fapt, nu sunt mizerii, sunt fapte de viață, sunt trăiri de-ale mele trunchiate și îndesate în cutii prea mici ca să le cuprindă și care sar ca arcurile acum, atinse de o vorbă, de un gest, de o amintire. Sunt într-un proces de răscolire totală, a trecutului, a ființei mele, a tot ceea ce am îngropat și ascuns și asta ia timp. Și lacrimi, multe lacrimi.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-289/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-291/">Postarea următoare</a>
+  </div>
+</div>

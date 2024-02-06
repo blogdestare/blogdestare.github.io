@@ -64,3 +64,16 @@ Cu burțile nepermis de pline, de pizza și de plăcintă, ne mutăm de pe colț
 <p style="text-align: center;">***</p>
 
 Copiii au plecat odată cu marele galben și m-au lăsat, din nou, mai puțină: mi-a prins bine să mai vorbesc, să mai ascult, să mai simt prezențe, să fac și altceva.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-284/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-286/">Postarea următoare</a>
+  </div>
+</div>

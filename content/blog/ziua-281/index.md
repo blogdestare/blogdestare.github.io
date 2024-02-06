@@ -76,3 +76,16 @@ Mi se derulează alert după amiaza, acum e soare, acum s-a făcut beznă.
 Sunt obosită iar Mr. H, mai în glumă, mai în serios îmi spune că nu mai tolerează să mă plâng over and over de aceleași lucruri. Deși pare mai în glumă, la mine e chiar serios, n-am altele de care să mă plâng, pentru că eu nu fac altceva decât spăl rahați, de toate felurile, fac curat, fac mâncare, fac cumpărături și o iau de la început. Și eu care credeam că nu mă mai plâng așa de mult…
 
 Îl înțeleg, mă înțeleg. Fără niciun "dar" între. Que sera, sera.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-280/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-282/">Postarea următoare</a>
+  </div>
+</div>
