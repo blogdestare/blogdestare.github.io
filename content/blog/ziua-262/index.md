@@ -64,3 +64,16 @@ Am ieșit afară în curte și nu mi-a fost de ajuns. Am ieșit din curte, m-am 
 <p style="text-align: center;">***</p>
 
 Sunt obosită. De muncă, de gânduri, de suflet, de toate.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-261/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-263/">Postarea următoare</a>
+  </div>
+</div>

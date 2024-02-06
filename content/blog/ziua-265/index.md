@@ -58,3 +58,16 @@ Am împins momentan greața cu bananele și sticksurile, așa că premiez puiuca
 M-am întâlnit cu un vecin în traseul meu, fix când nu-mi doream nicio relaționare umană. Socializez minimal și-mi dau seama că sunt o carte deschisă și dacă tac, pare că știu ce să spun și când tac, că omul se uită în ochii mei și mă întreabă direct: ești bine? Am simțit, chiar nu știu cum, că întrebarea lui nu avea nicio legătură cu partea fizică a mea, el mă citise în adâncul ochilor, acolo unde mi se vede sufletul, și probabil că-l tulburasem. M-am eschivat, parte pentru că nu știu să răspund la întrebarea asta, parte pentru că nu vreau să încarc pe nimeni cu prostiile mele, parte pentru că a fost atât de candid și sincer că mi-a fost milă să împroșc momentul cu urât. Dar am plecat de acolo mai dărâmată, egoul m-a prins cu toată gura și dă cu mine în toți pereții victimizării.
 
 Mama ei de treabă, vreau să ies din asta! Chiar vreau! Is there anybody out there?
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-264/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-266/">Postarea următoare</a>
+  </div>
+</div>

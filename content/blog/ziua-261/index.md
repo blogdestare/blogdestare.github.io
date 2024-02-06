@@ -84,3 +84,16 @@ S-a pus la culcare la ora 17, cu pauze pentru pastile și pentru schimbatul obse
 Mr H rămâne în oraș cu băieții, prietena mea e la TNB iar eu, în curte, îmi las lacrimile uscate de un soare singur prietenos la ora asta cu mine.
 
 Timpul trece, în defavoarea mea.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-260/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-262/">Postarea următoare</a>
+  </div>
+</div>

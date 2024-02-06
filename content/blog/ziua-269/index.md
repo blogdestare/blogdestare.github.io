@@ -70,3 +70,16 @@ Am coborât-o la prânz (frate, acu' 5 minute tocmai ce-a fost micul dejun…) �
 După amiezile mele trec inimaginabil de repede prin viața mea. De fapt, viața mea trece super rapid prin viața mea. Nu mai înțeleg nimic, nu mai apuc parcă să mă dumiresc de ce e prin preajma mea, fac, fac și iar fac, dorm, mă trezesc, fac și de la capăt.
 
 Și asezonez toate astea cu bucăți mari de plâns, care nici măcar nu mai e descărcare. Nici nu știu de ce mai plâng.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-268/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-270/">Postarea următoare</a>
+  </div>
+</div>

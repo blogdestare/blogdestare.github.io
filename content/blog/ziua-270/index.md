@@ -74,3 +74,16 @@ Deși nici de scris n-am stare, n-am cuvinte și parcă am uitat de ce, mai așt
 <p style="text-align: center;">***</p>
 
 Ușor-ușor, mă înghite o singurătate.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-269/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-271/">Postarea următoare</a>
+  </div>
+</div>

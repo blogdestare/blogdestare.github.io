@@ -50,3 +50,16 @@ Sunt efectiv epuizată dar am bifat tot ce am vrut să fac, cel puțin interioru
 Trag pe nări mirosul ei specific de câine care pentru mine e un miros aparte, îl vreau în mine să-i dau drumul cu țârâita când mi-o fi tare, tare dor de ea, o pupăcesc pe sprâncenuțele ce încep să aibă firișoare de păr alb, o mângâi și o scarpin pe burtica pe care și-a dezvelit-o, semn de cea mai mare încredere, vorbesc cu ea așa cum nu vorbesc cu nimeni, îmi știe cele mai adânci dureri și mereu mi le-a știut. Cred că de oboseală sunt vulnerabilă acum, că mă bușește și un plâns și știu că oricât aș sta și m-aș îmbiba de Maya acum, nu-mi va ajunge elastic peste toate zilele care mă așteaptă acasă, unde ea nu e. Mi se pare că viața mea, în care diminețile-mi începeau cu sforăitul și plescăitul a plăcere ale Mayei, a fost acum o mie de vieți.
 
 Și, chiar dacă mi-a fost greu zilele astea, de rău și de muncă, parcă nu vreau să mă duc acasă…
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-265/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-267/">Postarea următoare</a>
+  </div>
+</div>

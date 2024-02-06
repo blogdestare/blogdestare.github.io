@@ -58,3 +58,16 @@ Doamne, cât de tare, imens de tare, îmi doresc să mă trezesc mâine diminea�
 Am plâns juma' de noapte și Universul mi-a ținut isonul, a turnat cu găleata și afară, a tunat și a fost vijelie. Da, fix așa e și în mine.
 
 Așa, și?!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-262/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-264/">Postarea următoare</a>
+  </div>
+</div>

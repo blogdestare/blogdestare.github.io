@@ -58,3 +58,16 @@ Din păcate, nici Maya nu-mi înțelege răul sau nu mi-l simte, că mă plânge
 <p style="text-align: center;">***</p>
 
 Demența mamei mi-a "șuntat" ființa și m-a identificat atât de tare cu fratele porc, încât m-am pierdut și nu mai găsesc drumul. Mă doare atât de tare contextul meu de viață acum, încât nu sunt capabilă să văd o soluție și atunci mă mocirlesc și nu mai văd curat. Că doar se știe, dacă te bagi în cocină, te mănâncă porci.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-263/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-265/">Postarea următoare</a>
+  </div>
+</div>

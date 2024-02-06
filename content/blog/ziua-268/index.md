@@ -66,3 +66,16 @@ Singura ei grijă și motiv pentru care mănâncă mâncarea este desertul. În 
 Îmi iau marea aroganța de a-mi petrece restul zilei în pat, doar eu cu mine, cu greața și cu Spiky. Ocazional un laptop. Ocazional un telefon. Multe vise cu ochi deschiși la castele și viață de castelană.
 
 Ultima observație, tot de mare acuratețe, este că mi-au înghețat colțurile buzelor în jos, nu se mai arcuiesc a zâmbet. Ok, o să treacă. Toate trec. Toți ne trecem.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-267/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-269/">Postarea următoare</a>
+  </div>
+</div>

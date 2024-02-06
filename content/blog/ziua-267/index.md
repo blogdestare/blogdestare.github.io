@@ -72,3 +72,16 @@ E deja beznă, în pârloaga din împrejur se aude foșnăit, sunt câinii vagab
 Mi s-au oprit motoarele. Azi, făcutul la foc continuu m-a dezlipit grosolan de viața mea.
 
 Ultima senzație a zilei, pe care aproape c-o simt pe limbă, este că am capitulat totalmente în fața exteriorului meu, nu mai am niciun cuvânt de spus în viața mea pe care mi-o parcurg mânată doar de cei din afara mea. Iar asta nu e viață, e dictare.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-266/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-268/">Postarea următoare</a>
+  </div>
+</div>
