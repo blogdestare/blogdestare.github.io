@@ -85,3 +85,16 @@ Frumosul unei clipe din azi:
 <div class="flex justify-center">
   <img src="images/306-beauty.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-305/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-307/">Postarea următoare</a>
+  </div>
+</div>

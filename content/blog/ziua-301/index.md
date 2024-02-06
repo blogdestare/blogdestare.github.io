@@ -68,3 +68,16 @@ Am bifat prima injecție, din 10. Pe drumul de întoarcere de la domiciliul asis
 Îmi dau seama că eu nu mi-am tratat oamenii niciodată ca pe niște halte în drumul meu. În naivitatea mea, mereu am imprimat eternul în oameni, lucruri, situații, în speranța că ei vor fi acolo cu mine mereu. Utopic si prostesc, chiar nesănătos, mi-a arătat viața. Dar eu tot n-am învățat. Deși nu atârn de glezna nimănui, deși nu opresc pe nimeni din plecare, nu mai manipulez, nu mai cer, fiecare plecare m-a durut în doli emoționali mult peste unitățile astea de măsura a durerii fizice. Și am rămas în urma plecării descumpănită, retrăind abandonul ăla primar, mereu și mereu, neînțelegând de ce efemerul e mai puternic decat eternul.
 
 Acum știu că oamenii vin, îți contribuie, în varii forme, plăcute sau neplăcute și pleacă. Acum știu că e o singura persoană care nici nu vine și nici nu pleacă, care e acolo mereu. Și fix p-aia o abandonez eu mereu și mereu că, deh, abandonul ăsta e o boală molipsitoare.
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-300/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-302/">Postarea următoare</a>
+  </div>
+</div>

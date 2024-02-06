@@ -98,3 +98,16 @@ Feeria zilei:
     <source src="images/vulpitza.mp4" type="video/mp4" />
 </video>
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-304/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-306/">Postarea următoare</a>
+  </div>
+</div>

@@ -75,3 +75,16 @@ Dar cea mai tare a fost și rămâne poza pe care mi-au căzut ochii, în ziua i
 </div>
 
 Full Belly Farm
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-307/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-309/">Postarea următoare</a>
+  </div>
+</div>

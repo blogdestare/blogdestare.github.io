@@ -93,3 +93,16 @@ Frumosul din clipă sau clipa de frumos:
 </div>
 
 Carlos Cabo ceramics
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-302/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-304/">Postarea următoare</a>
+  </div>
+</div>

@@ -74,3 +74,16 @@ Restul orelor mi le-a înghițit hâda asta de colică, care vrea și ea un pic 
 P.S. 300 de zile. Mă felicit că, deși m-am mai poticnit, nu m-am lăsat.
 
 P.P.S au trecut 300 de zile din viața mea!
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-299/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-301/">Postarea următoare</a>
+  </div>
+</div>

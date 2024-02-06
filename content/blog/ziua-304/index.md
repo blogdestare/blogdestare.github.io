@@ -75,3 +75,16 @@ Iar frumosul clipei este:
 </div>
 
 Ceramică by Daria Geagăn
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-303/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-305/">Postarea următoare</a>
+  </div>
+</div>
