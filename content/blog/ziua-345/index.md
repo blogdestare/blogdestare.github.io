@@ -79,3 +79,16 @@ Clipa faină a zilei:
 <div class="flex justify-center">
   <img src="images/345.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-344/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-346/">Postarea următoare</a>
+  </div>
+</div>

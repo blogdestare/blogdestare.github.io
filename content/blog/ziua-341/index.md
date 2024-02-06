@@ -79,3 +79,16 @@ Clipa de frumos:
 </div>
 
 Verde
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-340/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-342/">Postarea următoare</a>
+  </div>
+</div>

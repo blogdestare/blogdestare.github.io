@@ -75,3 +75,16 @@ Frumosul din clipă:
 </div>
 
 Ceramics by Jurg C. Bachtold
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-346/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-348/">Postarea următoare</a>
+  </div>
+</div>

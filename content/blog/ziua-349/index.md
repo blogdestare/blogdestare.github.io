@@ -76,3 +76,16 @@ Frumosul din zi:
 </div>
 
 Kirsty Elson
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-348/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-350/">Postarea următoare</a>
+  </div>
+</div>

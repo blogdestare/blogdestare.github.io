@@ -69,3 +69,16 @@ Frumosul din zi:
 <div class="flex justify-center">
   <img src="images/343.jpeg" />
 </div>
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-342/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-344/">Postarea următoare</a>
+  </div>
+</div>

@@ -83,3 +83,16 @@ Clipa mea de fain este:
 </div>
 
 Armand Pierre Fernandez, Parco Sempione, Milan
+
+<br/>
+
+<br/>
+
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-343/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-345/">Postarea următoare</a>
+  </div>
+</div>
