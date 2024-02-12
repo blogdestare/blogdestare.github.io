@@ -112,9 +112,11 @@ Nu vreau, în vreme de jelanie, să renunț la recunoștință așa că mulțume
 2. Întelegerea că eu de fapt nu înțeleg încă demența la mama!
 3. Existența lui Connie Larkin și prezența ei în viața mea!
 
-Frumosul adevăr reamintit al zilei:
+Frumosul zilei:
 
-<a href="https://www.youtube.com/watch?v=\_GYFdA8Oq0o" target="_blank">https://www.youtube.com/watch?v=\_GYFdA8Oq0o</a>
+<div class="flex justify-center">
+  <img src="images/ziua-189-foto.jpeg" />
+</div>
 
 <br/>
 
