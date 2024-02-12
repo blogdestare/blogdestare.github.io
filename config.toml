@@ -1,6 +1,6 @@
 # The URL the site will be built for.
-# base_url = "https://blogdestare.com"
-base_url = "https://blogdestare.github.io"
+base_url = "https://blogdestare.com"
+# base_url = "https://blogdestare.github.io"
 
 # The theme to be used.
 theme = "zolarwind"
