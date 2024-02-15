@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  
+  
+  
+  
+  
+
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name=generator content="Zola">
+
+  
+    <meta name="description" content="Ne este ușor să îi acceptăm pe ceilalți pentru că sunt faini, mișto, buni, atenți, pe aceeași lungime de undă, etc. Dar uităm sau ne facem că nu vedem sau că nu știm că aceiași oameni sunt în același timp ȘI răi câteodată, și nepăsători, și egoiști, și bârfitori, și absenți. Până la urmă, s-a lipit ceva de mine din podcastul de azi: incluziunea. Să accept o față a monedei dar și versoul ei. Să cuprind în înțelegerea mea și acceptarea mea și iubirea mea și părțile alea care mă taie de la cei din jur, și nepăsarea lor care mă înjunghie în spate câteodată și părerea lor altfel decât a mea sau despre mine. ">
+  
+
+  <title>Blog de stare</title>
+  <link rel="stylesheet" href="/css/generated.css">
+  <link rel="icon" href="/img/yin-yang.svg" />
+
+  
+
+  <script defer src="/js/zolarwind/logic.js" integrity="sha384-GYtsrgYVRYoxdEL+C+79KROm+MCl1ArSzQnqVnPTV78UNz5a1vFxAEiKbobXhQlw"></script>
+  
+  
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/custom.css">
+</head>
+<body>
+  
+
+
+
+
+<header class="sticky top-0 w-full z-10">
+    <nav class="bg-green0">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <a href="/" aria-label="Mergi la început">
+                            <!-- <div class="h-8 w-8 text-gray-900 hover:text-white fill-current">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">
+                                    <path
+                                        d="M3 12L5 10M5 10L12 3L19 10M5 10V20C5 20.5523 5.44772 21 6 21H9M19 10L21 12M19 10V20C19 20.5523 18.5523 21 18 21H15M9 21C9.55228 21 10 20.5523 10 20V16C10 15.4477 10.4477 15 11 15H13C13.5523 15 14 15.4477 14 16V20C14 20.5523 14.4477 21 15 21M9 21H15"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                            </div> -->
+                            <img class="h-8 w-8" alt="logo" src="/images/logo.png">
+                        </a>
+                    </div>
+                    <div class="hidden md:block">
+                        <div class="ml-8 flex items-baseline">
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/blog/" title="Blog">Blog</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/about/" title="Despre mine">Despre mine</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="-mr-2 flex md:hidden">
+                    <button id="toggleMobileMenu"
+                        class="icon inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
+                        aria-label="Meniu">
+                        <span id="mobile-icon-menu-unselected">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </span>
+                        <span id="mobile-icon-menu-selected" class="hidden">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden px-2 pt-2 pb-3 sm:px-3">
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/blog/" title="Blog">Blog</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/about/" title="Despre mine">Despre mine</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+            
+            
+        </div>
+    </nav>
+</header>
+  <div id="content">
+    
+
+
+
+<div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
+    <article class="prose">
+        <div class="h-96 rounded-md flex justify-center">
+            <img class="h-96 w-128 object-cover" src="images&#x2F;ziua-70-final.jpg"
+                alt="Ziua 70">
+        </div>
+        <h1 class="flex justify-center">Ziua 70</h1>
+        <div>
+            <p>
+                <span class="mr-2 text-sm">
+                    <time datetime="2022-03-22">martie 22, 2022</time>
+                </span>
+                <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+            </p>
+        </div>
+
+        <div>
+            <hr />
+<p>Nicio minune nu durează prea mult, se zice. La mine, se și face. Toată noaptea m-a bâzâit durerea de cap dar am tot sperat că pleacă. Nope, a venit să stea și să ne trezim împreună. Mă ridic, fără niciun chef și nicio pregătire prealabilă. Spikylina e făcută virgulă și stă la picioarele domnului meu. Tare cuminte puiul ăsta drag de vietate! Cu toată durerea mea de cap, ea mi-a pus un zâmbet pe față.</p>
+<p style="text-align: center;">***</p>
+<p>Afară se luminează bine, iese soarele cu toată forța, o să fie o zi faină. Poate mă înțeleg cu durerea și ne bucurăm de ea.</p>
+<p>Încălzirile bruște urmate de friguri scurte sunt semnele premenopauzei, cică. Care vine la pachet cu multe neplăceri atât fizice cât și emoționale, cică. Că poate mă plictiseam…</p>
+<p style="text-align: center;">***</p>
+<p>Mă organizez cu treburile dimineții destul de în reluare, cât mă lasă capul care zvâcnește ca nebunul. Bine că Universul îmi dă una rece și alta caldă (cam ca bufeurile în menopauză, hahaha) și la mama e ok-ish la partea de curățenie, nu am multă treabă și mă preling rapid pe scări, să văd ce fac cu durerea.</p>
+<p style="text-align: center;">***</p>
+<p>Îmi iau smoothieul, în care mi-am pus uleiurile esențiale și pentru prima dată de când le am, organismul meu le-a respins. Am băut smoothieul, că nu m-am îndurat să-l arunc, dar nu m-am bucurat de el.</p>
+<p>Ieri am citit o postare a unei tipe, pe care o urmăresc și de care îmi place, referitoare la uleiurile esențiale. Evident că întotdeauna, în orice, vor fi păreri pro și păreri contra dar e bine să asculți poveștile din ambele părți ale baricadei și să-ți folosești discernământul, că d-aia îl ai. E drept că la mine, vine dublat acum și de experiența proprie. De când folosesc uleiurile, parcă pielea mi s-a iritat mai rău. E adevărat că eu, ca haplea, m-am aruncat în ele: le folosesc și intern, în smoothie, și topic, adică pe piele și avem și difuzorul în dormitor. Cert este că azi dimineață n-a mai intrat. O să fac pauză un strop și o să văd după aceea.</p>
+<p style="text-align: center;">***</p>
+<p>Restul timpului meu magic mi l-am petrecut privind. În casă, în curte, pe social media, la lucruri faine, de clătit ochii și sufletul.</p>
+<p>Viața asta e construită din momente mici. Din clipe care par nesemnificative dar, am simțit pe pielea mea, devin atât de mari când ți se clatină viața. Clipa aia când ai putut doar să privești afară, pe geam, la cer fără să fi grăbită de nimeni și de nimic și fără să ai vreo scamă pe suflet. Clipa aia când ai savurat ceva bun și hrănitor pentru tine și corpul tău, fără sentimente de vinovăție atașate, doar cu bucurie pură. Ce păcat că stăm în clipele mici netrăindu-le ci doar așteptând momentele mari. Și așa ne trece viața.</p>
+<p style="text-align: center;">***</p>
+<p>Fără prea mare chef, mama coboară la micul dejun și, neașteptat pentru starea cu care a venit, mănâncă tot și are și chef de vorbă.</p>
+<p>În liniștea care se așterne treptat în mintea ei, există doar câteva personaje reper care mai joacă în filmele ei. Printre ele, sora mea vitregă, pe care mama a crescut-o de la o vârstă crudă. Acum, eu înțeleg durerea mamei și întrebarea ei obsesivă &quot;A sunat? M-a căutat?&quot; Ți-e dor și de-un câine pe care l-ai crescut darămite de un pui de om. Pe de altă parte, înțeleg și comportamentul surorii mele. Când nu ești construit să ai sentimente, nu poți fi făcut vinovat pentru ceva ce nu ai. Pesemne că și ea, abandonată inițial de mama ei, o fi asociat în mințișoara crudă adult=risc și ea, antagonic mie care am devenit empatică, a devenit lipsită de emoții. Cum spuneam, suntem miliarde de ființe unice și asta mi se pare fantastic. Chiar dacă e dureros să-i răspund mamei că nu, nu a căutat-o, nu pot să nu observ frumusețea tipologiilor de oameni și modul cum fiecare, în pătrățelul lui, cu condițiile lui din pătrățel, a făcut față vieții. We are all fucked up in a way.</p>
+<p style="text-align: center;">***</p>
+<p>Nu mai am nimic de mâncare pentru prânz așa că trebe să gătesc.</p>
+<p>Am pus aseară niște fasole la înmuiat și vreau să fac o iahnie. Fasolea e sănătoasă, cu bob mare, cărnos și cred că o să iasă o nebunie. Am pus oala la fiert și m-a încercat o senzație de vomă. Mi-am pus un podcast să ascult și am dat snooze atât la durerea de cap cât și la senzația de vomă.</p>
+<p>Mi-am pregătit tacticoasă legumele necesare, tocat totul regulamentar în timpul în care fierb și tot arunc apele de la fasole ca să nu ridicăm casa în slăvi la noapte.</p>
+<p>Mi-am pregătit și condimentele, am scos și-un strop de tarhon proaspăt, totul era fain și bine. Sau Fain și simplu, că un podcast d-ăsta ascultam. Invitata, alt psihoterapeut, spunea că în viață cheia succesului este să accepți tot ce vine. Ai o durere, o accepți. Ai o emoție, o accepți. Iar acceptarea duce la dizolvarea energiei care însuflețește durerea sau emoția respectivă. Eu, în continuare cu atenția la mâncare și la podcast dar cu &quot;mâna&quot; pe butonul de snooze la dureri. Ei, ia stai că cică nu așa se face treaba! Ia să accept eu durerea, nu să o resping.</p>
+<p style="text-align: center;">***</p>
+<p>Bine că am făcut asta fix când terminam iahnia. Mi s-a făcut un rău groaznic. Rău, rău.</p>
+<p>Am urcat rapid la noi, în baie, unde am crezut că-mi sar ochii din cap de la atâta vomitat. Capul bubuia, stomacul, de la atâtea contractări, mă durea, picioarele îmi tremurau. M-am făcut ghem pe jos, așteptând să treacă urgia. După un timp de o eternitate, am ajuns cu chiu cu vai în pat, unde mă aștepta iarna sub pilotă. Tremuram necontrolat de mă durea șira spinării.  Mama ei de treabă, acceptarea asta m-a pus la pământ!!</p>
+<p>Nu are nicio treabă cu acceptarea, este doar o criză clasică de bilă care acum s-a manifestat în toată plinătatea ei de la oboseală, probabil și &quot;ajutată&quot; de uleiurile esențiale care mi-or fi căzut greu. Cert este că știu asta, corpul îmi spune clar că nu mai vrea uleiuri. Cel puțin, nu acum.</p>
+<p>Mi-am pus tot ce am găsit la îndemână pe mine, șosete în picioare și m-am băgat sub 2 pilote.</p>
+<p>Gândul meu a fost să stau juma' de oră, să-mi revin o țâră și să mă duc să termin treaba la bucătărie. Era 12:25. La 13:40, am deschis ochii și puteam să jur că am stat doar vreo 15 minute. Durerea de cap e încă la purtător dar nu îmi mai este frig și nici stomacul nu mai este așa de revoltat. Mai stau puțin și apoi mă duc să o duc pe mama la prânz.</p>
+<p style="text-align: center;">***</p>
+<p>Noroc că a acceptat să mănânce că altfel îmi vărsam năduful pe ea. Am stat cu ea să mănânce deși nu puteam să-mi țin capul drept. A mâncat, ca de obicei, liniară în expresie, dar s-a supărat că nu mai are nimic dulce. Nu mă rabdă inima și îi mai dau câțiva biscuiței și îi spun că dacă nu urcăm amândouă sus acum, o să mi se facă rău iar.</p>
+<p>Când să ne separăm la etaj, fiecare în camera ei, mă întreabă, chiar că senină și senilă: ne vedem la table, la 17:30, da?</p>
+<p style="text-align: center;">***</p>
+<p>Evident că nu sunt în stare de table. Dar cât am stat în pat, în liniștea durerilor mele, am acceptat în mine că mama e ȘI așa.</p>
+<p>Ne este ușor să îi acceptăm pe ceilalți pentru că sunt faini, mișto, buni, atenți, pe aceeași lungime de undă, etc. Dar uităm sau ne facem că nu vedem sau că nu știm că aceiași oameni sunt în același timp ȘI răi câteodată, și nepăsători, și egoiști, și bârfitori, și absenți. Până la urmă, s-a lipit ceva de mine din podcastul de azi: incluziunea. Să accept o față a monedei dar și versoul ei. Să cuprind în înțelegerea mea și acceptarea mea și iubirea mea și părțile alea care mă taie de la cei din jur, și nepăsarea lor care mă înjunghie în spate câteodată și părerea lor altfel decât a mea sau despre mine.</p>
+<p style="text-align: center;">***</p>
+<p>Stau în pat, în dormitor, unde nu am mai stat în timpul zilei din decembrie, mi-am luat laptopul în brațe, printre storurile trase se strecoară ultimele raze ale soarelui pe ziua de azi, prind un apus magnific și mă bucur de clipe bune în nebunia durerii. Orice s-ar zice, viața asta e fascinantă, all the way!</p>
+<br/>
+<br/>
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-69/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-71/">Postarea următoare</a>
+  </div>
+</div>
+
+        </div>
+    </article>
+</div>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org"
+  ,"@type": "BlogPosting"
+  ,"mainEntityOfPage": {
+     "@type": "WebPage"
+    ,"@id": "https://blogdestare.com/blog/ziua-70/"
+  }
+  ,"headline": "Ziua 70"
+  ,"datePublished": "2022-03-22"
+  ,"dateModified": "2022-03-22"
+  
+  ,"author": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  ,"publisher": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  
+  ,"description": "Ne este ușor să îi acceptăm pe ceilalți pentru că sunt faini, mișto, buni, atenți, pe aceeași lungime de undă, etc. Dar uităm sau ne facem că nu vedem sau că nu știm că aceiași oameni sunt în același timp ȘI răi câteodată, și nepăsători, și egoiști, și bârfitori, și absenți. Până la urmă, s-a lipit ceva de mine din podcastul de azi: incluziunea. Să accept o față a monedei dar și versoul ei. Să cuprind în înțelegerea mea și acceptarea mea și iubirea mea și părțile alea care mă taie de la cei din jur, și nepăsarea lor care mă înjunghie în spate câteodată și părerea lor altfel decât a mea sau despre mine. "
+  ,"articleBody": "Nicio minune nu durează prea mult, se zice. La mine, se și face. Toată noaptea m-a bâzâit durerea de cap dar am tot sperat că pleacă. Nope, a venit să stea și să ne trezim împreună. Mă ridic, fără niciun chef și nicio pregătire prealabilă. Spikylina e făcută virgulă și stă la picioarele domnului meu. Tare cuminte puiul ăsta drag de vietate! Cu toată durerea mea de cap, ea mi-a pus un zâmbet pe față.***Afară se luminează bine, iese soarele cu toată forța, o să fie o zi faină. Poate mă înțeleg cu durerea și ne bucurăm de ea.Încălzirile bruște urmate de friguri scurte sunt semnele premenopauzei, cică. Care vine la pachet cu multe neplăceri atât fizice cât și emoționale, cică. Că poate mă plictiseam…***Mă organizez cu treburile dimineții destul de în reluare, cât mă lasă capul care zvâcnește ca nebunul. Bine că Universul îmi dă una rece și alta caldă (cam ca bufeurile în menopauză, hahaha) și la mama e ok-ish la partea de curățenie, nu am multă treabă și mă preling rapid pe scări, să văd ce fac cu durerea.***Îmi iau smoothieul, în care mi-am pus uleiurile esențiale și pentru prima dată de când le am, organismul meu le-a respins. Am băut smoothieul, că nu m-am îndurat să-l arunc, dar nu m-am bucurat de el.Ieri am citit o postare a unei tipe, pe care o urmăresc și de care îmi place, referitoare la uleiurile esențiale. Evident că întotdeauna, în orice, vor fi păreri pro și păreri contra dar e bine să asculți poveștile din ambele părți ale baricadei și să-ți folosești discernământul, că d-aia îl ai. E drept că la mine, vine dublat acum și de experiența proprie. De când folosesc uleiurile, parcă pielea mi s-a iritat mai rău. E adevărat că eu, ca haplea, m-am aruncat în ele: le folosesc și intern, în smoothie, și topic, adică pe piele și avem și difuzorul în dormitor. Cert este că azi dimineață n-a mai intrat. O să fac pauză un strop și o să văd după aceea.***Restul timpului meu magic mi l-am petrecut privind. În casă, în curte, pe social media, la lucruri faine, de clătit ochii și sufletul.Viața asta e construită din momente mici. Din clipe care par nesemnificative dar, am simțit pe pielea mea, devin atât de mari când ți se clatină viața. Clipa aia când ai putut doar să privești afară, pe geam, la cer fără să fi grăbită de nimeni și de nimic și fără să ai vreo scamă pe suflet. Clipa aia când ai savurat ceva bun și hrănitor pentru tine și corpul tău, fără sentimente de vinovăție atașate, doar cu bucurie pură. Ce păcat că stăm în clipele mici netrăindu-le ci doar așteptând momentele mari. Și așa ne trece viața.***Fără prea mare chef, mama coboară la micul dejun și, neașteptat pentru starea cu care a venit, mănâncă tot și are și chef de vorbă.În liniștea care se așterne treptat în mintea ei, există doar câteva personaje reper care mai joacă în filmele ei. Printre ele, sora mea vitregă, pe care mama a crescut-o de la o vârstă crudă. Acum, eu înțeleg durerea mamei și întrebarea ei obsesivă &amp;quot;A sunat? M-a căutat?&amp;quot; Ți-e dor și de-un câine pe care l-ai crescut darămite de un pui de om. Pe de altă parte, înțeleg și comportamentul surorii mele. Când nu ești construit să ai sentimente, nu poți fi făcut vinovat pentru ceva ce nu ai. Pesemne că și ea, abandonată inițial de mama ei, o fi asociat în mințișoara crudă adult=risc și ea, antagonic mie care am devenit empatică, a devenit lipsită de emoții. Cum spuneam, suntem miliarde de ființe unice și asta mi se pare fantastic. Chiar dacă e dureros să-i răspund mamei că nu, nu a căutat-o, nu pot să nu observ frumusețea tipologiilor de oameni și modul cum fiecare, în pătrățelul lui, cu condițiile lui din pătrățel, a făcut față vieții. We are all fucked up in a way.***Nu mai am nimic de mâncare pentru prânz așa că trebe să gătesc.Am pus aseară niște fasole la înmuiat și vreau să fac o iahnie. Fasolea e sănătoasă, cu bob mare, cărnos și cred că o să iasă o nebunie. Am pus oala la fiert și m-a încercat o senzație de vomă. Mi-am pus un podcast să ascult și am dat snooze atât la durerea de cap cât și la senzația de vomă.Mi-am pregătit tacticoasă legumele necesare, tocat totul regulamentar în timpul în care fierb și tot arunc apele de la fasole ca să nu ridicăm casa în slăvi la noapte.Mi-am pregătit și condimentele, am scos și-un strop de tarhon proaspăt, totul era fain și bine. Sau Fain și simplu, că un podcast d-ăsta ascultam. Invitata, alt psihoterapeut, spunea că în viață cheia succesului este să accepți tot ce vine. Ai o durere, o accepți. Ai o emoție, o accepți. Iar acceptarea duce la dizolvarea energiei care însuflețește durerea sau emoția respectivă. Eu, în continuare cu atenția la mâncare și la podcast dar cu &amp;quot;mâna&amp;quot; pe butonul de snooze la dureri. Ei, ia stai că cică nu așa se face treaba! Ia să accept eu durerea, nu să o resping.***Bine că am făcut asta fix când terminam iahnia. Mi s-a făcut un rău groaznic. Rău, rău.Am urcat rapid la noi, în baie, unde am crezut că-mi sar ochii din cap de la atâta vomitat. Capul bubuia, stomacul, de la atâtea contractări, mă durea, picioarele îmi tremurau. M-am făcut ghem pe jos, așteptând să treacă urgia. După un timp de o eternitate, am ajuns cu chiu cu vai în pat, unde mă aștepta iarna sub pilotă. Tremuram necontrolat de mă durea șira spinării.  Mama ei de treabă, acceptarea asta m-a pus la pământ!!Nu are nicio treabă cu acceptarea, este doar o criză clasică de bilă care acum s-a manifestat în toată plinătatea ei de la oboseală, probabil și &amp;quot;ajutată&amp;quot; de uleiurile esențiale care mi-or fi căzut greu. Cert este că știu asta, corpul îmi spune clar că nu mai vrea uleiuri. Cel puțin, nu acum.Mi-am pus tot ce am găsit la îndemână pe mine, șosete în picioare și m-am băgat sub 2 pilote.Gândul meu a fost să stau juma&#x27; de oră, să-mi revin o țâră și să mă duc să termin treaba la bucătărie. Era 12:25. La 13:40, am deschis ochii și puteam să jur că am stat doar vreo 15 minute. Durerea de cap e încă la purtător dar nu îmi mai este frig și nici stomacul nu mai este așa de revoltat. Mai stau puțin și apoi mă duc să o duc pe mama la prânz.***Noroc că a acceptat să mănânce că altfel îmi vărsam năduful pe ea. Am stat cu ea să mănânce deși nu puteam să-mi țin capul drept. A mâncat, ca de obicei, liniară în expresie, dar s-a supărat că nu mai are nimic dulce. Nu mă rabdă inima și îi mai dau câțiva biscuiței și îi spun că dacă nu urcăm amândouă sus acum, o să mi se facă rău iar.Când să ne separăm la etaj, fiecare în camera ei, mă întreabă, chiar că senină și senilă: ne vedem la table, la 17:30, da?***Evident că nu sunt în stare de table. Dar cât am stat în pat, în liniștea durerilor mele, am acceptat în mine că mama e ȘI așa.Ne este ușor să îi acceptăm pe ceilalți pentru că sunt faini, mișto, buni, atenți, pe aceeași lungime de undă, etc. Dar uităm sau ne facem că nu vedem sau că nu știm că aceiași oameni sunt în același timp ȘI răi câteodată, și nepăsători, și egoiști, și bârfitori, și absenți. Până la urmă, s-a lipit ceva de mine din podcastul de azi: incluziunea. Să accept o față a monedei dar și versoul ei. Să cuprind în înțelegerea mea și acceptarea mea și iubirea mea și părțile alea care mă taie de la cei din jur, și nepăsarea lor care mă înjunghie în spate câteodată și părerea lor altfel decât a mea sau despre mine.***Stau în pat, în dormitor, unde nu am mai stat în timpul zilei din decembrie, mi-am luat laptopul în brațe, printre storurile trase se strecoară ultimele raze ale soarelui pe ziua de azi, prind un apus magnific și mă bucur de clipe bune în nebunia durerii. Orice s-ar zice, viața asta e fascinantă, all the way!      Postarea anterioară        Postarea următoare  "
+  
+    ,"image": "https://blogdestare.com/blog/ziua-70/images/ziua-70-final.jpg"
+  
+}
+</script>
+
+
+
+  </div>
+  <footer>
+    <!-- Social Media Icons -->
+    <div class="mt-10 flex justify-center text-gray-400">
+        <div class="px-4 text-gray-400">
+            (c) 2022-2024 Biannca Locatelli
+        </div>
+        
+        
+        <a  href="https:&#x2F;&#x2F;www.instagram.com&#x2F;bianncalocatelli"
+            title="Instagram"  class="text-gray-400 hover:text-gray-500"
+            target="_blank">
+            
+            <span class="sr-only">instagram</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 2500 2500"><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/></svg>
+        </a>
+        
+        
+    </div>
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-center text-base leading-6">
+            
+        </p>
+    </div>
+</footer>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+</html>

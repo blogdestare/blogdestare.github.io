@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  
+  
+  
+  
+  
+
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name=generator content="Zola">
+
+  
+
+  <title>Blog de stare</title>
+  <link rel="stylesheet" href="/css/generated.css">
+  <link rel="icon" href="/img/yin-yang.svg" />
+
+  
+
+  <script defer src="/js/zolarwind/logic.js" integrity="sha384-GYtsrgYVRYoxdEL+C+79KROm+MCl1ArSzQnqVnPTV78UNz5a1vFxAEiKbobXhQlw"></script>
+  
+  
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/custom.css">
+</head>
+<body>
+  
+
+
+
+
+<header class="sticky top-0 w-full z-10">
+    <nav class="bg-green0">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <a href="/" aria-label="Mergi la început">
+                            <!-- <div class="h-8 w-8 text-gray-900 hover:text-white fill-current">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">
+                                    <path
+                                        d="M3 12L5 10M5 10L12 3L19 10M5 10V20C5 20.5523 5.44772 21 6 21H9M19 10L21 12M19 10V20C19 20.5523 18.5523 21 18 21H15M9 21C9.55228 21 10 20.5523 10 20V16C10 15.4477 10.4477 15 11 15H13C13.5523 15 14 15.4477 14 16V20C14 20.5523 14.4477 21 15 21M9 21H15"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                            </div> -->
+                            <img class="h-8 w-8" alt="logo" src="/images/logo.png">
+                        </a>
+                    </div>
+                    <div class="hidden md:block">
+                        <div class="ml-8 flex items-baseline">
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/blog/" title="Blog">Blog</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/about/" title="Despre mine">Despre mine</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="-mr-2 flex md:hidden">
+                    <button id="toggleMobileMenu"
+                        class="icon inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
+                        aria-label="Meniu">
+                        <span id="mobile-icon-menu-unselected">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </span>
+                        <span id="mobile-icon-menu-selected" class="hidden">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden px-2 pt-2 pb-3 sm:px-3">
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/blog/" title="Blog">Blog</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/about/" title="Despre mine">Despre mine</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+            
+            
+        </div>
+    </nav>
+</header>
+  <div id="content">
+    
+
+<!-- <div class="text-gray-400 text-center shadow-none">
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
+        <div>
+            <div>
+                <span class="font-normal">a brief site description</span>
+            </div>
+        </div>
+    </div>
+</div> -->
+
+<div class="flex justify-center pt-8">
+Dacă vrei să pornești de la început, 
+călătoria începe&nbsp;<a href="/blog/ziua-0/">aici</a>.
+</div>
+
+
+<div class="container max-w-7xl mx-auto py-8 px-4 sm:px-8 lg:px-8">
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        
+        
+
+  
+
+
+<div class="flex flex-col rounded-md shadow-md overflow-hidden">
+  <div class="flex-shrink-0">
+    <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;the-end&#x2F;" aria-label="The end">
+      <img class="h-48 w-full object-cover" src="&#x2F;blog&#x2F;the-end&#x2F;images&#x2F;ultima-zi-1.png" alt="The end" />
+    </a>
+  </div>
+  <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+    <div class="flex-1">
+      <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+      <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;the-end&#x2F;" class="block">
+        <h3 class="mt-2 text-xl leading-7 font-semibold text-gray-900">
+          The end
+        </h3>
+      </a>
+      <p class="mt-3 text-base leading-6 text-gray-500">
+        Cele 26 secunde înregistrate mi-au tăvălit 48 de ani de credință tâmpită. Incredibil de cât de puțin timp e nevoie să înțelegi cea mai mare taină a acestei lumi, iubirea, cu nuanța ei de cel mai mare preț, iubirea de mamă. Mă opresc aici, nu există cuvinte omenești să cuprindă ce intensitate s-a petrecut între noi două în câteva secunde. Secunde care mi-au schimbat viața. Mi-a explodat în fiecare celulă din corp și m-a înfiorat adânc mângâierea asta. Cred că doar grija să nu cumva să-i tulbur starea, m-a oprit din urletul care s-a pornit în mine. Cine a trăit agonie și extaz suprapus, în fix aceleași secunde, știe ce vorbesc.
+      </p>
+    </div>
+    <div class="mt-6 flex items-center">
+      <div>
+        <div class="flex text-sm leading-5 text-gray-500">
+          <time datetime="2023-09-20">
+            septembrie 20, 2023
+          </time>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+        
+
+  
+
+
+<div class="flex flex-col rounded-md shadow-md overflow-hidden">
+  <div class="flex-shrink-0">
+    <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-365&#x2F;" aria-label="Ziua 365">
+      <img class="h-48 w-full object-cover" src="&#x2F;blog&#x2F;ziua-365&#x2F;images&#x2F;ziua-365.jpg" alt="Ziua 365" />
+    </a>
+  </div>
+  <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+    <div class="flex-1">
+      <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+      <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-365&#x2F;" class="block">
+        <h3 class="mt-2 text-xl leading-7 font-semibold text-gray-900">
+          Ziua 365
+        </h3>
+      </a>
+      <p class="mt-3 text-base leading-6 text-gray-500">
+        Când mă las furată de mirajul victimizării, mă doare ca dracu&#x27;, exact la fel ca atunci când, puiuc fiind, mi-am dezgolit pieptul naiv în asteptarea iubirii și-am primit o nepăsare cruntă. Și cum mă prind că doar așa, doar rupându-mă în bucăți, am fost capabilă să mă reașez așa cum trebuia, să mă fac plină si completă și să prind sensul ăsta cu tot ceea ce sunt. Nu-mi lipsește nimic, nu mi-a lipsit niciodată, mama a fost doar cea care mi-a dat un brânci vârtos să mă sparg si să mă desfac si să las să moară părerile înguste cu care am crescut, crezând ca n-aș fi, că d-aia n-am primit. Nope, SUNT, acolo dedesubt, sub răni și coji și scoarță, mereu am fost completă.
+      </p>
+    </div>
+    <div class="mt-6 flex items-center">
+      <div>
+        <div class="flex text-sm leading-5 text-gray-500">
+          <time datetime="2023-01-11">
+            ianuarie 11, 2023
+          </time>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+        
+
+  
+
+
+<div class="flex flex-col rounded-md shadow-md overflow-hidden">
+  <div class="flex-shrink-0">
+    <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-364&#x2F;" aria-label="Ziua 364">
+      <img class="h-48 w-full object-cover" src="&#x2F;blog&#x2F;ziua-364&#x2F;images&#x2F;ziua-364.jpg" alt="Ziua 364" />
+    </a>
+  </div>
+  <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+    <div class="flex-1">
+      <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+      <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-364&#x2F;" class="block">
+        <h3 class="mt-2 text-xl leading-7 font-semibold text-gray-900">
+          Ziua 364
+        </h3>
+      </a>
+      <p class="mt-3 text-base leading-6 text-gray-500">
+        Am închis ușa multor oameni doar pentru că EU am decis în mine cine sunt ei. Nu neapărat că ei chiar ar fi (fost) așa. Dar când pui ditamai sigiliu pe cineva și-l înfierezi după cum îl percepi tu, omul ăla nu mai are nicio șansă să fie altcineva în tine. Să fie cum e el de fapt dar tu nu-l vezi că ai ratat fanta aia și ai privirea încețoșată de o părere (prea) îngustă.  Bottom line este că am fost scorțoasă și sarcastică și dură ca nimeni să nu se prindă - doamne ferește! - de conținutul plăpând al inimii mele.
+      </p>
+    </div>
+    <div class="mt-6 flex items-center">
+      <div>
+        <div class="flex text-sm leading-5 text-gray-500">
+          <time datetime="2023-01-10">
+            ianuarie 10, 2023
+          </time>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+        
+
+  
+
+
+<div class="flex flex-col rounded-md shadow-md overflow-hidden">
+  <div class="flex-shrink-0">
+    <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-363&#x2F;" aria-label="Ziua 363">
+      <img class="h-48 w-full object-cover" src="&#x2F;blog&#x2F;ziua-363&#x2F;images&#x2F;ziua-363.jpg" alt="Ziua 363" />
+    </a>
+  </div>
+  <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+    <div class="flex-1">
+      <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+      <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-363&#x2F;" class="block">
+        <h3 class="mt-2 text-xl leading-7 font-semibold text-gray-900">
+          Ziua 363
+        </h3>
+      </a>
+      <p class="mt-3 text-base leading-6 text-gray-500">
+        Am știut de moarte toată viața și am luat doar notă de existența ei certă. Atât. Nu m-au trecut fiorii definitivului prin toate celulele emoțiilor, nu m-a lovit atât de disperant inevitabilul, nu m-a speriat atât de visceral golul, neantul, dispariția unui om. Dorul care rămâne în urma lui. Faptul că a avut o viață, vise, dorințe, care s-au risipit și dispărut odată cu el. Până acum.
+      </p>
+    </div>
+    <div class="mt-6 flex items-center">
+      <div>
+        <div class="flex text-sm leading-5 text-gray-500">
+          <time datetime="2023-01-09">
+            ianuarie 09, 2023
+          </time>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+        
+
+  
+
+
+<div class="flex flex-col rounded-md shadow-md overflow-hidden">
+  <div class="flex-shrink-0">
+    <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-362&#x2F;" aria-label="Ziua 362">
+      <img class="h-48 w-full object-cover" src="&#x2F;blog&#x2F;ziua-362&#x2F;images&#x2F;ziua-362.jpg" alt="Ziua 362" />
+    </a>
+  </div>
+  <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+    <div class="flex-1">
+      <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+      <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-362&#x2F;" class="block">
+        <h3 class="mt-2 text-xl leading-7 font-semibold text-gray-900">
+          Ziua 362
+        </h3>
+      </a>
+      <p class="mt-3 text-base leading-6 text-gray-500">
+        Cu tot ce sunt în acest moment, aici, mică, speriată de greul vieții care mi se arată prin perdeaua demenței, neștiutoare în fața gândurilor astea hulpave care vor să ia, fiecare în parte, bucăți din liniștea mea interioară, intrinsecă unei ființe ce nu e numai umană, obosită de a îmbrăca atâtea haine de roluri pentru atâția oameni câți mi s-au perindat și mi se perindă prin viață, realizez că afară se scurg de sus fulgi mici-mici albi de omăt. Unde mă alerg atâta?!
+      </p>
+    </div>
+    <div class="mt-6 flex items-center">
+      <div>
+        <div class="flex text-sm leading-5 text-gray-500">
+          <time datetime="2023-01-08">
+            ianuarie 08, 2023
+          </time>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+        
+
+  
+
+
+<div class="flex flex-col rounded-md shadow-md overflow-hidden">
+  <div class="flex-shrink-0">
+    <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-361&#x2F;" aria-label="Ziua 361">
+      <img class="h-48 w-full object-cover" src="&#x2F;blog&#x2F;ziua-361&#x2F;images&#x2F;ziua-361.jpg" alt="Ziua 361" />
+    </a>
+  </div>
+  <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+    <div class="flex-1">
+      <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+      <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;blog&#x2F;ziua-361&#x2F;" class="block">
+        <h3 class="mt-2 text-xl leading-7 font-semibold text-gray-900">
+          Ziua 361
+        </h3>
+      </a>
+      <p class="mt-3 text-base leading-6 text-gray-500">
+        Întreg procesul e mângâietor și revelator și cred că sunt în stare să stau și să curg în scris la nesfârșit, atât de bine îmi face și atât de mult îmi place. Din nou, mi se umplu ochii de recunoștință, din nou simt în viscere, că n-am niciun merit și niciun credit pentru asta, am impresia că accesez o zonă din imensa bibliotecă akashică care varsă cuvinte în mintea mea și le așează într-o asemenea ordine încât să facă click și-n inima mea. Și ce mi se pare cel mai fascinant este că în loc să mă golesc prin vărsarea de tumult prin cuvinte, eu mă umplu de înțelegere nouă prin simțire.
+      </p>
+    </div>
+    <div class="mt-6 flex items-center">
+      <div>
+        <div class="flex text-sm leading-5 text-gray-500">
+          <time datetime="2023-01-07">
+            ianuarie 07, 2023
+          </time>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+    </div>
+
+    <nav class="mt-10 flex justify-between">
+  
+  
+    <span>
+      <a href="https:&#x2F;&#x2F;blogdestare.com&#x2F;page&#x2F;2&#x2F;">
+        <span class="inline-flex rounded-md shadow-sm">
+          <span class="inline-flex items-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-black bg-green0 hover:bg-green1 focus:outline-none focus:border-indigo-700 focus:shadow-outline-blue active:bg-green1 transition ease-in-out duration-150">
+           Postări vechi
+          </span>
+        </span>
+      </a>
+    </span>
+  
+</nav>
+
+
+</div>
+
+
+  </div>
+  <footer>
+    <!-- Social Media Icons -->
+    <div class="mt-10 flex justify-center text-gray-400">
+        <div class="px-4 text-gray-400">
+            (c) 2022-2024 Biannca Locatelli
+        </div>
+        
+        
+        <a  href="https:&#x2F;&#x2F;www.instagram.com&#x2F;bianncalocatelli"
+            title="Instagram"  class="text-gray-400 hover:text-gray-500"
+            target="_blank">
+            
+            <span class="sr-only">instagram</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 2500 2500"><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/></svg>
+        </a>
+        
+        
+    </div>
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-center text-base leading-6">
+            
+        </p>
+    </div>
+</footer>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+</html>

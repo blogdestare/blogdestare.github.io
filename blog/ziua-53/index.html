@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  
+  
+  
+  
+  
+
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name=generator content="Zola">
+
+  
+    <meta name="description" content="Parcă sunt la un show televizat unde primesc o întrebare și-mi vine să zic &#x27;Nu-mi place întrebarea asta. Pot să primesc alta?&#x27;. Nu-mi place experiența demenței, pot să văd platoul întreg și să-mi aleg altceva? Că au fost destule nașpa pe platoul ăsta și viol, și divorț, și cancere, și demență, poate e la rând ceva mai comestibil, mai ușor de dus.">
+  
+
+  <title>Blog de stare</title>
+  <link rel="stylesheet" href="/css/generated.css">
+  <link rel="icon" href="/img/yin-yang.svg" />
+
+  
+
+  <script defer src="/js/zolarwind/logic.js" integrity="sha384-GYtsrgYVRYoxdEL+C+79KROm+MCl1ArSzQnqVnPTV78UNz5a1vFxAEiKbobXhQlw"></script>
+  
+  
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/custom.css">
+</head>
+<body>
+  
+
+
+
+
+<header class="sticky top-0 w-full z-10">
+    <nav class="bg-green0">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <a href="/" aria-label="Mergi la început">
+                            <!-- <div class="h-8 w-8 text-gray-900 hover:text-white fill-current">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">
+                                    <path
+                                        d="M3 12L5 10M5 10L12 3L19 10M5 10V20C5 20.5523 5.44772 21 6 21H9M19 10L21 12M19 10V20C19 20.5523 18.5523 21 18 21H15M9 21C9.55228 21 10 20.5523 10 20V16C10 15.4477 10.4477 15 11 15H13C13.5523 15 14 15.4477 14 16V20C14 20.5523 14.4477 21 15 21M9 21H15"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                            </div> -->
+                            <img class="h-8 w-8" alt="logo" src="/images/logo.png">
+                        </a>
+                    </div>
+                    <div class="hidden md:block">
+                        <div class="ml-8 flex items-baseline">
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/blog/" title="Blog">Blog</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/about/" title="Despre mine">Despre mine</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="-mr-2 flex md:hidden">
+                    <button id="toggleMobileMenu"
+                        class="icon inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
+                        aria-label="Meniu">
+                        <span id="mobile-icon-menu-unselected">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </span>
+                        <span id="mobile-icon-menu-selected" class="hidden">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden px-2 pt-2 pb-3 sm:px-3">
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/blog/" title="Blog">Blog</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/about/" title="Despre mine">Despre mine</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+            
+            
+        </div>
+    </nav>
+</header>
+  <div id="content">
+    
+
+
+
+<div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
+    <article class="prose">
+        <div class="h-96 rounded-md flex justify-center">
+            <img class="h-96 w-128 object-cover" src="images&#x2F;ziua-53-final.jpg"
+                alt="Ziua 53">
+        </div>
+        <h1 class="flex justify-center">Ziua 53</h1>
+        <div>
+            <p>
+                <span class="mr-2 text-sm">
+                    <time datetime="2022-03-05">martie 05, 2022</time>
+                </span>
+                <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+            </p>
+        </div>
+
+        <div>
+            <hr />
+<p>Durerea asta se tot zvârcolește în ochiul stâng și-n agitația ei, îmi agață toate terminațiile nervoase care se înfig în creier. Nu m-a lăsat toată noaptea dar acum când am deschis ochii parcă a fost ca un litru de benzină aruncat peste o flacără scăpătată.</p>
+<p>Azi e sâmbătă, zi de lălăială pentru oamenii muncitori, nu și pentru ăștia care &quot;lucrează de acasă&quot;.</p>
+<p>Sună a jelanie, dar nu e. E doar crunta realitate. Nici nu mai știu ce nuanță să pun oboselii mele, care se adâncește pe zi ce trece. La fel ca cearcănele mele. Iar eu nu am avut niciodată cearcăne…</p>
+<p style="text-align: center;">***</p>
+<p>E lumină la mama, zău dacă-mi mai apasă vreo coardă d-aia de alergătură. Fac și eu cât și cum pot! Iau decizia asta fără strop de nervi, sunt calmă. Habar n-am dacă e calmitate generată de resemnare sau calmitate ce izvorăște dintr-un înțeles aparte al lucrurilor. Nici nu mă interesează din ce vine, bine că vine.</p>
+<p>Am ajuns la mama și am realizat că am ajuns fără smothie. Mă uitam la ea, ea se uita la mine și nu reușeam să-mi dau seama ce lipsește din peisaj. Tare asta! Că doar ce abia l-am făcut. Cobor, din mers înșfac și sticla de apă, goală, a mamei, dacă tot cobor, măcar să le fac pe amândouă. Și deschid și geamul, până mă întorc mai iese din duhoare.</p>
+<p>Urcatul și coborâtul mi-au pus sângele în mișcare și mintea la locul ei, așa că încep să funcționez. Pe repede-înainte, ca întotdeauna când vine vorba de curățenia la mama. Că mă așteaptă răsplata bună, o oră de timp fain. Uite așa, încep să prețuiesc la propriu, fiecare clipă! Aș fi vrut să învăț asta pe altă cale, dar acum asta e.</p>
+<p style="text-align: center;">***</p>
+<p>Aceleași acțiuni zilnice o să-mi dea o uzură morală mare. Discutatul ăsta superficial cu mama, ca mersul pe sârmă, pentru că nu mi-e clar ce înțelege și ce nu, o să mă tâmpească de tot. Nici înainte nu vorbeam eu cu multă lume dar acum, pe lângă asta, se adaugă și vorbitul ăsta ca de grădiniță, nu-mi permit nici o floricică stilistică, nicio încrengătură de sensuri, mai că parcă am lobotomie.</p>
+<p style="text-align: center;">***</p>
+<p>Domnul meu pleacă în vizită la ai lui părinți așa că și azi sunt singură cu mama, ceea ce înseamnă mic dejun prelungit. Nu se dezice nici azi de amintirile ei trunchiate de adevăr și mă roaga ea tare mult să-i fac o cafea mică, mică. Mă înduplec dar o avertizez că doar azi îi fac, să nu ne mai întoarcem la criza de bilă că la ea se manifestă neplăcut. Acceptă și continuă cu amintirile din copilărie, amestecate cu cele din adolescența mea, cu cele de acum câțiva ani, încurcă relațiile între oameni, asociază un văr de-al meu unei alte cunoștințe, nu mai știe că sora mea vitregă are o copilă, dar nu fac caz de nicio invenție sau uitare de-a ei, schimb gentil subiectul și uite așa trece aproape o oră. Oricât vreau eu să nu mă acopere, am din ce în ce mai acut o senzație de pâclă, parcă înaintez prin mlaștină când vorbesc cu mama.</p>
+<p>Satisfăcută de mic dejun, cafea și vorbă, mama se duce sus iar eu rămân să strâng masa, să spăl vasele, să mai dau o dată cu aspiratorul, să strâng rufele uscate și să le sortez, să-mi plantez hortensia și puiuțul de liliac și să-mi trag sufletul un strop.</p>
+<p style="text-align: center;">***</p>
+<p>Îmi cercetez inima și simt că am o tristețe. De fapt, cred că am perceput-o de azi dimineață când m-am privit dar pentru că nu mă jena, nu am pus degetul pe i și am ignorat-o.</p>
+<p>Faptul că nu exprim zilnic dorul meu de Maya mea dragă nu înseamnă că el nu mă sapă pe interior. De câte ori văd pe instagram filmulețe cu french bulldog sau îmi trimite copila mea poza cu Bubuța, invariabil mi se umplu ochii, de parcă e un robinet acolo.</p>
+<p>Faptul că nu arăt că mă doare lipsa plecărilor cu domnul meu nu înseamnă că ele nu lasă niște dâre în suflet. De câte ori pleacă undeva, îi dau, fără să știe, un strop din mine, să mă bucur și eu cu el de drum, de stare, de libertate.</p>
+<p>Faptul că nu mă plâng că nu vine nimeni la noi în vizită nu înseamnă că nu mă doare. Deși știu că lumea nu vine să nu mă deranjeze (sau așa vreau eu să cred), deși poate nu aș avea la dispoziție mult timp, sunt însetată de apropriere umană, alta decât cea pâcloasă pe care o am cu mama.</p>
+<p>Dar it is what it is. Nu las tristețea asta să pătrundă prea adânc în mine că o să-mi ia mai mult să o scot. Am recunoscut-o din paleta de emoții, am întrebat-o de unde vine și acum aș lăsa-o să plece că o să-mi vină copiii în vizită.</p>
+<p style="text-align: center;">***</p>
+<p>Nu mă mai mir că a zburat timpul că nu mai am atâta mirare în mine.</p>
+<p>S-a dus, el știe pe unde iar eu trebe să o cobor pe mama la masă, ca să nu se suprapună masa ei cu venirea copiilor.</p>
+<p>Mănâncă fără chef, e drept că și eu sunt cam placidă, parcă sunt la un show televizat unde primesc o întrebare și-mi vine să zic &quot;Nu-mi place întrebarea asta. Pot să primesc alta?&quot;. Nu-mi place experiența demenței, pot să văd platoul întreg și să-mi aleg altceva? Că au fost destule nașpa pe platoul ăsta și viol, și divorț, și cancere, și demență, poate e la rând ceva mai comestibil, mai ușor de dus.</p>
+<p style="text-align: center;">***</p>
+<p>Nici venirea copiilor, nici focul în șemineu nu mă smulg din senzația asta de netrăire pe care o am. Parcă nu particip la viața mea, nu sunt nici pe scenă, dar nici în spatele cortinei. M-am îmbârligat de-o funie și stau atârnată în suspendare, așteptând.</p>
+<p style="text-align: center;">***</p>
+<p>Am ajuns la timpul tablelor iar pentru mine, o dată ajunsă aici ca moment al zilei, orice vine după, se desfășoară cu un ritm alert. În afară de table, care parcă durează o veșnicie. După cele 2 ore regulamentare, urmează dușul, apoi masajul cu uleiurile esențiale, apoi tratamentul unghiilor, apoi medicamentele. La 20:00 seara termin toate cele și aș mai avea timp pentru mine.</p>
+<p>Dacă aș mai avea putere.</p>
+<p style="text-align: center;">***</p>
+<p>Nu văd sau nu vreau să văd niciun motiv de recunoștință, vreau să mă refugiez în somn, singura mea libertate!</p>
+<br/>
+<br/>
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-52/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-54/">Postarea următoare</a>
+  </div>
+</div>
+
+        </div>
+    </article>
+</div>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org"
+  ,"@type": "BlogPosting"
+  ,"mainEntityOfPage": {
+     "@type": "WebPage"
+    ,"@id": "https://blogdestare.com/blog/ziua-53/"
+  }
+  ,"headline": "Ziua 53"
+  ,"datePublished": "2022-03-05"
+  ,"dateModified": "2022-03-05"
+  
+  ,"author": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  ,"publisher": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  
+  ,"description": "Parcă sunt la un show televizat unde primesc o întrebare și-mi vine să zic &#x27;Nu-mi place întrebarea asta. Pot să primesc alta?&#x27;. Nu-mi place experiența demenței, pot să văd platoul întreg și să-mi aleg altceva? Că au fost destule nașpa pe platoul ăsta și viol, și divorț, și cancere, și demență, poate e la rând ceva mai comestibil, mai ușor de dus."
+  ,"articleBody": "Durerea asta se tot zvârcolește în ochiul stâng și-n agitația ei, îmi agață toate terminațiile nervoase care se înfig în creier. Nu m-a lăsat toată noaptea dar acum când am deschis ochii parcă a fost ca un litru de benzină aruncat peste o flacără scăpătată.Azi e sâmbătă, zi de lălăială pentru oamenii muncitori, nu și pentru ăștia care &amp;quot;lucrează de acasă&amp;quot;.Sună a jelanie, dar nu e. E doar crunta realitate. Nici nu mai știu ce nuanță să pun oboselii mele, care se adâncește pe zi ce trece. La fel ca cearcănele mele. Iar eu nu am avut niciodată cearcăne…***E lumină la mama, zău dacă-mi mai apasă vreo coardă d-aia de alergătură. Fac și eu cât și cum pot! Iau decizia asta fără strop de nervi, sunt calmă. Habar n-am dacă e calmitate generată de resemnare sau calmitate ce izvorăște dintr-un înțeles aparte al lucrurilor. Nici nu mă interesează din ce vine, bine că vine.Am ajuns la mama și am realizat că am ajuns fără smothie. Mă uitam la ea, ea se uita la mine și nu reușeam să-mi dau seama ce lipsește din peisaj. Tare asta! Că doar ce abia l-am făcut. Cobor, din mers înșfac și sticla de apă, goală, a mamei, dacă tot cobor, măcar să le fac pe amândouă. Și deschid și geamul, până mă întorc mai iese din duhoare.Urcatul și coborâtul mi-au pus sângele în mișcare și mintea la locul ei, așa că încep să funcționez. Pe repede-înainte, ca întotdeauna când vine vorba de curățenia la mama. Că mă așteaptă răsplata bună, o oră de timp fain. Uite așa, încep să prețuiesc la propriu, fiecare clipă! Aș fi vrut să învăț asta pe altă cale, dar acum asta e.***Aceleași acțiuni zilnice o să-mi dea o uzură morală mare. Discutatul ăsta superficial cu mama, ca mersul pe sârmă, pentru că nu mi-e clar ce înțelege și ce nu, o să mă tâmpească de tot. Nici înainte nu vorbeam eu cu multă lume dar acum, pe lângă asta, se adaugă și vorbitul ăsta ca de grădiniță, nu-mi permit nici o floricică stilistică, nicio încrengătură de sensuri, mai că parcă am lobotomie.***Domnul meu pleacă în vizită la ai lui părinți așa că și azi sunt singură cu mama, ceea ce înseamnă mic dejun prelungit. Nu se dezice nici azi de amintirile ei trunchiate de adevăr și mă roaga ea tare mult să-i fac o cafea mică, mică. Mă înduplec dar o avertizez că doar azi îi fac, să nu ne mai întoarcem la criza de bilă că la ea se manifestă neplăcut. Acceptă și continuă cu amintirile din copilărie, amestecate cu cele din adolescența mea, cu cele de acum câțiva ani, încurcă relațiile între oameni, asociază un văr de-al meu unei alte cunoștințe, nu mai știe că sora mea vitregă are o copilă, dar nu fac caz de nicio invenție sau uitare de-a ei, schimb gentil subiectul și uite așa trece aproape o oră. Oricât vreau eu să nu mă acopere, am din ce în ce mai acut o senzație de pâclă, parcă înaintez prin mlaștină când vorbesc cu mama.Satisfăcută de mic dejun, cafea și vorbă, mama se duce sus iar eu rămân să strâng masa, să spăl vasele, să mai dau o dată cu aspiratorul, să strâng rufele uscate și să le sortez, să-mi plantez hortensia și puiuțul de liliac și să-mi trag sufletul un strop.***Îmi cercetez inima și simt că am o tristețe. De fapt, cred că am perceput-o de azi dimineață când m-am privit dar pentru că nu mă jena, nu am pus degetul pe i și am ignorat-o.Faptul că nu exprim zilnic dorul meu de Maya mea dragă nu înseamnă că el nu mă sapă pe interior. De câte ori văd pe instagram filmulețe cu french bulldog sau îmi trimite copila mea poza cu Bubuța, invariabil mi se umplu ochii, de parcă e un robinet acolo.Faptul că nu arăt că mă doare lipsa plecărilor cu domnul meu nu înseamnă că ele nu lasă niște dâre în suflet. De câte ori pleacă undeva, îi dau, fără să știe, un strop din mine, să mă bucur și eu cu el de drum, de stare, de libertate.Faptul că nu mă plâng că nu vine nimeni la noi în vizită nu înseamnă că nu mă doare. Deși știu că lumea nu vine să nu mă deranjeze (sau așa vreau eu să cred), deși poate nu aș avea la dispoziție mult timp, sunt însetată de apropriere umană, alta decât cea pâcloasă pe care o am cu mama.Dar it is what it is. Nu las tristețea asta să pătrundă prea adânc în mine că o să-mi ia mai mult să o scot. Am recunoscut-o din paleta de emoții, am întrebat-o de unde vine și acum aș lăsa-o să plece că o să-mi vină copiii în vizită.***Nu mă mai mir că a zburat timpul că nu mai am atâta mirare în mine.S-a dus, el știe pe unde iar eu trebe să o cobor pe mama la masă, ca să nu se suprapună masa ei cu venirea copiilor.Mănâncă fără chef, e drept că și eu sunt cam placidă, parcă sunt la un show televizat unde primesc o întrebare și-mi vine să zic &amp;quot;Nu-mi place întrebarea asta. Pot să primesc alta?&amp;quot;. Nu-mi place experiența demenței, pot să văd platoul întreg și să-mi aleg altceva? Că au fost destule nașpa pe platoul ăsta și viol, și divorț, și cancere, și demență, poate e la rând ceva mai comestibil, mai ușor de dus.***Nici venirea copiilor, nici focul în șemineu nu mă smulg din senzația asta de netrăire pe care o am. Parcă nu particip la viața mea, nu sunt nici pe scenă, dar nici în spatele cortinei. M-am îmbârligat de-o funie și stau atârnată în suspendare, așteptând.***Am ajuns la timpul tablelor iar pentru mine, o dată ajunsă aici ca moment al zilei, orice vine după, se desfășoară cu un ritm alert. În afară de table, care parcă durează o veșnicie. După cele 2 ore regulamentare, urmează dușul, apoi masajul cu uleiurile esențiale, apoi tratamentul unghiilor, apoi medicamentele. La 20:00 seara termin toate cele și aș mai avea timp pentru mine.Dacă aș mai avea putere.***Nu văd sau nu vreau să văd niciun motiv de recunoștință, vreau să mă refugiez în somn, singura mea libertate!      Postarea anterioară        Postarea următoare  "
+  
+    ,"image": "https://blogdestare.com/blog/ziua-53/images/ziua-53-final.jpg"
+  
+}
+</script>
+
+
+
+  </div>
+  <footer>
+    <!-- Social Media Icons -->
+    <div class="mt-10 flex justify-center text-gray-400">
+        <div class="px-4 text-gray-400">
+            (c) 2022-2024 Biannca Locatelli
+        </div>
+        
+        
+        <a  href="https:&#x2F;&#x2F;www.instagram.com&#x2F;bianncalocatelli"
+            title="Instagram"  class="text-gray-400 hover:text-gray-500"
+            target="_blank">
+            
+            <span class="sr-only">instagram</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 2500 2500"><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/></svg>
+        </a>
+        
+        
+    </div>
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-center text-base leading-6">
+            
+        </p>
+    </div>
+</footer>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+</html>

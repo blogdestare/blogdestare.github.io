@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  
+  
+  
+  
+  
+
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name=generator content="Zola">
+
+  
+    <meta name="description" content="Vreau să îi iau pulsul, să văd ce stare de spirit are. Încerc o glumă și-mi răspunde cu altă glumă înapoi. Wow, chiar că zi cu noutăți! Bun așa, poate am, și are și ea, noroc și acul barometrului de stare rămâne fixat aici pentru tot restul zilei. Sau al vieții, dacă nu cer prea mult. Mai stau cu ea, că-mi place că e ea, îi mai arunc o glumiță. Șoc și groază, nicio reacție! Se uită la mine, dar are și fața și privirea aia glaciară, prin care nu pătrunde nimic înăuntru și nici nu iese nimic în afară. Doamne, atât de repede se schimbă macazul?!">
+  
+
+  <title>Blog de stare</title>
+  <link rel="stylesheet" href="/css/generated.css">
+  <link rel="icon" href="/img/yin-yang.svg" />
+
+  
+
+  <script defer src="/js/zolarwind/logic.js" integrity="sha384-GYtsrgYVRYoxdEL+C+79KROm+MCl1ArSzQnqVnPTV78UNz5a1vFxAEiKbobXhQlw"></script>
+  
+  
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/custom.css">
+</head>
+<body>
+  
+
+
+
+
+<header class="sticky top-0 w-full z-10">
+    <nav class="bg-green0">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <a href="/" aria-label="Mergi la început">
+                            <!-- <div class="h-8 w-8 text-gray-900 hover:text-white fill-current">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">
+                                    <path
+                                        d="M3 12L5 10M5 10L12 3L19 10M5 10V20C5 20.5523 5.44772 21 6 21H9M19 10L21 12M19 10V20C19 20.5523 18.5523 21 18 21H15M9 21C9.55228 21 10 20.5523 10 20V16C10 15.4477 10.4477 15 11 15H13C13.5523 15 14 15.4477 14 16V20C14 20.5523 14.4477 21 15 21M9 21H15"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                            </div> -->
+                            <img class="h-8 w-8" alt="logo" src="/images/logo.png">
+                        </a>
+                    </div>
+                    <div class="hidden md:block">
+                        <div class="ml-8 flex items-baseline">
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/blog/" title="Blog">Blog</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/about/" title="Despre mine">Despre mine</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="-mr-2 flex md:hidden">
+                    <button id="toggleMobileMenu"
+                        class="icon inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
+                        aria-label="Meniu">
+                        <span id="mobile-icon-menu-unselected">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </span>
+                        <span id="mobile-icon-menu-selected" class="hidden">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden px-2 pt-2 pb-3 sm:px-3">
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/blog/" title="Blog">Blog</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/about/" title="Despre mine">Despre mine</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+            
+            
+        </div>
+    </nav>
+</header>
+  <div id="content">
+    
+
+
+
+<div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
+    <article class="prose">
+        <div class="h-96 rounded-md flex justify-center">
+            <img class="h-96 w-128 object-cover" src="images&#x2F;ziua-79-final.jpg"
+                alt="Ziua 79">
+        </div>
+        <h1 class="flex justify-center">Ziua 79</h1>
+        <div>
+            <p>
+                <span class="mr-2 text-sm">
+                    <time datetime="2022-03-31">martie 31, 2022</time>
+                </span>
+                <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+            </p>
+        </div>
+
+        <div>
+            <hr />
+<p>Prințesa Spiky a tronat în patul nostru aproape toată noaptea. Domnul meu, dintr-o delicatețe exagerată, era aliniat pe marginea patului, dezvelit, pentru că don'șoara dormea profund pe pilota lui și nu a vrut să o deranjeze. Ei, poftim!</p>
+<p>Am luat-o de-o aripioară și am ieșit ușurel din dormitor, să mai apuce și el un strop de somn sub pilotă, lăfăit în tot patul, dacă vrea.</p>
+<p style="text-align: center;">***</p>
+<p>E beznă densă afară, soarele nu vrea să ne salutăm de dimineață bună așa că aprind lumina în bucătărie, ce ne orbește pe amândouă. M-a bușit râsul uitându-mă cu juma' de ochi la Spikylina care și ea se uita înapoi la mine tot cu juma' de ochi. Două adormite!</p>
+<p>Chiar trei, dacă o pun și pe mama la numărătoare. Deși se mișcă în pat, nu vrea să se trezească încă. Mă apuc de trebușoare că, de obicei, de la momentul la care începe să se foiască și până se dă jos din pat, nu mai trece mult timp.</p>
+<p>Așa e, s-a trezit dar, ca să avem elementul de noutate prezent în fiecare zi, nu s-a dat jos din pat, nu s-a dus la baie ci a luat direct tableta în brațe și a început să se joace. Deși mă bucur că se joacă, deși mă ajută acest jucat al ei să pot să mai și respir și să fac și alte lucruri, eu mă întreb cum poate sta cu orele mufată în joc. În afară de mese și de ritualul serii, ea este aproape non stop pe tabletă.</p>
+<p style="text-align: center;">***</p>
+<p>Le duc să pape la amândouă, deschid să se aerisească, că e nevoie, fac curățenie și vreau să îi iau pulsul, să văd ce stare de spirit are. Încerc o glumă și-mi răspunde cu altă glumă înapoi. Wow, chiar că zi cu noutăți! Bun așa, poate am, și are, noroc și acul barometrului de stare rămâne fixat aici pentru tot restul zilei. Sau al vieții, dacă nu cer prea mult.</p>
+<p>Mai stau cu ea, că-mi place că e ea, apoi mă duc să iau sacul de gunoi cu mizeria din baie și când mă întorc și dau să ies, îi mai arunc o glumiță. Șoc și groază, nicio reacție! Se uită la mine dar are și fața și privirea aia glaciară, prin care nu pătrunde nimic înăuntru dar nici nu iese nimic în afară. Doamne, atât de repede se schimbă macazul?! Nici nu apucasem să mă bucur deplin de starea bună că s-a dus naibii și, cu ea, s-a dus și bucuria mea.</p>
+<p style="text-align: center;">***</p>
+<p>Cobor un strop tristă și îmi dau seama că, în mine, s-a activat un dialog cu demența, în care urlu la ea și o judec și mă enervează că o acaparează pe mama. Îmi dau seama că am creat entitatea Demență și mă cert cu ea și aș vrea să mă răzbun pe ea de fiecare dată când apare câte un conflict d-ăsta de stări atât de rapid. În genere, pot să spun că m-am obișnuit cu ideea.  Speranța mea, că la mama nu va fi cum se scrie peste tot, de fapt stă mică și pitită dar sare și se expandează când văd semne bune, de viață, de viața ei, așa cum o știu eu. Mă năucesc schimbările astea bruște. Nu reușesc să mă repliez atât de repede și-mi dau lovituri sub centură.</p>
+<p style="text-align: center;">***</p>
+<p>Realizez că cu cât înaintez în vârstă, cu atât au mai multă greutate lucrurile. Adică sunt mai adâncă în simțire. Mă uit la Spiky care, invariabil, în fiecare dimineață, în timpul meu magic, se așează în așa fel încât să mă atingă cumva. Mi-a intrat sub piele, asta e clar, dar e ceva mai mult decât atât. În diminețile astea ale noastre, îmi dau seama cât de greu îmi pică gândul că într-o zi nu va mai fi aici.</p>
+<p>Cu cât cresc în ani, cu atât cresc și-n simțire și devin mai atentă la timpul pe care-l petrec cu fiecare ființă dragă mie și la calitatea lui. Când ești tânăr și neliniștit, ești într-o fuștereală așa, parcă nu te apasă prea tare &quot;ăia bătrâni&quot;, sau cățelul sau purcelul. Eu, plecată de acasă de la 18 ani și tot de atunci fortață de conjunctură să produc bani, nu am mai avut timp să mă gândesc prea mult la mama. Plus că, în mine, era o țâră vinovată că ajunsesem la facultate, prima din neamul meu, și acolo m-am trezit că nu au bani să-mi dea și mor de foame. Așa că drumurile mele spre casă erau rare pentru că lucram și când veneam, eram mai mult în oraș, că, deh, orgoliul de studentă era-n pârg. E drept că nici ea nu începea niciun dialog cu mine, mult mai târziu punând asta pe seama discreției ei. Nu am hotărât încă dacă să o cred sau nu, nu reușesc să decelez unde începe indiferența, se termină discreția sau intervine egoismul ei. Oricum, nici nu mai contează.</p>
+<p style="text-align: center;">***</p>
+<p>Probabil că în ultima mea viață sau una trăită chiar acum, în paralel, că timpul e relativ, am fost fie tâmplar, fie castelan. Efectiv, am o bucurie aproape de plutire, greu de pus în cuvinte și explicat, când văd stilul rococo aplicat în lemn, în ipsos, în marmură. Parcă simt pe buricele degetelor cum mângâi suportul care găzduiește superbul stil. E un stil alambicat, bogat în detalii, de o finețe sublimă, pe care fie îl iubești, fie îl urăști.</p>
+<p>În timpul meu magic de azi, am simțit nevoia să mă hrănesc cu imagini rococo. Mi-au ridicat starea de spirit extraordinar de mult și parcă începe să-mi placă jocul ăsta nou cu Universul: îmi livrează circumstanța ce-mi generează o stare aiurea, eu caut una nouă care să limiteze daunele create. Poate reușesc să-mi fac un obicei din asta. Poate nu uit.</p>
+<p style="text-align: center;">***</p>
+<p>Coana mare a coborât singură la micul dejun iar eu mi-am pus șortul vorbăriei pe mine, că zău dacă-mi place starea aia bolândă care se așează între noi două. Ce dacă nu reacționează, poate o să am surpriza să aibă reacții! Surprinzătoare cum e demența, niciodată nu știi. Îi povestesc din nou despre coțofanul și coțofana care-și fac cuibușor, despre domnul meu care s-a dus la birou, despre ce floricele am eu în curte, despre răsaduri. Poate mâine coboară și cu reacțiile. Azi nu le-a avut la ea.</p>
+<p style="text-align: center;">***</p>
+<p>Ies puțin prin curte. E înnorat, un pic cam rece dar e atât de bine, oricum ar fi. Vecinul pesemne că mă pândea că imediat m-a interpelat. Voia, dragul de el, să-mi spună să sap puțin la rădăcina pomișorilor, că a văzut el cum trifoiul îi acaparează. Are dreptate, era pe lista mea de făcut. Îi mulțumesc, îmi promite că, dacă mai trăiește (!), în toamnă mă ajută cu toaletarea, îmi spune că se duce la el acasă dar când vine, mi-aduce trandafiri. O minune de om. Din nou îi mulțumesc și închei, cum o fac eu de obicei, cu &quot;Vă pup!&quot;.</p>
+<p>Aici am avut claritatea rupturilor care se petrec între generații. Și evoluțiile sau involuțiile dintre ele.</p>
+<p>M-a întrebat dacă așa spun eu sau îi spun doar lui?! Nu, așa spun eu oamenilor dragi. El nu și-a permis niciodată să spună asta! Doamne, cât de închistați au trăit bunii noștri. Câte călușuri și-au pus la suflet și la gură, pentru că nu se cade. Câte pierderi, de toate felurile, au suferit pentru că așa ceva nu se spune. Mă bucur să văd că generațiile care vin sunt mult mai deschise, mai nepăsătoare, mai neconvenționale. Mă bucur să văd că există rupturi chiar dacă asta înseamnă că se rupe și podul comunicării. L-am șocat dar pentru că ne știm de ceva timp, am mai avut situații în care am interacționat și s-a prins, în linii mari, de felul meu, uite că nu mă respinge. În mintea lui, e greu să proceseze un &quot;Vă pup!&quot; venit de la o străină dar spiritul lui alege să nu-mi taie craca și să continuăm să vorbim. Sunt atât de fragili! Dar sunt parte din noi la fel de mult cum și noi suntem parte din ei.</p>
+<p style="text-align: center;">***</p>
+<p>Mi-am vizitat toți pomișorii, m-am umplut de extaz când am văzut că hortensiile au pâlpâiri verzi pe la faldurile tulpinilor vechi, mi-am salutat bujorașii, liliacul meu scoate frunzulițe după frunzulițe, e o țâșnire de viață în curtea mea. N-are cum să nu trezească viață și în mine!</p>
+<p style="text-align: center;">***</p>
+<p>Pentru că mă încearcă surd durerea de cap, azi îmi fac legume la abur. Pe care mi le mănânc în curte. Cu Spiky și cu coțofenii. Cât de mișto se adaptează orice ființă la mediu. Din bucătărie, îi vedeam pe geam cum fac și ei probabil curățenie în cuib. Cum am ieșit pe terasă, au zburat, să nu cumva să mă prind că e casa lor acolo. Pentru că eu am rămas pe terasă, i-am urmărit cu privirea. Zburau pe câmp, se întorceau la copacul ce le e gazdă dar niciuna nu se ducea la cuib. Ca și cum, chipurile, erau prin zonă, în trecere nu că acolo le-ar fi casa. Sub o formă sau altă, sub o denumire sau alta, șmecheria sau abaterea atenției există la toate speciile. Doar că se numește adaptare și că doar ființa umană a dus șmecheria la nivel de artă a manipulării și disimulării.</p>
+<p>Chiar dacă nu mai e la fel de cald ca ieri, așa aș sta afară să ascult păsările, bondarii, e și o ciocănitoare pe fundal, mai sunt și zgomotele inerente ale șantierelor din jur, dar e zgomot de viață. Eu, băgată în casă și-n gânduri și-n griji, nu mai văd viața asta, uit că e doar la doi pași de mine. Ah, și uit că e și în mine. Mă lamentez și mă pierd. Dar sunt și asta.</p>
+<p style="text-align: center;">***</p>
+<p>Mama nu a vrut prânz deloc. A mâncat o portocală și atât. Bun și așa. Din nou, și azi am primit informația că factorii care nu susțin funcționarea la parametrii la care a fost construit să funcționeze corpul, sunt mâncarea (cea procesată, cu risc maxim) și ZAHĂRUL. De altfel, zahărul este cel care se leagă cel mai mult de demență. Dar pe mama, care neagă că ar avea vreo problemă cu creierul, nu o pot convinge să renunțe la dulce. Nu reușesc nici eu, care sunt întreagă la minte (cred eu) așa că ce pretenție să am de la ea?! Scuza mea e că le implementez pe rând. Întâi să scap de pâinică și apoi de dulce. Sau invers. Deocamdată le am pe amândouă pe farfurie...</p>
+<p style="text-align: center;">***</p>
+<p>Ceas de table. Nu mai pun muzică. Mi s-a părut aiurea data trecută așa că zic pas. Îmi propun să las să curgă totul. Nici nu mă apucă vorba, nici nu stau într-o tăcere încrâncenată. Chiar dacă așa se desfășoară tot jocul, pentru că nu am avut așteptări, nu a fost nicicum. Tare senzația. Și nouă.</p>
+<p style="text-align: center;">***</p>
+<p>Sunt gata să trag obloanele peste ziua asta, peste bucata asta de timp din viața mea în care m-am mai  îmbogățit cu ceva conștientizări, cu ceva trăiri, cu ceva recunoștință:</p>
+<ol>
+<li>Pentru trezirea la viață, și la propriu și la figurat!</li>
+<li>Pentru rococo-ul ăsta care-mi curge prin vene și-mi cârlionțează inima după placul lui, în fiori de plăcere!</li>
+<li>Pentru vibe-ul ăsta mișto care planează peste toți primăvara!</li>
+</ol>
+<p>Am citit de mult o întrebare care mi-a rămas în minte și care m-a pus pe gânduri: dacă ar fi să retrăiesc o zi din viața mea, IDENTIC cum a fost când am trăit-o, ce zi aș alege? Grea întrebare. Nici acum nu am un răspuns pentru ea.</p>
+<p>Iar clipa mea de frumos, cum altfel, decât rococo:</p>
+<div class="flex justify-center ">
+  <img src="images/rococo1.jpeg" /> &nbsp; &nbsp; &nbsp;
+   <img src="images/rococo4.jpeg" />
+</div>
+<br/>
+<br/>
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-78/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-80/">Postarea următoare</a>
+  </div>
+</div>
+
+        </div>
+    </article>
+</div>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org"
+  ,"@type": "BlogPosting"
+  ,"mainEntityOfPage": {
+     "@type": "WebPage"
+    ,"@id": "https://blogdestare.com/blog/ziua-79/"
+  }
+  ,"headline": "Ziua 79"
+  ,"datePublished": "2022-03-31"
+  ,"dateModified": "2022-03-31"
+  
+  ,"author": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  ,"publisher": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  
+  ,"description": "Vreau să îi iau pulsul, să văd ce stare de spirit are. Încerc o glumă și-mi răspunde cu altă glumă înapoi. Wow, chiar că zi cu noutăți! Bun așa, poate am, și are și ea, noroc și acul barometrului de stare rămâne fixat aici pentru tot restul zilei. Sau al vieții, dacă nu cer prea mult. Mai stau cu ea, că-mi place că e ea, îi mai arunc o glumiță. Șoc și groază, nicio reacție! Se uită la mine, dar are și fața și privirea aia glaciară, prin care nu pătrunde nimic înăuntru și nici nu iese nimic în afară. Doamne, atât de repede se schimbă macazul?!"
+  ,"articleBody": "Prințesa Spiky a tronat în patul nostru aproape toată noaptea. Domnul meu, dintr-o delicatețe exagerată, era aliniat pe marginea patului, dezvelit, pentru că don&#x27;șoara dormea profund pe pilota lui și nu a vrut să o deranjeze. Ei, poftim!Am luat-o de-o aripioară și am ieșit ușurel din dormitor, să mai apuce și el un strop de somn sub pilotă, lăfăit în tot patul, dacă vrea.***E beznă densă afară, soarele nu vrea să ne salutăm de dimineață bună așa că aprind lumina în bucătărie, ce ne orbește pe amândouă. M-a bușit râsul uitându-mă cu juma&#x27; de ochi la Spikylina care și ea se uita înapoi la mine tot cu juma&#x27; de ochi. Două adormite!Chiar trei, dacă o pun și pe mama la numărătoare. Deși se mișcă în pat, nu vrea să se trezească încă. Mă apuc de trebușoare că, de obicei, de la momentul la care începe să se foiască și până se dă jos din pat, nu mai trece mult timp.Așa e, s-a trezit dar, ca să avem elementul de noutate prezent în fiecare zi, nu s-a dat jos din pat, nu s-a dus la baie ci a luat direct tableta în brațe și a început să se joace. Deși mă bucur că se joacă, deși mă ajută acest jucat al ei să pot să mai și respir și să fac și alte lucruri, eu mă întreb cum poate sta cu orele mufată în joc. În afară de mese și de ritualul serii, ea este aproape non stop pe tabletă.***Le duc să pape la amândouă, deschid să se aerisească, că e nevoie, fac curățenie și vreau să îi iau pulsul, să văd ce stare de spirit are. Încerc o glumă și-mi răspunde cu altă glumă înapoi. Wow, chiar că zi cu noutăți! Bun așa, poate am, și are, noroc și acul barometrului de stare rămâne fixat aici pentru tot restul zilei. Sau al vieții, dacă nu cer prea mult.Mai stau cu ea, că-mi place că e ea, apoi mă duc să iau sacul de gunoi cu mizeria din baie și când mă întorc și dau să ies, îi mai arunc o glumiță. Șoc și groază, nicio reacție! Se uită la mine dar are și fața și privirea aia glaciară, prin care nu pătrunde nimic înăuntru dar nici nu iese nimic în afară. Doamne, atât de repede se schimbă macazul?! Nici nu apucasem să mă bucur deplin de starea bună că s-a dus naibii și, cu ea, s-a dus și bucuria mea.***Cobor un strop tristă și îmi dau seama că, în mine, s-a activat un dialog cu demența, în care urlu la ea și o judec și mă enervează că o acaparează pe mama. Îmi dau seama că am creat entitatea Demență și mă cert cu ea și aș vrea să mă răzbun pe ea de fiecare dată când apare câte un conflict d-ăsta de stări atât de rapid. În genere, pot să spun că m-am obișnuit cu ideea.  Speranța mea, că la mama nu va fi cum se scrie peste tot, de fapt stă mică și pitită dar sare și se expandează când văd semne bune, de viață, de viața ei, așa cum o știu eu. Mă năucesc schimbările astea bruște. Nu reușesc să mă repliez atât de repede și-mi dau lovituri sub centură.***Realizez că cu cât înaintez în vârstă, cu atât au mai multă greutate lucrurile. Adică sunt mai adâncă în simțire. Mă uit la Spiky care, invariabil, în fiecare dimineață, în timpul meu magic, se așează în așa fel încât să mă atingă cumva. Mi-a intrat sub piele, asta e clar, dar e ceva mai mult decât atât. În diminețile astea ale noastre, îmi dau seama cât de greu îmi pică gândul că într-o zi nu va mai fi aici.Cu cât cresc în ani, cu atât cresc și-n simțire și devin mai atentă la timpul pe care-l petrec cu fiecare ființă dragă mie și la calitatea lui. Când ești tânăr și neliniștit, ești într-o fuștereală așa, parcă nu te apasă prea tare &amp;quot;ăia bătrâni&amp;quot;, sau cățelul sau purcelul. Eu, plecată de acasă de la 18 ani și tot de atunci fortață de conjunctură să produc bani, nu am mai avut timp să mă gândesc prea mult la mama. Plus că, în mine, era o țâră vinovată că ajunsesem la facultate, prima din neamul meu, și acolo m-am trezit că nu au bani să-mi dea și mor de foame. Așa că drumurile mele spre casă erau rare pentru că lucram și când veneam, eram mai mult în oraș, că, deh, orgoliul de studentă era-n pârg. E drept că nici ea nu începea niciun dialog cu mine, mult mai târziu punând asta pe seama discreției ei. Nu am hotărât încă dacă să o cred sau nu, nu reușesc să decelez unde începe indiferența, se termină discreția sau intervine egoismul ei. Oricum, nici nu mai contează.***Probabil că în ultima mea viață sau una trăită chiar acum, în paralel, că timpul e relativ, am fost fie tâmplar, fie castelan. Efectiv, am o bucurie aproape de plutire, greu de pus în cuvinte și explicat, când văd stilul rococo aplicat în lemn, în ipsos, în marmură. Parcă simt pe buricele degetelor cum mângâi suportul care găzduiește superbul stil. E un stil alambicat, bogat în detalii, de o finețe sublimă, pe care fie îl iubești, fie îl urăști.În timpul meu magic de azi, am simțit nevoia să mă hrănesc cu imagini rococo. Mi-au ridicat starea de spirit extraordinar de mult și parcă începe să-mi placă jocul ăsta nou cu Universul: îmi livrează circumstanța ce-mi generează o stare aiurea, eu caut una nouă care să limiteze daunele create. Poate reușesc să-mi fac un obicei din asta. Poate nu uit.***Coana mare a coborât singură la micul dejun iar eu mi-am pus șortul vorbăriei pe mine, că zău dacă-mi place starea aia bolândă care se așează între noi două. Ce dacă nu reacționează, poate o să am surpriza să aibă reacții! Surprinzătoare cum e demența, niciodată nu știi. Îi povestesc din nou despre coțofanul și coțofana care-și fac cuibușor, despre domnul meu care s-a dus la birou, despre ce floricele am eu în curte, despre răsaduri. Poate mâine coboară și cu reacțiile. Azi nu le-a avut la ea.***Ies puțin prin curte. E înnorat, un pic cam rece dar e atât de bine, oricum ar fi. Vecinul pesemne că mă pândea că imediat m-a interpelat. Voia, dragul de el, să-mi spună să sap puțin la rădăcina pomișorilor, că a văzut el cum trifoiul îi acaparează. Are dreptate, era pe lista mea de făcut. Îi mulțumesc, îmi promite că, dacă mai trăiește (!), în toamnă mă ajută cu toaletarea, îmi spune că se duce la el acasă dar când vine, mi-aduce trandafiri. O minune de om. Din nou îi mulțumesc și închei, cum o fac eu de obicei, cu &amp;quot;Vă pup!&amp;quot;.Aici am avut claritatea rupturilor care se petrec între generații. Și evoluțiile sau involuțiile dintre ele.M-a întrebat dacă așa spun eu sau îi spun doar lui?! Nu, așa spun eu oamenilor dragi. El nu și-a permis niciodată să spună asta! Doamne, cât de închistați au trăit bunii noștri. Câte călușuri și-au pus la suflet și la gură, pentru că nu se cade. Câte pierderi, de toate felurile, au suferit pentru că așa ceva nu se spune. Mă bucur să văd că generațiile care vin sunt mult mai deschise, mai nepăsătoare, mai neconvenționale. Mă bucur să văd că există rupturi chiar dacă asta înseamnă că se rupe și podul comunicării. L-am șocat dar pentru că ne știm de ceva timp, am mai avut situații în care am interacționat și s-a prins, în linii mari, de felul meu, uite că nu mă respinge. În mintea lui, e greu să proceseze un &amp;quot;Vă pup!&amp;quot; venit de la o străină dar spiritul lui alege să nu-mi taie craca și să continuăm să vorbim. Sunt atât de fragili! Dar sunt parte din noi la fel de mult cum și noi suntem parte din ei.***Mi-am vizitat toți pomișorii, m-am umplut de extaz când am văzut că hortensiile au pâlpâiri verzi pe la faldurile tulpinilor vechi, mi-am salutat bujorașii, liliacul meu scoate frunzulițe după frunzulițe, e o țâșnire de viață în curtea mea. N-are cum să nu trezească viață și în mine!***Pentru că mă încearcă surd durerea de cap, azi îmi fac legume la abur. Pe care mi le mănânc în curte. Cu Spiky și cu coțofenii. Cât de mișto se adaptează orice ființă la mediu. Din bucătărie, îi vedeam pe geam cum fac și ei probabil curățenie în cuib. Cum am ieșit pe terasă, au zburat, să nu cumva să mă prind că e casa lor acolo. Pentru că eu am rămas pe terasă, i-am urmărit cu privirea. Zburau pe câmp, se întorceau la copacul ce le e gazdă dar niciuna nu se ducea la cuib. Ca și cum, chipurile, erau prin zonă, în trecere nu că acolo le-ar fi casa. Sub o formă sau altă, sub o denumire sau alta, șmecheria sau abaterea atenției există la toate speciile. Doar că se numește adaptare și că doar ființa umană a dus șmecheria la nivel de artă a manipulării și disimulării.Chiar dacă nu mai e la fel de cald ca ieri, așa aș sta afară să ascult păsările, bondarii, e și o ciocănitoare pe fundal, mai sunt și zgomotele inerente ale șantierelor din jur, dar e zgomot de viață. Eu, băgată în casă și-n gânduri și-n griji, nu mai văd viața asta, uit că e doar la doi pași de mine. Ah, și uit că e și în mine. Mă lamentez și mă pierd. Dar sunt și asta.***Mama nu a vrut prânz deloc. A mâncat o portocală și atât. Bun și așa. Din nou, și azi am primit informația că factorii care nu susțin funcționarea la parametrii la care a fost construit să funcționeze corpul, sunt mâncarea (cea procesată, cu risc maxim) și ZAHĂRUL. De altfel, zahărul este cel care se leagă cel mai mult de demență. Dar pe mama, care neagă că ar avea vreo problemă cu creierul, nu o pot convinge să renunțe la dulce. Nu reușesc nici eu, care sunt întreagă la minte (cred eu) așa că ce pretenție să am de la ea?! Scuza mea e că le implementez pe rând. Întâi să scap de pâinică și apoi de dulce. Sau invers. Deocamdată le am pe amândouă pe farfurie...***Ceas de table. Nu mai pun muzică. Mi s-a părut aiurea data trecută așa că zic pas. Îmi propun să las să curgă totul. Nici nu mă apucă vorba, nici nu stau într-o tăcere încrâncenată. Chiar dacă așa se desfășoară tot jocul, pentru că nu am avut așteptări, nu a fost nicicum. Tare senzația. Și nouă.***Sunt gata să trag obloanele peste ziua asta, peste bucata asta de timp din viața mea în care m-am mai  îmbogățit cu ceva conștientizări, cu ceva trăiri, cu ceva recunoștință:Pentru trezirea la viață, și la propriu și la figurat!Pentru rococo-ul ăsta care-mi curge prin vene și-mi cârlionțează inima după placul lui, în fiori de plăcere!Pentru vibe-ul ăsta mișto care planează peste toți primăvara!Am citit de mult o întrebare care mi-a rămas în minte și care m-a pus pe gânduri: dacă ar fi să retrăiesc o zi din viața mea, IDENTIC cum a fost când am trăit-o, ce zi aș alege? Grea întrebare. Nici acum nu am un răspuns pentru ea.Iar clipa mea de frumos, cum altfel, decât rococo:   &amp;nbsp; &amp;nbsp; &amp;nbsp;         Postarea anterioară        Postarea următoare  "
+  
+    ,"image": "https://blogdestare.com/blog/ziua-79/images/ziua-79-final.jpg"
+  
+}
+</script>
+
+
+
+  </div>
+  <footer>
+    <!-- Social Media Icons -->
+    <div class="mt-10 flex justify-center text-gray-400">
+        <div class="px-4 text-gray-400">
+            (c) 2022-2024 Biannca Locatelli
+        </div>
+        
+        
+        <a  href="https:&#x2F;&#x2F;www.instagram.com&#x2F;bianncalocatelli"
+            title="Instagram"  class="text-gray-400 hover:text-gray-500"
+            target="_blank">
+            
+            <span class="sr-only">instagram</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 2500 2500"><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/></svg>
+        </a>
+        
+        
+    </div>
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-center text-base leading-6">
+            
+        </p>
+    </div>
+</footer>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+</html>

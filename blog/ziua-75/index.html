@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  
+  
+  
+  
+  
+
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name=generator content="Zola">
+
+  
+    <meta name="description" content="După 75 de zile, pot să spun că scrisul zilnic mă ajută enorm să fiu articulată. Nici înainte nu aveam fracturi de logică dar, pentru că mi se buluceau informațiile și ideile în cap, nu reușeam întotdeauna să emit structurat și să comunic. Mă surprind plăcut chiar și pe mine cât de concisă în exprimare am devenit. Cumpănesc bine înainte de a scoate vorbele pe gură, sunt mai zgârcită și nu le mai prăvălesc afară din mine, ci am grijă să dau fiecăreia maxima greutate posibilă ca să umple țintit scopul caruia îi servește. E o experiență minunată și nu m-aș fi gândit că poate avea așa o profunzime.">
+  
+
+  <title>Blog de stare</title>
+  <link rel="stylesheet" href="/css/generated.css">
+  <link rel="icon" href="/img/yin-yang.svg" />
+
+  
+
+  <script defer src="/js/zolarwind/logic.js" integrity="sha384-GYtsrgYVRYoxdEL+C+79KROm+MCl1ArSzQnqVnPTV78UNz5a1vFxAEiKbobXhQlw"></script>
+  
+  
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/custom.css">
+</head>
+<body>
+  
+
+
+
+
+<header class="sticky top-0 w-full z-10">
+    <nav class="bg-green0">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <a href="/" aria-label="Mergi la început">
+                            <!-- <div class="h-8 w-8 text-gray-900 hover:text-white fill-current">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">
+                                    <path
+                                        d="M3 12L5 10M5 10L12 3L19 10M5 10V20C5 20.5523 5.44772 21 6 21H9M19 10L21 12M19 10V20C19 20.5523 18.5523 21 18 21H15M9 21C9.55228 21 10 20.5523 10 20V16C10 15.4477 10.4477 15 11 15H13C13.5523 15 14 15.4477 14 16V20C14 20.5523 14.4477 21 15 21M9 21H15"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                            </div> -->
+                            <img class="h-8 w-8" alt="logo" src="/images/logo.png">
+                        </a>
+                    </div>
+                    <div class="hidden md:block">
+                        <div class="ml-8 flex items-baseline">
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/blog/" title="Blog">Blog</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/about/" title="Despre mine">Despre mine</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="-mr-2 flex md:hidden">
+                    <button id="toggleMobileMenu"
+                        class="icon inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
+                        aria-label="Meniu">
+                        <span id="mobile-icon-menu-unselected">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </span>
+                        <span id="mobile-icon-menu-selected" class="hidden">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden px-2 pt-2 pb-3 sm:px-3">
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/blog/" title="Blog">Blog</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/about/" title="Despre mine">Despre mine</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+            
+            
+        </div>
+    </nav>
+</header>
+  <div id="content">
+    
+
+
+
+<div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
+    <article class="prose">
+        <div class="h-96 rounded-md flex justify-center">
+            <img class="h-96 w-128 object-cover" src="images&#x2F;ziua-75-final.jpg"
+                alt="Ziua 75">
+        </div>
+        <h1 class="flex justify-center">Ziua 75</h1>
+        <div>
+            <p>
+                <span class="mr-2 text-sm">
+                    <time datetime="2022-03-27">martie 27, 2022</time>
+                </span>
+                <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+            </p>
+        </div>
+
+        <div>
+            <hr />
+<p>Ce bine că a venit și a și trecut noaptea asta cea mai scurtă! Am bifat-o și m-am liniștit. Că aveam o grijă, hahaha! Deși, la mine, noaptea ce tocmai a trecut a avut și titlul de cea mai scurtă noapte scurtă din cauza lătratului cățelelor vecinului, aproape non-stop, de la 1 la 3 fără vreo 20 de minute.</p>
+<p>La început le-am auzit, am luat notă de ele și am așteptat cuminte să se liniștească. După vreo 20 minute de disperare lătrândă, mă duc la geam să verific că poate au venit unii să ne fure cu casă cu tot. În bezna nopții, n-am sesizat nicio mișcare. Dar fetele nu se opreau sub nicio formă. Partea proastă este că dacă ies să le zic să se liniștească, mai rău fac și scol toată zona nu doar casa mea. Pesemne o fi vreo vulpiță sau căprioare sau arici sau cine știe ce vietate că n-or lătra nici lupițele degeaba.</p>
+<p>Așa că am mai băgat o fisă de somn de la 3 la 5 și un strop, pe ora nouă.</p>
+<p style="text-align: center;">***</p>
+<p>Cu tot simulacrul ăsta de somn, sunt ok. Și fizic și psihic. Îmi dezlipesc prietena blănoasă de un picior de-al domnului meu, îi mulțumesc că a fost o cuminte, probabil s-o fi prins că show-ul e furat de lupițe și nu mai e loc și pentru reprezentațiile ei și coborâm la bucătărie, în această dimineață molcomă de duminică. Tare faină-i liniștea asta diminețile. Mie oricum îmi place la nebunia liniștea iar asta de dimineața în genere e liniștea începutului.</p>
+<p>Parcă cu cântec în mine, am alunecat prin bucătărie manevrând robot, ceainice și căni într-o maniera tare relaxată. M-am salutat și azi și mi-am observat ridurile pe care mi le arcuiesc ochii când zâmbesc. N-am nicio părere despre ele, nici nu le iubesc dar nici nu-mi dau vibe-ul ăla de &quot;șoc și groază, citiți aici!&quot;, pentru că oricum spiritul mi-e tânăr și șugubăț, încă.</p>
+<p style="text-align: center;">***</p>
+<p>Ajung la mama probabil în același timp în care soarele se strecoară printre draperiile pe care le trage obsesiv în nasul luminii și ne dăm mâna unul cu altul să facem ordine și bine și în cămăruța lor.</p>
+<p>Nu știu dacă este de la faptul că îi dau de mâncare și o drăgălesc de câte ori pot, dar Sassy se apropie din ce în ce mai mult de mine. Nu vreau să cred că și ea simte că e ceva în neregulă cu umana din stăpâna ei deși eu cred că animalele citesc energiile mult mai bine decât noi, oamenii. Astăzi, după ce i-am dat să pape și i-am spălat litierele, am zmotocit-o nițel. Mă privea în ochi cu biluțele ei mari și albastre și nu se mai dezlipea de mine. De câte ori mă opream, mă împingea cu boticul să continui. Asta chiar că surpriză, pentru că ei nu-i stă în fire, e mai simandicoasă așa. Pentru că și Spiky a mea mă aștepta de partea cealaltă a ușii, i-am urcat-o pe Sassy în pat mamei, i-am dat ei peria de mângâiat și am plecat. Am văzut pe cameră cum s-a dat jos și s-a așezat lângă ușa pe care mă văzuse că ies. Draga mea dragă, am cucerit-o! Asta e o victorie!</p>
+<p style="text-align: center;">***</p>
+<p>În timpul meu magic de azi vreau puțină istorie așa că aleg un documentar cu Egiptul antic.</p>
+<p>De câte ori văd documentare despre antichitate, am un prim gând, parcă așa cu uimire, că au trăit oameni și atunci. Prima mea reacție vine dintr-un ego încarnat în mine care crede el că lumea a început și se termină cu mine. Mi-am mai simțit și în alte dăți pornirea asta în gândire care e ceva brut, vine din primitiv, instinctual. Știu mental că sunt o infinitezime de infinitezime de mică și măruntă în imensitatea asta și totuși egoul care mă acompaniază viața asta îmi suflă vânt în coaste și-mi azvârle osul mândririi.</p>
+<p>Habar n-am de ce am senzația asta dar știu că mi-a trebuit ceva timp să mă prind de dualitatea mea și încă ceva și mai mult să mă accept așa. Eram când pe culmile &quot;nu e nimeni ca mine&quot;, ceea ce e și adevărat de altfel dar ca unicitate nu din înfoiala îngâmfării, când m-aș fi ascuns să nu se prindă nimeni cât de praf sunt. Mișcarea asta sinusoidală mi-a dat mult timp la gleznele inimii dar a dat și roade într-un final. Când nu ești pe drumul tău, ăla care ți se potrivește mănușă, care-ți face sufletul să cânte, de-ți pune roz în ochi și pace-n inimă, te lovești și te învinețește oricine și orice. Nu cu intenție dar sigur cu direcție imprimată.</p>
+<p>Știu dăți din viața mea când am trăit situații, pe care de câte ori mi le aminteam ulterior, gemeam de rușine. Când eu voiam să par Albă ca zăpada și cineva din jur mă micea, voit sau nu, iar eu mă strângeam în mine, plină de suferință. N-are sens să spun că n-am uitat niciodată cum m-au făcut oamenii să mă simt. Acum mi se pare o mare prostie. Ce dacă nu știu un lucru? Nu cred că există cineva care să le știe pe toate. Ce dacă nu arăt ca scoasă din cutie mereu? Care e scopul să fii împăiată dacă nu te simți bine? Ce dacă uit ceva sau pe cineva? Dacă n-am uita, am înnebuni, la propriu. Așa că acum, încerc pe cât posibil să nu mai încasez nimic din exterior, pentru că nimeni nu e perfect, iar eu sunt bine în pielea mea. În sfârșit!</p>
+<p style="text-align: center;">***</p>
+<p>Am citit și un articol despre energia verde care mustea de informații faine. Dar mi-a plăcut, și am rezonat cu o perspectivă faină, care tare mi-aș dori să devină realitate: dacă războiul lui Putin va întoarce puțin fața către energia verde? Dacă poate fi și ăsta un side effect al războiului, unul care nu e ușor de văzut din cauza impactului emoțional generat de un război? Eu știu că sunt naivă, știu că-s interese imense și bani cu nemiluita dar, fix ca la începutul pandemiei, eu tot mai sper ca omenirea să se mai trezească din interesele astea financiare și de putere.</p>
+<p>După un timp atât de bunuț, urmează un mic dejun la fel. Fără fantasmagorii, un mic dejun normal, ca la oamenii normali.</p>
+<p style="text-align: center;">***</p>
+<p>Mi-am propus să-mi pun irișii bărboși, ranunculus, crinii, gladiolele și anemonele în curtea de flori.</p>
+<p>Pentru că eu am sânge de țăran în mine și am și copilărit la țară, îmi place maxim să stau cu lăbuțele în țărână așa că de abia aștept p-afară, mai ales că e o zi numa' bună de grădinărit. Înainte însă, hai să-mi fac salata de crudități, să fie gata când termin. Nu apuc să desfac punga de spanac că-mi sună telefonul. Copila mea. După voce, simt instinctiv că ceva nu e ok. Am dreptate. Maya a căzut pe o parte, în convulsii și a făcut piș necontrolat. Mi s-au tăiat picioarele și respirația. Mintea scotocește rapid în baza ei de date și prima informație livrată: epilepsie. De altfel asta spune și copila mea. Dar ea mai enumeră și alte enormități gen accident vascular și deja nu mai aud ce spune. La propriu, mi s-a pus o furtună pe suflet. O iubesc pe Maya, am crescut-o de la două luni, e al doilea copil al meu. Face parte din familia mea mică și vreau să mai facă mult timp de acum înainte. Copila mea bănuiește că s-a înecat, eu nu sunt așa de sigură dar în afară de a o monitoriza, acum nu e nimic de făcut. Închid telefonul, bag spanacul la loc, nu-mi mai arde de nicio salată. Ies totuși afară, nu înainte de a face greșeala să-i spun și domnului meu vestea, lucru care l-a tulburat și pe el și-mi dau seama că trebuia să tac. Nu a adus nicio valoare adăugată faptul că i-am spus. Lesson learned!</p>
+<p style="text-align: center;">***</p>
+<p>Mă apuc de grădinărit și mă analizez. Mi-e sufletul greu și deși mental știu că nu ajută pe nimeni starea mea, Maya nu se va face mai bine dacă eu sufăr pentru ea, emoționalul mă ține jos. Am din nou aceeași senzație de pâclă, cred că încep să simt fizic ori de câte ori am o energie joasă. Am și bâzâit puțin aducându-mi aminte de Măyuca mea, de câte și câte prostii a făcut dar și cât de mult ne iubeam noi două și câte vorbeam eu doar cu ea, confidenta mea de primă mână.</p>
+<p>Dar pentru că pământul și soarele și aerul și ciripitul au energie curată, m-am molipsit de la ele și încet-încet, m-am ridicat. Am acceptat în mine că poate fi și dramatic dar am acceptat în primul rând că poate nu va fi dramatic.</p>
+<p>De la plantat, m-am mutat la smuls buruiana de prin toată curtea, la curățat terasa și intrările în casă și nici nu am simțit cum au trecut prin mine și pe lângă mine trei ore. Începute prost dar terminate cu liniște în simțiri.</p>
+<p style="text-align: center;">***</p>
+<p>Numa' bine că s-a făcut de prânz, eu am reușit să am distanță între mese de opt ore dar acum mi-e o foame de lup. Cum mama încă nu vrea, mă bucur de o masă doar cu domnul meu. Mă bucur de fiecare moment petrecut cu el, mă simt cel mai bine doar cu omul meu.</p>
+<p>Fac repede și sucul pentru diseară, ordine prin bucătărie și mă trezesc cu coana mare peste mine. Foarte bine, înseamnă că s-a declanșat butonul ăla care-i spune că-i e foame.</p>
+<p>Îi pregătesc masa și o văd confuză. Nu înțelege de ce ceasul din bucătărie arată 4 iar al ei arată 3. Îi spun că s-a dat ora înainte, să-și potrivească și ea ceasul de mână. Nu o face chiar atunci, se apucă de mâncat și în câteva minute o luăm de la capăt. Ca să previn a treia iterație pe aceeași temă, îi cer ceasul să îl fixez eu. Nu vrea, să mănânce întâi, nu insist.</p>
+<p>În total s-a repetat scena ceasului de șase ori până am reușit să fixez ceasul ăla amărât.</p>
+<p style="text-align: center;">***</p>
+<p>Mai am o oră până la table, încep să resimt oboseala fizic, parcă m-aș întinde puțin. Scrollez pe social media și îmi tot apar în feed diverse cursuri, workshopuri gratuite. Știu acum că ele sunt momeala cu care vor să-ți vândă ceva după aceea. Un curs de comunicare îmi apare obsesiv, pe toate canalele.</p>
+<p>După 75 de zile, pot să spun că scrisul zilnic mă ajută enorm să fiu articulată. Nici înainte nu aveam fracturi de logică dar, pentru că mi se buluceau informațiile și ideile în cap, nu reușeam întotdeauna să emit structurat și să comunic. Și când zic comunic, nu mă refer la vorbire, că e diferită. Implică o țâră mai multă implicare și atenție la cum împachetezi mesajul astfel încât să fie perceput și înțeles corect de celălalt în același timp în care rămâne și autentic. Mă surprind plăcut chiar și pe mine cât de concisă în exprimare am devenit. Cumpănesc bine înainte de a scoate vorbele pe gură, sunt mai zgârcită și nu le mai prăvălesc afară din mine ci am grijă să dau fiecăreia maxima greutate posibilă ca să umple țintit scopul caruia îi servește. E o experiență minunată și nu m-aș fi gândit că poate avea așa o profunzime. Așa că fără cursul de comunicare, eu îmi mulțumesc pentru alegerea făcută dar mai ales pentru consistența și perseverența mea. Nici nu contează dacă citește cineva sau nu. Mi-am plătit eu însămi cu vârf și îndesat.</p>
+<p style="text-align: center;">***</p>
+<p>Intru în cele 2 ore și ceva de timp plat. Observ din nou la mama că singurul ei focus este să câștige. Dar e atât de focusată că nu mai vede nimic altceva, iar de auzit și pe mine mă aude cu sincope. O senzație stranie că vorbesc singură mă cuprinde din ce în ce mai des. Cel puțin, în timpul tablelor, e certă treaba. Nu mă mai grăbește cum făcea înainte dar asta pentru că nu mă mai percepe, cred eu.</p>
+<p style="text-align: center;">***</p>
+<p>Lasă că am coborât taman la minutul de aur, când soarele și-a luat la revedere de la mine și și-a trimis ultimele lui raze prin livingul meu. M-a picurat aurul ăsta până în suflet. Ne vedem mâine dimineață!</p>
+<div class="flex justify-center">
+  <img src="images/ziua-75-1024x576.jpeg" />
+</div>
+<p>Sunt recunoscătoare pentru:</p>
+<ol>
+<li>Starea mea neașteptat de bună!</li>
+<li>Iubirea pe care mi-o dăruiește Sassy!</li>
+<li>Ameliorarea rapidă a Mayei!</li>
+</ol>
+<p>Iar medalia de aur pentru frumos dar mai ales pentru gingășie merge la iubirică ăsta mic:</p>
+<p><a href="https://www.facebook.com/watch/?v=1082843388949496" target="_blank">https://www.facebook.com/watch/?v=1082843388949496</a></p>
+<br/>
+<br/>
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-74/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-76/">Postarea următoare</a>
+  </div>
+</div>
+
+        </div>
+    </article>
+</div>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org"
+  ,"@type": "BlogPosting"
+  ,"mainEntityOfPage": {
+     "@type": "WebPage"
+    ,"@id": "https://blogdestare.com/blog/ziua-75/"
+  }
+  ,"headline": "Ziua 75"
+  ,"datePublished": "2022-03-27"
+  ,"dateModified": "2022-03-27"
+  
+  ,"author": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  ,"publisher": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  
+  ,"description": "După 75 de zile, pot să spun că scrisul zilnic mă ajută enorm să fiu articulată. Nici înainte nu aveam fracturi de logică dar, pentru că mi se buluceau informațiile și ideile în cap, nu reușeam întotdeauna să emit structurat și să comunic. Mă surprind plăcut chiar și pe mine cât de concisă în exprimare am devenit. Cumpănesc bine înainte de a scoate vorbele pe gură, sunt mai zgârcită și nu le mai prăvălesc afară din mine, ci am grijă să dau fiecăreia maxima greutate posibilă ca să umple țintit scopul caruia îi servește. E o experiență minunată și nu m-aș fi gândit că poate avea așa o profunzime."
+  ,"articleBody": "Ce bine că a venit și a și trecut noaptea asta cea mai scurtă! Am bifat-o și m-am liniștit. Că aveam o grijă, hahaha! Deși, la mine, noaptea ce tocmai a trecut a avut și titlul de cea mai scurtă noapte scurtă din cauza lătratului cățelelor vecinului, aproape non-stop, de la 1 la 3 fără vreo 20 de minute.La început le-am auzit, am luat notă de ele și am așteptat cuminte să se liniștească. După vreo 20 minute de disperare lătrândă, mă duc la geam să verific că poate au venit unii să ne fure cu casă cu tot. În bezna nopții, n-am sesizat nicio mișcare. Dar fetele nu se opreau sub nicio formă. Partea proastă este că dacă ies să le zic să se liniștească, mai rău fac și scol toată zona nu doar casa mea. Pesemne o fi vreo vulpiță sau căprioare sau arici sau cine știe ce vietate că n-or lătra nici lupițele degeaba.Așa că am mai băgat o fisă de somn de la 3 la 5 și un strop, pe ora nouă.***Cu tot simulacrul ăsta de somn, sunt ok. Și fizic și psihic. Îmi dezlipesc prietena blănoasă de un picior de-al domnului meu, îi mulțumesc că a fost o cuminte, probabil s-o fi prins că show-ul e furat de lupițe și nu mai e loc și pentru reprezentațiile ei și coborâm la bucătărie, în această dimineață molcomă de duminică. Tare faină-i liniștea asta diminețile. Mie oricum îmi place la nebunia liniștea iar asta de dimineața în genere e liniștea începutului.Parcă cu cântec în mine, am alunecat prin bucătărie manevrând robot, ceainice și căni într-o maniera tare relaxată. M-am salutat și azi și mi-am observat ridurile pe care mi le arcuiesc ochii când zâmbesc. N-am nicio părere despre ele, nici nu le iubesc dar nici nu-mi dau vibe-ul ăla de &amp;quot;șoc și groază, citiți aici!&amp;quot;, pentru că oricum spiritul mi-e tânăr și șugubăț, încă.***Ajung la mama probabil în același timp în care soarele se strecoară printre draperiile pe care le trage obsesiv în nasul luminii și ne dăm mâna unul cu altul să facem ordine și bine și în cămăruța lor.Nu știu dacă este de la faptul că îi dau de mâncare și o drăgălesc de câte ori pot, dar Sassy se apropie din ce în ce mai mult de mine. Nu vreau să cred că și ea simte că e ceva în neregulă cu umana din stăpâna ei deși eu cred că animalele citesc energiile mult mai bine decât noi, oamenii. Astăzi, după ce i-am dat să pape și i-am spălat litierele, am zmotocit-o nițel. Mă privea în ochi cu biluțele ei mari și albastre și nu se mai dezlipea de mine. De câte ori mă opream, mă împingea cu boticul să continui. Asta chiar că surpriză, pentru că ei nu-i stă în fire, e mai simandicoasă așa. Pentru că și Spiky a mea mă aștepta de partea cealaltă a ușii, i-am urcat-o pe Sassy în pat mamei, i-am dat ei peria de mângâiat și am plecat. Am văzut pe cameră cum s-a dat jos și s-a așezat lângă ușa pe care mă văzuse că ies. Draga mea dragă, am cucerit-o! Asta e o victorie!***În timpul meu magic de azi vreau puțină istorie așa că aleg un documentar cu Egiptul antic.De câte ori văd documentare despre antichitate, am un prim gând, parcă așa cu uimire, că au trăit oameni și atunci. Prima mea reacție vine dintr-un ego încarnat în mine care crede el că lumea a început și se termină cu mine. Mi-am mai simțit și în alte dăți pornirea asta în gândire care e ceva brut, vine din primitiv, instinctual. Știu mental că sunt o infinitezime de infinitezime de mică și măruntă în imensitatea asta și totuși egoul care mă acompaniază viața asta îmi suflă vânt în coaste și-mi azvârle osul mândririi.Habar n-am de ce am senzația asta dar știu că mi-a trebuit ceva timp să mă prind de dualitatea mea și încă ceva și mai mult să mă accept așa. Eram când pe culmile &amp;quot;nu e nimeni ca mine&amp;quot;, ceea ce e și adevărat de altfel dar ca unicitate nu din înfoiala îngâmfării, când m-aș fi ascuns să nu se prindă nimeni cât de praf sunt. Mișcarea asta sinusoidală mi-a dat mult timp la gleznele inimii dar a dat și roade într-un final. Când nu ești pe drumul tău, ăla care ți se potrivește mănușă, care-ți face sufletul să cânte, de-ți pune roz în ochi și pace-n inimă, te lovești și te învinețește oricine și orice. Nu cu intenție dar sigur cu direcție imprimată.Știu dăți din viața mea când am trăit situații, pe care de câte ori mi le aminteam ulterior, gemeam de rușine. Când eu voiam să par Albă ca zăpada și cineva din jur mă micea, voit sau nu, iar eu mă strângeam în mine, plină de suferință. N-are sens să spun că n-am uitat niciodată cum m-au făcut oamenii să mă simt. Acum mi se pare o mare prostie. Ce dacă nu știu un lucru? Nu cred că există cineva care să le știe pe toate. Ce dacă nu arăt ca scoasă din cutie mereu? Care e scopul să fii împăiată dacă nu te simți bine? Ce dacă uit ceva sau pe cineva? Dacă n-am uita, am înnebuni, la propriu. Așa că acum, încerc pe cât posibil să nu mai încasez nimic din exterior, pentru că nimeni nu e perfect, iar eu sunt bine în pielea mea. În sfârșit!***Am citit și un articol despre energia verde care mustea de informații faine. Dar mi-a plăcut, și am rezonat cu o perspectivă faină, care tare mi-aș dori să devină realitate: dacă războiul lui Putin va întoarce puțin fața către energia verde? Dacă poate fi și ăsta un side effect al războiului, unul care nu e ușor de văzut din cauza impactului emoțional generat de un război? Eu știu că sunt naivă, știu că-s interese imense și bani cu nemiluita dar, fix ca la începutul pandemiei, eu tot mai sper ca omenirea să se mai trezească din interesele astea financiare și de putere.După un timp atât de bunuț, urmează un mic dejun la fel. Fără fantasmagorii, un mic dejun normal, ca la oamenii normali.***Mi-am propus să-mi pun irișii bărboși, ranunculus, crinii, gladiolele și anemonele în curtea de flori.Pentru că eu am sânge de țăran în mine și am și copilărit la țară, îmi place maxim să stau cu lăbuțele în țărână așa că de abia aștept p-afară, mai ales că e o zi numa&#x27; bună de grădinărit. Înainte însă, hai să-mi fac salata de crudități, să fie gata când termin. Nu apuc să desfac punga de spanac că-mi sună telefonul. Copila mea. După voce, simt instinctiv că ceva nu e ok. Am dreptate. Maya a căzut pe o parte, în convulsii și a făcut piș necontrolat. Mi s-au tăiat picioarele și respirația. Mintea scotocește rapid în baza ei de date și prima informație livrată: epilepsie. De altfel asta spune și copila mea. Dar ea mai enumeră și alte enormități gen accident vascular și deja nu mai aud ce spune. La propriu, mi s-a pus o furtună pe suflet. O iubesc pe Maya, am crescut-o de la două luni, e al doilea copil al meu. Face parte din familia mea mică și vreau să mai facă mult timp de acum înainte. Copila mea bănuiește că s-a înecat, eu nu sunt așa de sigură dar în afară de a o monitoriza, acum nu e nimic de făcut. Închid telefonul, bag spanacul la loc, nu-mi mai arde de nicio salată. Ies totuși afară, nu înainte de a face greșeala să-i spun și domnului meu vestea, lucru care l-a tulburat și pe el și-mi dau seama că trebuia să tac. Nu a adus nicio valoare adăugată faptul că i-am spus. Lesson learned!***Mă apuc de grădinărit și mă analizez. Mi-e sufletul greu și deși mental știu că nu ajută pe nimeni starea mea, Maya nu se va face mai bine dacă eu sufăr pentru ea, emoționalul mă ține jos. Am din nou aceeași senzație de pâclă, cred că încep să simt fizic ori de câte ori am o energie joasă. Am și bâzâit puțin aducându-mi aminte de Măyuca mea, de câte și câte prostii a făcut dar și cât de mult ne iubeam noi două și câte vorbeam eu doar cu ea, confidenta mea de primă mână.Dar pentru că pământul și soarele și aerul și ciripitul au energie curată, m-am molipsit de la ele și încet-încet, m-am ridicat. Am acceptat în mine că poate fi și dramatic dar am acceptat în primul rând că poate nu va fi dramatic.De la plantat, m-am mutat la smuls buruiana de prin toată curtea, la curățat terasa și intrările în casă și nici nu am simțit cum au trecut prin mine și pe lângă mine trei ore. Începute prost dar terminate cu liniște în simțiri.***Numa&#x27; bine că s-a făcut de prânz, eu am reușit să am distanță între mese de opt ore dar acum mi-e o foame de lup. Cum mama încă nu vrea, mă bucur de o masă doar cu domnul meu. Mă bucur de fiecare moment petrecut cu el, mă simt cel mai bine doar cu omul meu.Fac repede și sucul pentru diseară, ordine prin bucătărie și mă trezesc cu coana mare peste mine. Foarte bine, înseamnă că s-a declanșat butonul ăla care-i spune că-i e foame.Îi pregătesc masa și o văd confuză. Nu înțelege de ce ceasul din bucătărie arată 4 iar al ei arată 3. Îi spun că s-a dat ora înainte, să-și potrivească și ea ceasul de mână. Nu o face chiar atunci, se apucă de mâncat și în câteva minute o luăm de la capăt. Ca să previn a treia iterație pe aceeași temă, îi cer ceasul să îl fixez eu. Nu vrea, să mănânce întâi, nu insist.În total s-a repetat scena ceasului de șase ori până am reușit să fixez ceasul ăla amărât.***Mai am o oră până la table, încep să resimt oboseala fizic, parcă m-aș întinde puțin. Scrollez pe social media și îmi tot apar în feed diverse cursuri, workshopuri gratuite. Știu acum că ele sunt momeala cu care vor să-ți vândă ceva după aceea. Un curs de comunicare îmi apare obsesiv, pe toate canalele.După 75 de zile, pot să spun că scrisul zilnic mă ajută enorm să fiu articulată. Nici înainte nu aveam fracturi de logică dar, pentru că mi se buluceau informațiile și ideile în cap, nu reușeam întotdeauna să emit structurat și să comunic. Și când zic comunic, nu mă refer la vorbire, că e diferită. Implică o țâră mai multă implicare și atenție la cum împachetezi mesajul astfel încât să fie perceput și înțeles corect de celălalt în același timp în care rămâne și autentic. Mă surprind plăcut chiar și pe mine cât de concisă în exprimare am devenit. Cumpănesc bine înainte de a scoate vorbele pe gură, sunt mai zgârcită și nu le mai prăvălesc afară din mine ci am grijă să dau fiecăreia maxima greutate posibilă ca să umple țintit scopul caruia îi servește. E o experiență minunată și nu m-aș fi gândit că poate avea așa o profunzime. Așa că fără cursul de comunicare, eu îmi mulțumesc pentru alegerea făcută dar mai ales pentru consistența și perseverența mea. Nici nu contează dacă citește cineva sau nu. Mi-am plătit eu însămi cu vârf și îndesat.***Intru în cele 2 ore și ceva de timp plat. Observ din nou la mama că singurul ei focus este să câștige. Dar e atât de focusată că nu mai vede nimic altceva, iar de auzit și pe mine mă aude cu sincope. O senzație stranie că vorbesc singură mă cuprinde din ce în ce mai des. Cel puțin, în timpul tablelor, e certă treaba. Nu mă mai grăbește cum făcea înainte dar asta pentru că nu mă mai percepe, cred eu.***Lasă că am coborât taman la minutul de aur, când soarele și-a luat la revedere de la mine și și-a trimis ultimele lui raze prin livingul meu. M-a picurat aurul ăsta până în suflet. Ne vedem mâine dimineață!  Sunt recunoscătoare pentru:Starea mea neașteptat de bună!Iubirea pe care mi-o dăruiește Sassy!Ameliorarea rapidă a Mayei!Iar medalia de aur pentru frumos dar mai ales pentru gingășie merge la iubirică ăsta mic:https:&#x2F;&#x2F;www.facebook.com&#x2F;watch&#x2F;?v=1082843388949496      Postarea anterioară        Postarea următoare  "
+  
+    ,"image": "https://blogdestare.com/blog/ziua-75/images/ziua-75-final.jpg"
+  
+}
+</script>
+
+
+
+  </div>
+  <footer>
+    <!-- Social Media Icons -->
+    <div class="mt-10 flex justify-center text-gray-400">
+        <div class="px-4 text-gray-400">
+            (c) 2022-2024 Biannca Locatelli
+        </div>
+        
+        
+        <a  href="https:&#x2F;&#x2F;www.instagram.com&#x2F;bianncalocatelli"
+            title="Instagram"  class="text-gray-400 hover:text-gray-500"
+            target="_blank">
+            
+            <span class="sr-only">instagram</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 2500 2500"><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/></svg>
+        </a>
+        
+        
+    </div>
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-center text-base leading-6">
+            
+        </p>
+    </div>
+</footer>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+</html>

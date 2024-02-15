@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  
+  
+  
+  
+  
+
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name=generator content="Zola">
+
+  
+    <meta name="description" content="Doamne, suntem atât de amărâți când suntem deconectați de la ce e esențial și vital pentru noi, ce nu e material, dar afișăm ca nebunii lozinca &#x27;eu sunt puternic!&#x27;, nu putem accepta să fim văzuți mici. Suntem atât de preocupați de cum dăm în fața celorlalți, că nu ne mai pasă că ne ucidem cu cruzime și cu încetinitorul în interiorul nostru. Iar pentru că nu ne arătăm fețele interioare, ne înconjurăm de oameni de aceeași factură, la fel de ermetici, la fel de &#x27;puternici&#x27;, de &#x27;realizați în viață&#x27;, de autosuprimați emoțional.">
+  
+
+  <title>Blog de stare</title>
+  <link rel="stylesheet" href="/css/generated.css">
+  <link rel="icon" href="/img/yin-yang.svg" />
+
+  
+
+  <script defer src="/js/zolarwind/logic.js" integrity="sha384-GYtsrgYVRYoxdEL+C+79KROm+MCl1ArSzQnqVnPTV78UNz5a1vFxAEiKbobXhQlw"></script>
+  
+  
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/custom.css">
+</head>
+<body>
+  
+
+
+
+
+<header class="sticky top-0 w-full z-10">
+    <nav class="bg-green0">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <a href="/" aria-label="Mergi la început">
+                            <!-- <div class="h-8 w-8 text-gray-900 hover:text-white fill-current">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">
+                                    <path
+                                        d="M3 12L5 10M5 10L12 3L19 10M5 10V20C5 20.5523 5.44772 21 6 21H9M19 10L21 12M19 10V20C19 20.5523 18.5523 21 18 21H15M9 21C9.55228 21 10 20.5523 10 20V16C10 15.4477 10.4477 15 11 15H13C13.5523 15 14 15.4477 14 16V20C14 20.5523 14.4477 21 15 21M9 21H15"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                            </div> -->
+                            <img class="h-8 w-8" alt="logo" src="/images/logo.png">
+                        </a>
+                    </div>
+                    <div class="hidden md:block">
+                        <div class="ml-8 flex items-baseline">
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/blog/" title="Blog">Blog</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/about/" title="Despre mine">Despre mine</a>
+                            
+                            
+                            
+                            <a class="px-3 py-2 ml-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="-mr-2 flex md:hidden">
+                    <button id="toggleMobileMenu"
+                        class="icon inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
+                        aria-label="Meniu">
+                        <span id="mobile-icon-menu-unselected">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </span>
+                        <span id="mobile-icon-menu-selected" class="hidden">
+                            <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden px-2 pt-2 pb-3 sm:px-3">
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/blog/" title="Blog">Blog</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/about/" title="Despre mine">Despre mine</a>
+            
+            
+            
+            <a class="mt-1 block px-3 py-2 rounded-md font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-600"
+                href="/pages/contact/" title="Ai un gând pt mine?">Ai un gând pt mine?</a>
+            
+            
+        </div>
+    </nav>
+</header>
+  <div id="content">
+    
+
+
+
+<div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
+    <article class="prose">
+        <div class="h-96 rounded-md flex justify-center">
+            <img class="h-96 w-128 object-cover" src="images&#x2F;ziua-332.png"
+                alt="Ziua 332">
+        </div>
+        <h1 class="flex justify-center">Ziua 332</h1>
+        <div>
+            <p>
+                <span class="mr-2 text-sm">
+                    <time datetime="2022-12-09">decembrie 09, 2022</time>
+                </span>
+                <span class="text-sm leading-5 font-medium text-indigo-600">
+
+  
+
+</span>
+
+            </p>
+        </div>
+
+        <div>
+            <hr />
+<p>Spargerea nopții, și implicit a somnului, în două, cu haltă la ora 3, cred că e una dintre cele mai nefericite situații pentru mine, în această perioadă a vieții. Nu am excelat niciodată la capitolul somn d-ăla plin, odihnitor, pentru că am fost mereu un vulcan înăuntru cu aparență de zen în afară, dar parcă n-am dormit niciodată atât de prostca-n ultimul an. Cu mici excepții, pe care le consider nopți de avarii, ce simt ele ultimele picături pe fundul generatorului meu de zvâc în zi, nopțile mele parcă nici nu sunt nopți. Sunt surorile vitrege, mai negre la suflet, ale zilelor mele, la propriu, mi se pare o extensie cantitativă a acestora din urmă.</p>
+<p>Azi-noapte la 3, corpul n-a mai părut surprins de trezire, cred eu că, la un nivel de substrat al meu, știam carnal că vine trezirea, așa că m-am ridicat natural, am luat în plină față și plămâni mirosul de la mama, m-am trezit și m-am reîntors în pat calmă, cu stropi de resemnare prin vene și gânduri. Pot schimba? Da, dacă m-aș încorda un pic, aș schimba modul cum percep plecatul ăsta din pat și la revenire, aș putea să-mi zic, mulțumită, că gata, am rezolvat ce aveam de rezolvat, hai fuguța, pe tărâm de vise. La mine însă, pentru că trenează obișnuința de a mă plânge, la care se adaugă izul care-mi oprește aerul înainte de a intra în nări, de zici că am niște ventilatoare în nas ce se opun cu o forță mai mare decât cea a aerului ce vrea să intre, cocktailul ăsta mă ține, de multe ori trează încă mult timp după ce m-am reașezat în patul cald, iar respirația nu îmi mai e speriată de niciun balaur. Iar în răstimpul ăsta, mintea începe să ronțăie și de aici, dacă nu-s atentă și prezentă, se termină feng shui-ul total. Cică noaptea e un sfetnic bun. Nu la mine-n ogradă.</p>
+<p>Mai într-o stare de veghe, mai adormit d-ăla cu zvâcnit de picior, când simți că aluneci și cazi, am tras de a doua bucată de noapte până alarma lui Mr. H a hotărât să tranșeze situația. Ce bine, câteodată, în situații d-astea în care parcă-s încleștată aiurea și-ntr-o parte și-ntr-alta, mă bucur că vine o secure din exterior, care taie nodul gordian, așa cum eu nu mă pricep sau hotărăsc.</p>
+<p>Îmi pipăi mintea și gândurile, să culeg din ele starea care mă animă pe interior, îmi scanez și corpul, să văd dacă am mai cules de pe vreundeva vreo durere, și, surprinzător la cum mi s-a scurs noaptea, sunt calmă, am o neutralitate care s-a lipit de sânge și-mi îmbibă kilometrii din mine cu o impasibilitate, cu o neperturbare. Mulțam Universule, nu știu ce-am făcut de m-am calificat la starea asta, dar să fie primită!</p>
+<p style="text-align: center;">***</p>
+<p>Nici măcar precipitarea cauzată de dimineața asta cu un twist, trezirea atât de devreme și plecarea lui Mr. H la birou, nu mă tulbură și nu mă scoate din ale mele, din liniaritatea acțiunilor: îmi beau apa caldă în același ritm, îmi fac smoothieul ca-n fiecare zi, plus fratele lui mai lichid, ceaiul.</p>
+<p>Mai am o oră plină de timp al meu, integral al meu, până la micul dejun al mamei.</p>
+<p>Dispariția pastilei pentru tiroidă nu-mi mai franjurează micul meu timp, pe care azi vreau să mi-l fac magic. Am poftă de văzut lucruri frumoase, indiferent cum vine acest frumos la mine: design interior mai fistichiu, cu multe straturi de culori, de texturi, cu stări îmbibate în țesături, antichități mai puțin obișnuite, care-mi ating și tresaltă niște resorturi interioare extrem de intime, de nici nu știam că le am acolo, pitite, cu natură cu o mie de nuanțe de verde și o mie de sunete de clipocit de apă, mi-am făcut un melanj în living din toate astea și le sorb și le deșir cu o încântare maximă.</p>
+<p>De după colțul minții mă așteaptă lista de treburi ale zilei, cu făcutul de curat și de mâncare, că mă face să mă afund mai cu voluptate și cu uitare de viitor, dar cu maximizare de prezent, în ce mi-am copt aici, la ceas de dimineață. Da, știu, fericirea e o alegere personală. La fel e și drama. Îmi trebe voință în exercițiul ăsta al vieții prin care să cotesc drumul ăla care mă duce îmbietor de drept direct la dramă, știu că imediat pe dreapta e și fericirea, dar ce-mi place să mă fac că nu știu!</p>
+<p style="text-align: center;">***</p>
+<p>La micul dejun am o mamă relaxată la auzul că suntem doar noi două acasă.</p>
+<p>De când e aici, am simțit constant că e mai liniștită când nu e nicio persoană de sex masculin prin preajmă. Probabil că, deși mintea ei nu cred că-și mai aduce aminte, corpul n-a uitat niciodată traumele pe care le-a stocat el, cu sfințenie, în sertarele lui, traume în care, invariabil, călăii au fost bărbații din viața ei iar acum, când nu mai are niciun filtru de control, toate alea stătute ies cu nonșalanță la suprafață.</p>
+<p>În mod normal, atunci când lași garda jos, când controlul și nevoia de control nu-ți mai dictează acțiunile și modul cum te prezinți în viața ta și în fața altora, vin din adâncuri &quot;demonii&quot; să-i vezi, să-i iei la o șuetă și să-i liniștești, să nu te mai scormone și sape neștiut. La mama, acum vin că au sesizat lipsa barierelor, dar vin degeaba, e tardiv. La drept vorbind, am eu așa o bănuială că și dacă ar fi venit mai devreme, tot degeaba ar fi venit, mama a avut un dar extraordinar de a băga sub preș, de a se preface, că nu cred că ar fi avut tăria. N-am nici eu mereu tăria, care totuși am avut acces la niște informații, care mi-am deschis mintea și inima și pieptul să mă dezgolesc și să mă spăl.</p>
+<p style="text-align: center;">***</p>
+<p>Deși anunțată, când am ajuns cu curățenia la ele, i-am prins și surprinderea de pe chip dar și neplăcerea. Dacă într-un strat de-al ei n-ar ști, indubitabil, că supraviețuirea ei e strâns legată de prezența mea, nici pe mine nu m-ar accepta și agrea în viața ei. N-are ce face, așa că își ia fața cu mutre și se așează pe fotoliu, cât timp schimb eu lenjeria, scutur covoare, aspir, spăl, frec. Iar când vrea să se așeze înapoi, o opresc și-o bag, aproape mai mereu împinsă de la spate, în duș. Abia acolo, abia când apa îi cade cald pe carne și-o săpunesc, și-o masez, și-o usuc, se desface și ea cu totul și devine plastilină. Azi am avut ajutor de nădejde starea blajină ce mi s-a așezat în inimă, dar sunt dăți în care atâta mă încordez și mă stresez și irit până ajunge ea la starea de maleabilitate, că nici nu mai sunt capabilă să mă bucur de bucuria ei, doar șterg grăbită sarcina din listă și plec mai departe.</p>
+<p>Azi am putut să-i simt deschiderea cum efectiv a inundat camera. Off, măi mamă, dac-ai avea încredere în mine! Dar tu n-ai, că n-ai avut niciodată, în nimeni. Iar gena asta sigur am preluat-o.</p>
+<p style="text-align: center;">***</p>
+<p>Prin podcasturi și legume tocate, mi-am continuat ziua liniștită și cumpănită, nu m-am mai dat în brânci să le termin pe toate cât mai repede, că oricum nu mă așteaptă niciun premiu pe nicăieri, ba, din contră, mi se strânge stomacul ca un balon dezumflat brusc.</p>
+<p>Sunt sigură că, pe unde am trecut azi, prin casă, am lăsat în urma mea liniște și ea s-a lipit și de mama, în drumul ei spre prânz. Nu comentează meniul, dar de abia mănâncă, e mai mult o ciuguleală de vrăbiuță. Chiar dacă o tot încânt și cu aia și cu aia, îmi spune mic că nu poate, că-i obosită. Și cred că are dreptate, mă uit la ea și mă înfioară oboseala asta care i s-a infiltrat în oase atât de mult, că ele o azvârle și-n afară, dacă ești în proximitatea mamei, îi simți efectiv tangibil istovirea. N-o forțez și o duc înapoi la ea sus, la Sassy a ei, să-și tragă sufletul.</p>
+<p>10 minute mai târziu, mama doarme.</p>
+<p style="text-align: center;">***</p>
+<p>Termin de bifat treburile casnice, alea multe și mărunte și nesemnificative care îți mănâncă timp și energie, târzior în după-amiază, și mă recompensez cu un documentar. Halal recompensă! Dacă n-am plâns de se scuturau hainele pe mine.</p>
+<p>Cică în intervalul - 6 luni (adică din uter) și până la 7 ani, copilul poate trăi 5 tipuri mari și late de traume: trauma de respingere, trauma de abandon, trauma de trădare, trauma de nedreptate și trauma de umilință. Cine zice că un copil POATE, dar nu neapărat o face, e fie pueril, fie visător. Eu am convingerea că toți copiii, și implicit adulți care devin, trăiesc una, două sau mai multe din aceste traume. Iar unii, mai &quot;norocoși&quot; sau mai lacomi, le iau pe toate, să fie. La ăștia premianții, intru și eu. Pare că tot ce-ți vine ulterior în viață, după 7 ani, sunt de fapt iterații noi ale acelorași traume, un fel de aceleași Mării cu alte pălării și vin până le vezi și îți sufleci mânecile sufletului și te apuci să le speli.</p>
+<p>Mă uit la documentarul ăsta și parcă văd traumele scrise cu litere mari pe cei care &quot;joacă&quot; în el. Mă uit la bărbatul ăsta spilcuit, la 4 ace, sugrumat de cravată, cu manșete cu butoni și costum scump, trufaș, cu atitudine de învingător, de om reușit în viața materială, cum intră în cabinetul de hipnoză. N-a venit de bunăvoie, a fost împins de la spate, nu crede el în prostii d-astea. Fast forward 15 minute mai târziu, plânge ca un copil lovit și plâng și eu cu el.</p>
+<p>Doamne, suntem atât de amărâți când suntem deconectați de la ce e esențial și vital pentru noi, ce nu e material, dar afișăm ca nebunii lozinca &quot;eu sunt puternic!&quot;, nu putem accepta să fim văzuți mici. Nici nu ne gândim că tot noi ne conținem și vindecarea. Suntem atât de preocupați de cum dăm în fața celorlalți, a ălora din afara noastră, că nu ne mai pasă că ne ucidem cu cruzime și cu încetinitorul în interiorul nostru. Unii nu lăsăm, aproape deloc, să se vadă nimic din noi, ăia care suntem cu adevărat, că ne tăiem practic craca de sub picioarele pe care am putea să ne ridicăm drepți, dar vulnerabili. Iar pentru că nu ne arătăm fețele interioare, ne înconjurăm de oameni de aceeași factură, la fel de ermetici, la fel de &quot;puternici&quot;, de &quot;realizați în viață&quot;, de autosuprimați emoțional.</p>
+<p>Mi-aduc aminte cât de mult mă intimidau, și-o mai fac și acum dar mult mai rar, unii oameni, în genere, ăia de pe crăcile ierarhice înalte ale societății moderne, care face scări și trepte, în funcție de câte ai în afara ta. Eram al naibii de atentă la ce cuvinte folosesc, să nu creadă ei că io-s proastă, cum mă îmbrăcam, cum mă purtam, să nu cumva să mă judece și să mă scadă în vreun fel, deși niciunul nu mă cunoștea cu adevărat. Acum, de cele mai multe ori, mi-am împerecheat intimidatul ăsta ciudat cu știutul ăsta inefabil că suntem cu toții traumatizați, de una, două sau 5 traume dar și că orice comparație între două ființe umane e stupidă maxim. Suntem unici. Fucked up, dar unici. Că ăsta e și farmecul.</p>
+<p style="text-align: center;">***</p>
+<p>Îl aștept pe Mr. H, să mă culcușesc eu în siguranța pe care mi-o dă prezența lui.</p>
+<p>De ceva timp, simt o răceală în el, dar mereu o pun pe seama oboselii. Numa' că de la un timp, parcă motivul ăsta al oboselii nu mai stă în picioare cu aceeași tărie ca la început, parcă în spatele lui tremură înfricoșător altceva. Așa că, la ceas de seara, de vineri seara, că așa-mi găsesc eu momentele ideale pentru discuții deschise, de comunicare, îl provoc să-mi spună ce-l apasă.</p>
+<p>Mai bine tăceam. Mai bine mă făceam că plouă.</p>
+<br/>
+<br/>
+<div class="flex justify-between">
+  <div>
+    <a href="/blog/ziua-331/">Postarea anterioară</a>
+  </div>
+  <div>
+    <a href="/blog/ziua-333/">Postarea următoare</a>
+  </div>
+</div>
+
+        </div>
+    </article>
+</div>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org"
+  ,"@type": "BlogPosting"
+  ,"mainEntityOfPage": {
+     "@type": "WebPage"
+    ,"@id": "https://blogdestare.com/blog/ziua-332/"
+  }
+  ,"headline": "Ziua 332"
+  ,"datePublished": "2022-12-09"
+  ,"dateModified": "2022-12-09"
+  
+  ,"author": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  ,"publisher": [
+    
+      {
+         "@type": "Person"
+        ,"name": "Biannca Locatelli"
+      }
+      
+    
+  ]
+  
+  ,"description": "Doamne, suntem atât de amărâți când suntem deconectați de la ce e esențial și vital pentru noi, ce nu e material, dar afișăm ca nebunii lozinca &#x27;eu sunt puternic!&#x27;, nu putem accepta să fim văzuți mici. Suntem atât de preocupați de cum dăm în fața celorlalți, că nu ne mai pasă că ne ucidem cu cruzime și cu încetinitorul în interiorul nostru. Iar pentru că nu ne arătăm fețele interioare, ne înconjurăm de oameni de aceeași factură, la fel de ermetici, la fel de &#x27;puternici&#x27;, de &#x27;realizați în viață&#x27;, de autosuprimați emoțional."
+  ,"articleBody": "Spargerea nopții, și implicit a somnului, în două, cu haltă la ora 3, cred că e una dintre cele mai nefericite situații pentru mine, în această perioadă a vieții. Nu am excelat niciodată la capitolul somn d-ăla plin, odihnitor, pentru că am fost mereu un vulcan înăuntru cu aparență de zen în afară, dar parcă n-am dormit niciodată atât de prostca-n ultimul an. Cu mici excepții, pe care le consider nopți de avarii, ce simt ele ultimele picături pe fundul generatorului meu de zvâc în zi, nopțile mele parcă nici nu sunt nopți. Sunt surorile vitrege, mai negre la suflet, ale zilelor mele, la propriu, mi se pare o extensie cantitativă a acestora din urmă.Azi-noapte la 3, corpul n-a mai părut surprins de trezire, cred eu că, la un nivel de substrat al meu, știam carnal că vine trezirea, așa că m-am ridicat natural, am luat în plină față și plămâni mirosul de la mama, m-am trezit și m-am reîntors în pat calmă, cu stropi de resemnare prin vene și gânduri. Pot schimba? Da, dacă m-aș încorda un pic, aș schimba modul cum percep plecatul ăsta din pat și la revenire, aș putea să-mi zic, mulțumită, că gata, am rezolvat ce aveam de rezolvat, hai fuguța, pe tărâm de vise. La mine însă, pentru că trenează obișnuința de a mă plânge, la care se adaugă izul care-mi oprește aerul înainte de a intra în nări, de zici că am niște ventilatoare în nas ce se opun cu o forță mai mare decât cea a aerului ce vrea să intre, cocktailul ăsta mă ține, de multe ori trează încă mult timp după ce m-am reașezat în patul cald, iar respirația nu îmi mai e speriată de niciun balaur. Iar în răstimpul ăsta, mintea începe să ronțăie și de aici, dacă nu-s atentă și prezentă, se termină feng shui-ul total. Cică noaptea e un sfetnic bun. Nu la mine-n ogradă.Mai într-o stare de veghe, mai adormit d-ăla cu zvâcnit de picior, când simți că aluneci și cazi, am tras de a doua bucată de noapte până alarma lui Mr. H a hotărât să tranșeze situația. Ce bine, câteodată, în situații d-astea în care parcă-s încleștată aiurea și-ntr-o parte și-ntr-alta, mă bucur că vine o secure din exterior, care taie nodul gordian, așa cum eu nu mă pricep sau hotărăsc.Îmi pipăi mintea și gândurile, să culeg din ele starea care mă animă pe interior, îmi scanez și corpul, să văd dacă am mai cules de pe vreundeva vreo durere, și, surprinzător la cum mi s-a scurs noaptea, sunt calmă, am o neutralitate care s-a lipit de sânge și-mi îmbibă kilometrii din mine cu o impasibilitate, cu o neperturbare. Mulțam Universule, nu știu ce-am făcut de m-am calificat la starea asta, dar să fie primită!***Nici măcar precipitarea cauzată de dimineața asta cu un twist, trezirea atât de devreme și plecarea lui Mr. H la birou, nu mă tulbură și nu mă scoate din ale mele, din liniaritatea acțiunilor: îmi beau apa caldă în același ritm, îmi fac smoothieul ca-n fiecare zi, plus fratele lui mai lichid, ceaiul.Mai am o oră plină de timp al meu, integral al meu, până la micul dejun al mamei.Dispariția pastilei pentru tiroidă nu-mi mai franjurează micul meu timp, pe care azi vreau să mi-l fac magic. Am poftă de văzut lucruri frumoase, indiferent cum vine acest frumos la mine: design interior mai fistichiu, cu multe straturi de culori, de texturi, cu stări îmbibate în țesături, antichități mai puțin obișnuite, care-mi ating și tresaltă niște resorturi interioare extrem de intime, de nici nu știam că le am acolo, pitite, cu natură cu o mie de nuanțe de verde și o mie de sunete de clipocit de apă, mi-am făcut un melanj în living din toate astea și le sorb și le deșir cu o încântare maximă.De după colțul minții mă așteaptă lista de treburi ale zilei, cu făcutul de curat și de mâncare, că mă face să mă afund mai cu voluptate și cu uitare de viitor, dar cu maximizare de prezent, în ce mi-am copt aici, la ceas de dimineață. Da, știu, fericirea e o alegere personală. La fel e și drama. Îmi trebe voință în exercițiul ăsta al vieții prin care să cotesc drumul ăla care mă duce îmbietor de drept direct la dramă, știu că imediat pe dreapta e și fericirea, dar ce-mi place să mă fac că nu știu!***La micul dejun am o mamă relaxată la auzul că suntem doar noi două acasă.De când e aici, am simțit constant că e mai liniștită când nu e nicio persoană de sex masculin prin preajmă. Probabil că, deși mintea ei nu cred că-și mai aduce aminte, corpul n-a uitat niciodată traumele pe care le-a stocat el, cu sfințenie, în sertarele lui, traume în care, invariabil, călăii au fost bărbații din viața ei iar acum, când nu mai are niciun filtru de control, toate alea stătute ies cu nonșalanță la suprafață.În mod normal, atunci când lași garda jos, când controlul și nevoia de control nu-ți mai dictează acțiunile și modul cum te prezinți în viața ta și în fața altora, vin din adâncuri &amp;quot;demonii&amp;quot; să-i vezi, să-i iei la o șuetă și să-i liniștești, să nu te mai scormone și sape neștiut. La mama, acum vin că au sesizat lipsa barierelor, dar vin degeaba, e tardiv. La drept vorbind, am eu așa o bănuială că și dacă ar fi venit mai devreme, tot degeaba ar fi venit, mama a avut un dar extraordinar de a băga sub preș, de a se preface, că nu cred că ar fi avut tăria. N-am nici eu mereu tăria, care totuși am avut acces la niște informații, care mi-am deschis mintea și inima și pieptul să mă dezgolesc și să mă spăl.***Deși anunțată, când am ajuns cu curățenia la ele, i-am prins și surprinderea de pe chip dar și neplăcerea. Dacă într-un strat de-al ei n-ar ști, indubitabil, că supraviețuirea ei e strâns legată de prezența mea, nici pe mine nu m-ar accepta și agrea în viața ei. N-are ce face, așa că își ia fața cu mutre și se așează pe fotoliu, cât timp schimb eu lenjeria, scutur covoare, aspir, spăl, frec. Iar când vrea să se așeze înapoi, o opresc și-o bag, aproape mai mereu împinsă de la spate, în duș. Abia acolo, abia când apa îi cade cald pe carne și-o săpunesc, și-o masez, și-o usuc, se desface și ea cu totul și devine plastilină. Azi am avut ajutor de nădejde starea blajină ce mi s-a așezat în inimă, dar sunt dăți în care atâta mă încordez și mă stresez și irit până ajunge ea la starea de maleabilitate, că nici nu mai sunt capabilă să mă bucur de bucuria ei, doar șterg grăbită sarcina din listă și plec mai departe.Azi am putut să-i simt deschiderea cum efectiv a inundat camera. Off, măi mamă, dac-ai avea încredere în mine! Dar tu n-ai, că n-ai avut niciodată, în nimeni. Iar gena asta sigur am preluat-o.***Prin podcasturi și legume tocate, mi-am continuat ziua liniștită și cumpănită, nu m-am mai dat în brânci să le termin pe toate cât mai repede, că oricum nu mă așteaptă niciun premiu pe nicăieri, ba, din contră, mi se strânge stomacul ca un balon dezumflat brusc.Sunt sigură că, pe unde am trecut azi, prin casă, am lăsat în urma mea liniște și ea s-a lipit și de mama, în drumul ei spre prânz. Nu comentează meniul, dar de abia mănâncă, e mai mult o ciuguleală de vrăbiuță. Chiar dacă o tot încânt și cu aia și cu aia, îmi spune mic că nu poate, că-i obosită. Și cred că are dreptate, mă uit la ea și mă înfioară oboseala asta care i s-a infiltrat în oase atât de mult, că ele o azvârle și-n afară, dacă ești în proximitatea mamei, îi simți efectiv tangibil istovirea. N-o forțez și o duc înapoi la ea sus, la Sassy a ei, să-și tragă sufletul.10 minute mai târziu, mama doarme.***Termin de bifat treburile casnice, alea multe și mărunte și nesemnificative care îți mănâncă timp și energie, târzior în după-amiază, și mă recompensez cu un documentar. Halal recompensă! Dacă n-am plâns de se scuturau hainele pe mine.Cică în intervalul - 6 luni (adică din uter) și până la 7 ani, copilul poate trăi 5 tipuri mari și late de traume: trauma de respingere, trauma de abandon, trauma de trădare, trauma de nedreptate și trauma de umilință. Cine zice că un copil POATE, dar nu neapărat o face, e fie pueril, fie visător. Eu am convingerea că toți copiii, și implicit adulți care devin, trăiesc una, două sau mai multe din aceste traume. Iar unii, mai &amp;quot;norocoși&amp;quot; sau mai lacomi, le iau pe toate, să fie. La ăștia premianții, intru și eu. Pare că tot ce-ți vine ulterior în viață, după 7 ani, sunt de fapt iterații noi ale acelorași traume, un fel de aceleași Mării cu alte pălării și vin până le vezi și îți sufleci mânecile sufletului și te apuci să le speli.Mă uit la documentarul ăsta și parcă văd traumele scrise cu litere mari pe cei care &amp;quot;joacă&amp;quot; în el. Mă uit la bărbatul ăsta spilcuit, la 4 ace, sugrumat de cravată, cu manșete cu butoni și costum scump, trufaș, cu atitudine de învingător, de om reușit în viața materială, cum intră în cabinetul de hipnoză. N-a venit de bunăvoie, a fost împins de la spate, nu crede el în prostii d-astea. Fast forward 15 minute mai târziu, plânge ca un copil lovit și plâng și eu cu el.Doamne, suntem atât de amărâți când suntem deconectați de la ce e esențial și vital pentru noi, ce nu e material, dar afișăm ca nebunii lozinca &amp;quot;eu sunt puternic!&amp;quot;, nu putem accepta să fim văzuți mici. Nici nu ne gândim că tot noi ne conținem și vindecarea. Suntem atât de preocupați de cum dăm în fața celorlalți, a ălora din afara noastră, că nu ne mai pasă că ne ucidem cu cruzime și cu încetinitorul în interiorul nostru. Unii nu lăsăm, aproape deloc, să se vadă nimic din noi, ăia care suntem cu adevărat, că ne tăiem practic craca de sub picioarele pe care am putea să ne ridicăm drepți, dar vulnerabili. Iar pentru că nu ne arătăm fețele interioare, ne înconjurăm de oameni de aceeași factură, la fel de ermetici, la fel de &amp;quot;puternici&amp;quot;, de &amp;quot;realizați în viață&amp;quot;, de autosuprimați emoțional.Mi-aduc aminte cât de mult mă intimidau, și-o mai fac și acum dar mult mai rar, unii oameni, în genere, ăia de pe crăcile ierarhice înalte ale societății moderne, care face scări și trepte, în funcție de câte ai în afara ta. Eram al naibii de atentă la ce cuvinte folosesc, să nu creadă ei că io-s proastă, cum mă îmbrăcam, cum mă purtam, să nu cumva să mă judece și să mă scadă în vreun fel, deși niciunul nu mă cunoștea cu adevărat. Acum, de cele mai multe ori, mi-am împerecheat intimidatul ăsta ciudat cu știutul ăsta inefabil că suntem cu toții traumatizați, de una, două sau 5 traume dar și că orice comparație între două ființe umane e stupidă maxim. Suntem unici. Fucked up, dar unici. Că ăsta e și farmecul.***Îl aștept pe Mr. H, să mă culcușesc eu în siguranța pe care mi-o dă prezența lui.De ceva timp, simt o răceală în el, dar mereu o pun pe seama oboselii. Numa&#x27; că de la un timp, parcă motivul ăsta al oboselii nu mai stă în picioare cu aceeași tărie ca la început, parcă în spatele lui tremură înfricoșător altceva. Așa că, la ceas de seara, de vineri seara, că așa-mi găsesc eu momentele ideale pentru discuții deschise, de comunicare, îl provoc să-mi spună ce-l apasă.Mai bine tăceam. Mai bine mă făceam că plouă.      Postarea anterioară        Postarea următoare  "
+  
+    ,"image": "https://blogdestare.com/blog/ziua-332/images/ziua-332.png"
+  
+}
+</script>
+
+
+
+  </div>
+  <footer>
+    <!-- Social Media Icons -->
+    <div class="mt-10 flex justify-center text-gray-400">
+        <div class="px-4 text-gray-400">
+            (c) 2022-2024 Biannca Locatelli
+        </div>
+        
+        
+        <a  href="https:&#x2F;&#x2F;www.instagram.com&#x2F;bianncalocatelli"
+            title="Instagram"  class="text-gray-400 hover:text-gray-500"
+            target="_blank">
+            
+            <span class="sr-only">instagram</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 2500 2500"><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/><path d="M833.4,1250c0-230.11,186.49-416.7,416.6-416.7s416.7,186.59,416.7,416.7-186.59,416.7-416.7,416.7S833.4,1480.11,833.4,1250m-225.26,0c0,354.5,287.36,641.86,641.86,641.86S1891.86,1604.5,1891.86,1250,1604.5,608.14,1250,608.14,608.14,895.5,608.14,1250M1767.27,582.69a150,150,0,1,0,150.06-149.94h-0.06a150.07,150.07,0,0,0-150,149.94M745,2267.47c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28,7.27-505.15c5.55-121.87,26-188,43-232.13,22.72-58.36,49.78-100,93.5-143.78s85.32-70.88,143.78-93.5c44-17.16,110.26-37.46,232.13-43,131.76-6.06,171.34-7.27,505-7.27s373.28,1.31,505.15,7.27c121.87,5.55,188,26,232.13,43,58.36,22.62,100,49.78,143.78,93.5s70.78,85.42,93.5,143.78c17.16,44,37.46,110.26,43,232.13,6.06,131.87,7.27,171.34,7.27,505.15s-1.21,373.28-7.27,505.15c-5.55,121.87-25.95,188.11-43,232.13-22.72,58.36-49.78,100-93.5,143.68s-85.42,70.78-143.78,93.5c-44,17.16-110.26,37.46-232.13,43-131.76,6.06-171.34,7.27-505.15,7.27s-373.28-1.21-505-7.27M734.65,7.57c-133.07,6.06-224,27.16-303.41,58.06C349,97.54,279.38,140.35,209.81,209.81S97.54,349,65.63,431.24c-30.9,79.46-52,170.34-58.06,303.41C1.41,867.93,0,910.54,0,1250s1.41,382.07,7.57,515.35c6.06,133.08,27.16,223.95,58.06,303.41,31.91,82.19,74.62,152,144.18,221.43S349,2402.37,431.24,2434.37c79.56,30.9,170.34,52,303.41,58.06C868,2498.49,910.54,2500,1250,2500s382.07-1.41,515.35-7.57c133.08-6.06,223.95-27.16,303.41-58.06,82.19-32,151.86-74.72,221.43-144.18s112.18-139.24,144.18-221.43c30.9-79.46,52.1-170.34,58.06-303.41,6.06-133.38,7.47-175.89,7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43S2150.95,97.54,2068.86,65.63c-79.56-30.9-170.44-52.1-303.41-58.06C1632.17,1.51,1589.56,0,1250.1,0S868,1.41,734.65,7.57"/></svg>
+        </a>
+        
+        
+    </div>
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-center text-base leading-6">
+            
+        </p>
+    </div>
+</footer>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+</html>
