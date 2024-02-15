@@ -36,11 +36,8 @@ La mama, totul e cum e normal să fie! Strâng doar litiera lui Sassy, le dau s�
 
 Pisicuța asta e topită după mine și încep să mă topesc și eu după ea. Mereu m-am considerat mai iubitoare de câini decât de pisici dar uite că ochioasa asta mică m-a vrăjit. Cât timp fac curat la mama, ea mă așteaptă la ușă. Fac duș, ea mă așteaptă lângă duș, pe preșuleț. Sunt în dormitor, ea doarme pe scaunul de lângă patul în care stau. E îngerul meu păzitor dar blănos.
 
-@media screen and (min-width:768px){.stk-ded594c{flex:1 1 66.7% !important}}
 
 Pentru prima dată în istoria noastră împreună, Spikylina mi-a dormit în poală. Data trebe consemnată! Puiuca asta, care a răzbit ea mic copil pe străzi, iarnă sau vară, fără glas probabil de la vreo răceală puternică, încă are în ea însemnele neîncrederii. Chiar dacă mă urmează peste tot, cea mai mare reușită a fost să o țin în brațe. Dar iată că azi, s-a făcut colac peste burtica mea și am respirat amândouă la unison. Poate că nu e mare lucru pentru altcineva, dar mie mi-a umplut inima de bine și de pufoșenie. O jumătate de oră mai târziu, amorțită de la stat într-o singură poziție, am mai fost mai bine decât am fost ultimele zile la un loc.
-
-@media screen and (min-width:768px){.stk-c02fec4{flex:1 1 33.3% !important}}
 
 
 <div class="flex justify-center">
